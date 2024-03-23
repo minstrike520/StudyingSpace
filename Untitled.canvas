@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"fd3410a8e5bdc030","x":-360,"y":-125,"width":260,"height":125,"color":"2","type":"text","text":"# 化學筆記\n"},
-		{"id":"5dfb4c60feeb95fe","x":60,"y":-200,"width":400,"height":400,"type":"file","file":"化學/建中化學高三下一段檢討.md"},
+		{"id":"5dfb4c60feeb95fe","x":60,"y":-200,"width":400,"height":400,"type":"file","file":"化學筆記/建中化學高三下一段檢討.md"},
 		{"id":"e6f48f57f94187a7","x":-362,"y":80,"width":265,"height":60,"type":"text","text":"Notice: 此版面還在試驗階段"}
 	],
 	"edges":[

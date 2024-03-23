@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化學/建中化學高三下一段檢討.md",
+                "file": "軟體問題小抄/Bash指令的運用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化學/建中化學高三下一段檢討.md",
+                "file": "軟體問題小抄/Bash指令的運用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化學/建中化學高三下一段檢討.md",
+                "file": "軟體問題小抄/Bash指令的運用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "化學/建中化學高三下一段檢討.md"
+                "file": "軟體問題小抄/Bash指令的運用.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "011aa9cc0f003c88",
   "lastOpenFiles": [
-    "軟體問題/Git Authentication failed.md",
-    "化學/建中化學高三下一段檢討.md",
-    "軟體問題",
-    "化學",
+    "軟體問題小抄/Git Authentication failed.md",
+    "軟體問題小抄/Bash指令的運用.md",
+    "化學筆記/建中化學高三下一段檢討.md",
+    "軟體問題/Untitled.md",
+    "軟體問題小抄",
+    "化學筆記",
     "Untitled.canvas"
   ]
 }
