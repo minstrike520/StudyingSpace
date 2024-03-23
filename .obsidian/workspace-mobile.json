@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "軟體問題/Bash指令的運用.md",
-                "mode": "source",
-                "source": false
+                "file": "化學筆記/建中化學高三下一段檢討.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "軟體問題/Bash指令的運用.md",
+            "file": "化學筆記/建中化學高三下一段檢討.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "軟體問題/Bash指令的運用.md",
+            "file": "化學筆記/建中化學高三下一段檢討.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "軟體問題/Bash指令的運用.md"
+            "file": "化學筆記/建中化學高三下一段檢討.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "6c0456995db3d969",
   "lastOpenFiles": [
+    "軟體問題小抄/Bash指令的運用.md",
     "軟體問題/Git Authentication failed.md",
     "軟體問題/Bash指令的運用.md",
     "化學/建中化學高三下一段檢討.md",
