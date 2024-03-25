@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "baseFontSize": 17,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "MingLiU-ExtB",
+  "interfaceFontFamily": "Arial Unicode MS"
 }
