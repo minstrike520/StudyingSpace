@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "數學筆記/函數的極限.md",
-                "mode": "source",
+                "file": "數學筆記/二次曲線/拋物線.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "數學筆記/函數的極限.md",
+            "file": "數學筆記/二次曲線/拋物線.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "數學筆記/函數的極限.md",
+            "file": "數學筆記/二次曲線/拋物線.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "數學筆記/函數的極限.md"
+            "file": "數學筆記/二次曲線/拋物線.md"
           }
         }
       }
@@ -187,17 +187,19 @@
   },
   "active": "3c91780a3b07faa9",
   "lastOpenFiles": [
+    "物理筆記/測試頁.md",
+    "數學筆記/函數的極限.md",
+    "數學筆記/二次曲線/拋物線.md",
+    "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
+    "化學筆記/建中化學高三下一段檢討.md",
+    "數學筆記/二次曲線",
     "化學筆記/化學-學習脈絡_preview.png",
     "物理筆記/公式地圖.canvas",
     "軟體問題小抄/Git Authentication failed.md",
-    "化學筆記/建中化學高三下一段檢討.md",
     "物理筆記/電流的磁效應.md",
-    "物理筆記/測試頁.md",
     "物理筆記",
     "化學筆記/化學-學習脈絡_學習地圖_preview.png",
     "化學筆記/化學-學習脈絡.canvas",
-    "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
-    "數學筆記/函數的極限.md",
     "數學筆記",
     "聊天小記/240323_preview.png",
     "聊天小記/240323.canvas",
