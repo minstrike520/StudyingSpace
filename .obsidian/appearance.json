@@ -1,7 +1,8 @@
 {
-  "accentColor": "",
-  "baseFontSize": 17,
+  "accentColor": "#74b878",
+  "baseFontSize": 12,
   "theme": "obsidian",
   "textFontFamily": "",
-  "interfaceFontFamily": "Arial Unicode MS"
+  "interfaceFontFamily": "Arial Unicode MS",
+  "cssTheme": "Typewriter"
 }
