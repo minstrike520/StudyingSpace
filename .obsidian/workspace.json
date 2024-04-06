@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6af74fb9de6fa807",
+        "id": "11bf4ccf08ce58c4",
         "type": "tabs",
         "children": [
           {
-            "id": "011aa9cc0f003c88",
+            "id": "941a3afd60b5a61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "數學筆記/二次曲線/拋物線.md",
+                "file": "化學筆記/(I) CH2 氣體/氣壓計模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "數學筆記/二次曲線/拋物線.md",
+                "file": "化學筆記/(I) CH2 氣體/氣壓計模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "數學筆記/二次曲線/拋物線.md",
+                "file": "化學筆記/(I) CH2 氣體/氣壓計模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "數學筆記/二次曲線/拋物線.md"
+                "file": "化學筆記/(I) CH2 氣體/氣壓計模型.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,12 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "011aa9cc0f003c88",
+  "active": "941a3afd60b5a61b",
   "lastOpenFiles": [
+    "Hamlet.md",
+    "測試頁.md",
+    "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
     "數學筆記/函數的極限.md",
+    "數學筆記/函數的極限.md~",
+    "數學筆記/4913",
     "數學筆記/二次曲線/拋物線.md",
     "Excalidraw/Drawing 2024-03-28 20.01.37.excalidraw.md",
-    "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
     "Excalidraw",
     "軟體問題小抄/Bash Directory Shortcuts.md",
     "軟體問題小抄/Git Undo Uncommitted Or Unsaved Changes.md",
@@ -166,7 +171,6 @@
     "化學筆記/(I) CH2 氣體",
     "化學筆記/Untitled.md",
     "化學筆記/化學-學習脈絡_學習地圖_preview.png",
-    "測試頁.md",
     "數學筆記/二次曲線",
     "物理筆記/電流的磁效應.md",
     "物理筆記/公式地圖.canvas",
@@ -186,7 +190,6 @@
     "Untitled 1.canvas",
     "化學筆記/化學計量-解題原則.md",
     "軟體問題/Untitled.md",
-    "軟體問題小抄",
-    "化學筆記"
+    "軟體問題小抄"
   ]
 }
