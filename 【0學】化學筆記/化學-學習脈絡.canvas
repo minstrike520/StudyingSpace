@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"b8f58c3e935a4ad3","type":"group","x":-820,"y":540,"width":940,"height":660,"color":"5","label":"實踐"},
+		{"id":"44e4bc260fc58cb4","type":"group","x":0,"y":-260,"width":661,"height":540,"label":"CH1"},
+		{"id":"882b91501f2ddba8","type":"group","x":-680,"y":20,"width":599,"height":420,"label":"學習地圖"},
+		{"id":"e90de94d8ad0c9ba","type":"text","text":"讀大滿貫講義+重點註記","x":-416,"y":61,"width":250,"height":60},
+		{"id":"598f695c5285bcfa","type":"text","text":"照著詳解寫例題","x":-351,"y":200,"width":250,"height":60},
+		{"id":"42e8460252726108","type":"text","text":"# 化學反應與能量","x":0,"y":-260,"width":300,"height":80},
+		{"id":"91bb16f453136e37","type":"text","text":"## 化學計量","x":25,"y":-131,"width":250,"height":60},
+		{"id":"36e4f27efa87f22d","type":"text","text":"Key: 重在計算","x":360,"y":-161,"width":250,"height":60},
+		{"id":"f034d881a681e183","type":"text","text":"電子筆記","x":-660,"y":200,"width":250,"height":60},
+		{"id":"edd252623915b7e2","type":"text","text":"練各種題目(講義練習題、學校給的題目、**以前的段考題...**)","x":-351,"y":308,"width":250,"height":112},
+		{"id":"27e9792db1bd56ec","type":"text","text":"東方王影片","x":-660,"y":60,"width":162,"height":60},
+		{"id":"1a8eaa1d5a54a54a","type":"text","text":"係數比=莫爾數比","x":381,"y":-71,"width":250,"height":60},
+		{"id":"ea862ebbd6176b47","type":"text","text":"配著上課影片，學習強度就會異常增高！\n(因為會不自覺想要跟上影片節奏)","x":-452,"y":580,"width":250,"height":120},
+		{"id":"e8f3a5ef856838c2","type":"text","text":"## 反應熱","x":25,"y":35,"width":195,"height":50},
+		{"id":"209331169147551f","type":"text","text":"反應熱定義：\n$$ \\ce{\\Delta H = H_後 - H_前}$$","x":354,"y":27,"width":250,"height":73},
+		{"id":"f479b6b41d2d05c2","type":"text","text":"反應熱測量方法：\n$$\\ce{\\Delta H = m s \\Delta t}$$","x":354,"y":140,"width":250,"height":112},
+		{"id":"9a10b5d89f16b7e0","type":"text","text":"發現其實看影片應該是要在讀大滿貫之後！\n這樣子在看影片的時候會跟自己寫過的例題相呼應！","x":-160,"y":605,"width":250,"height":150},
+		{"id":"230cc73e8e513827","type":"text","text":"剛剛有點遲疑...突然發現大滿貫的題目確實有點少。化學三冊以後跟物理全部都沒關係(有學校講義)，但是化學一二冊不夠寫啊...不如之後還是再去買領航好了。","x":-452,"y":720,"width":250,"height":230},
+		{"id":"1b753aca05d7d91d","type":"text","text":"在看影片的時候，有時候有些老師講的細節都不知道要抄在講義的哪裡，但是如果要打在電子筆記裡面是不是變成要把其他講義上有的資訊也都打進來才比較完整啊...","x":-160,"y":860,"width":250,"height":240},
+		{"id":"7d28edcc1ac7eba5","type":"text","text":"# 3/23\n1545-1715 YT影片吸收+對照大滿貫重點整理\n1715-1745 寫大滿貫例題\n1745-1800 YT影片：例題講解","x":-800,"y":560,"width":300,"height":200}
+	],
+	"edges":[
+		{"id":"a657c3b13bdcc2fe","fromNode":"91bb16f453136e37","fromSide":"right","toNode":"36e4f27efa87f22d","toSide":"left"},
+		{"id":"e183986e242d9a9d","fromNode":"27e9792db1bd56ec","fromSide":"right","toNode":"e90de94d8ad0c9ba","toSide":"left"},
+		{"id":"e158426d6e476ce8","fromNode":"e90de94d8ad0c9ba","fromSide":"bottom","toNode":"f034d881a681e183","toSide":"top"},
+		{"id":"9c4ca5d81bc2b4e6","fromNode":"f034d881a681e183","fromSide":"right","toNode":"598f695c5285bcfa","toSide":"left"},
+		{"id":"ddfcd4b2807126d6","fromNode":"598f695c5285bcfa","fromSide":"bottom","toNode":"edd252623915b7e2","toSide":"top"},
+		{"id":"114831e16a4e6d02","fromNode":"91bb16f453136e37","fromSide":"right","toNode":"1a8eaa1d5a54a54a","toSide":"left"},
+		{"id":"29e292fc875bb498","fromNode":"882b91501f2ddba8","fromSide":"bottom","toNode":"b8f58c3e935a4ad3","toSide":"top"},
+		{"id":"e8b876ff1674eec2","fromNode":"7d28edcc1ac7eba5","fromSide":"right","toNode":"ea862ebbd6176b47","toSide":"left"},
+		{"id":"def942c303553772","fromNode":"e8f3a5ef856838c2","fromSide":"right","toNode":"f479b6b41d2d05c2","toSide":"left"},
+		{"id":"1dbc90d90d3b04ae","fromNode":"e8f3a5ef856838c2","fromSide":"right","toNode":"209331169147551f","toSide":"left"},
+		{"id":"a5f63bfcc5af778c","fromNode":"ea862ebbd6176b47","fromSide":"right","toNode":"9a10b5d89f16b7e0","toSide":"left"},
+		{"id":"227afbb8a5ab633e","fromNode":"9a10b5d89f16b7e0","fromSide":"bottom","toNode":"230cc73e8e513827","toSide":"right"},
+		{"id":"7fc3007faba7afe1","fromNode":"230cc73e8e513827","fromSide":"bottom","toNode":"1b753aca05d7d91d","toSide":"left"}
+	]
+}

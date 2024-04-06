@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "數學筆記/函數的極限.md",
+                "file": "【0學】數學筆記/函數的極限.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
+                "file": "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
               }
             }
           },
@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
+                "file": "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
               }
             }
           },
@@ -45,7 +45,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
+                "file": "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
               }
             }
           },
@@ -55,7 +55,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
+                "file": "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md"
               }
             }
           },
@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化學筆記/(V) 有機/Untitled.md",
-                "mode": "source",
+                "file": "【2日】討論思辨/對各種情境的時程分配.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "化學筆記/(V) 有機/Untitled.md",
+            "file": "【2日】討論思辨/對各種情境的時程分配.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "化學筆記/(V) 有機/Untitled.md",
+            "file": "【2日】討論思辨/對各種情境的時程分配.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,12 +167,11 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "化學筆記/(V) 有機/Untitled.md"
+            "file": "【2日】討論思辨/對各種情境的時程分配.md"
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,39 +186,50 @@
   },
   "active": "3c91780a3b07faa9",
   "lastOpenFiles": [
-    "數學筆記/函數的極限.md",
-    "化學筆記/(V) 有機/Untitled.md",
-    "化學筆記/Untitled.md",
-    "化學筆記/IMG_20240328_001053.jpg",
+    "測試頁.md",
+    "英文小記/Untitled.md",
+    "【2日】討論思辨/對各種情境的時程分配.md",
+    "Human Rites.md",
+    "【2日】討論思辨/數學計算上那些「憑空出現」的零.md",
+    "【0學】化學筆記/建中化學高三下一段檢討.md",
+    "【2日】討論思辨",
+    "【0學】數學筆記/函數的極限.md",
+    "【0學】化學筆記/【預報】水污染的檢測.md",
+    "文學/待讀清單.md",
+    "【0學】化學筆記/化學-學習脈絡_學習地圖_preview.png",
+    "英文小記/assets/IMG_20240329_145100.jpg",
+    "英文小記/assets",
+    "IMG_20240329_145100 1.jpg",
+    "英文小記/assets/IMG_20240329_145055.jpg",
+    "【0學】化學筆記/assets",
+    "英文小記",
+    "【0學】化學筆記/HEC(I) CH2 氣體/氣壓計裝置.md",
+    "文學",
+    "【0學】化學筆記/HEC(V) 有機/Untitled.md",
+    "【0學】化學筆記/assets/IMG_20240328_001053.jpg",
     "IMG_20240328_000906.jpg",
-    "化學筆記/(V) 有機",
-    "數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
-    "數學筆記/二次曲線/拋物線.md",
-    "化學筆記/images (1).jpeg",
-    "物理筆記/電流的磁效應.md",
-    "化學筆記/化學-學習脈絡.canvas",
-    "化學筆記/(I) CH2 氣體/氣壓計模型.md",
-    "化學筆記/化學-學習脈絡_學習地圖_preview.png",
-    "化學筆記/(I) CH2 氣體",
-    "化學筆記/建中化學高三下一段檢討.md",
-    "物理筆記/測試頁.md",
-    "數學筆記/二次曲線",
-    "化學筆記/化學-學習脈絡_preview.png",
-    "物理筆記/公式地圖.canvas",
-    "軟體問題小抄/Git Authentication failed.md",
-    "物理筆記",
-    "數學筆記",
-    "聊天小記/240323_preview.png",
-    "聊天小記/240323.canvas",
-    "聊天小記",
+    "【0學】化學筆記/HEC(V) 有機",
+    "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
+    "【0學】數學筆記/二次曲線/拋物線.md",
+    "【0學】化學筆記/assets/images (1).jpeg",
+    "【0學】物理筆記/電流的磁效應.md",
+    "【0學】化學筆記/化學-學習脈絡.canvas",
+    "【0學】化學筆記/HEC(I) CH2 氣體",
+    "【0學】物理筆記/測試頁.md",
+    "【0學】數學筆記/二次曲線",
+    "【0學】化學筆記/化學-學習脈絡_preview.png",
+    "【0學】物理筆記/公式地圖.canvas",
+    "【1程】軟體問題小抄/Git Authentication failed.md",
+    "【0學】物理筆記",
+    "【0學】數學筆記",
+    "【2日】聊天小記/240323_preview.png",
+    "【2日】聊天小記/240323.canvas",
     "2024-03-23.md",
-    "軟體問題小抄/Bash指令的運用.md",
+    "【1程】軟體問題小抄/Bash指令的運用.md",
     "軟體問題/Git Authentication failed.md",
     "軟體問題/Bash指令的運用.md",
     "化學/建中化學高三下一段檢討.md",
     "File name.md",
-    "軟體問題",
-    "化學",
     "Untitled.canvas",
     "Jakak.md"
   ]
