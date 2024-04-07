@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【2日】討論思辨/META 如何討論與思辨.md",
+                "file": "【1程】軟體問題小抄/Termux shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "【2日】討論思辨/META 如何討論與思辨.md",
+            "file": "【1程】軟體問題小抄/Termux shortcuts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "【2日】討論思辨/META 如何討論與思辨.md",
+            "file": "【1程】軟體問題小抄/Termux shortcuts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "【2日】討論思辨/META 如何討論與思辨.md"
+            "file": "【1程】軟體問題小抄/Termux shortcuts.md"
           }
         }
       }
@@ -210,10 +210,12 @@
   },
   "active": "f7d53ebc491f1a2c",
   "lastOpenFiles": [
-    "【2日】討論思辨/各類筆記的安排方式與電子化.md",
-    "【2日】討論思辨/META 如何討論與思辨.md",
-    "【2日】討論思辨/數學計算上那些「憑空出現」的零.md",
+    "IMG_20240407_234520.jpg",
     "【2日】討論思辨/《湯質看本質：CLT認知負荷理論》觀後感.md",
+    "【1程】軟體問題小抄/Termux shortcuts.md",
+    "【2日】討論思辨/META 如何討論與思辨.md",
+    "【2日】討論思辨/各類筆記的安排方式與電子化.md",
+    "【2日】討論思辨/數學計算上那些「憑空出現」的零.md",
     "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md",
     "【0學】化學筆記/HEC(I) CH2 氣體/題型.md",
     "【0學】化學筆記/HEC(I) CH2 氣體/氣壓計裝置.md",
@@ -256,8 +258,6 @@
     "【0學】物理筆記",
     "【2日】聊天小記/240323_preview.png",
     "【2日】聊天小記/240323.canvas",
-    "2024-03-23.md",
-    "軟體問題/Git Authentication failed.md",
     "Untitled.canvas"
   ]
 }
