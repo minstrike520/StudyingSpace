@@ -1,6 +1,6 @@
 ## Situation
 為了讓我的這些筆記可以在手機跟筆電之間同步，我設定好了git；而為了使相關操作更加簡便，我還設定了bash script，使得push跟pull都能一鍵執行。
-
+Jdjsksk
 ## Solution
 ### REF [Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 這篇文章有點長，有些不是我需要的重點，我節錄一下最重要的部分：

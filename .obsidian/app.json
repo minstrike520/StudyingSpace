@@ -6,12 +6,11 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:toggle-comments",
     "editor:attach-file",
+    "editor:insert-horizontal-rule",
     "editor:insert-link",
     "editor:toggle-checklist-status",
-    "editor:clear-formatting",
-    "editor:configure-toolbar",
-    "bookmarks:bookmark-current-heading"
+    "bookmarks:bookmark-current-heading",
+    "editor:configure-toolbar"
   ]
 }
