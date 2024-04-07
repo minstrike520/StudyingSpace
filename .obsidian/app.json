@@ -12,5 +12,6 @@
     "editor:toggle-checklist-status",
     "bookmarks:bookmark-current-heading",
     "editor:configure-toolbar"
-  ]
+  ],
+  "attachmentFolderPath": "assets"
 }

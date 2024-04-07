@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【1程】軟體問題小抄/Termux shortcuts.md",
+                "file": "測試頁.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "【1程】軟體問題小抄/Termux shortcuts.md",
+            "file": "測試頁.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "【1程】軟體問題小抄/Termux shortcuts.md",
+            "file": "測試頁.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "【1程】軟體問題小抄/Termux shortcuts.md"
+            "file": "測試頁.md"
           }
         }
       }
@@ -210,9 +210,17 @@
   },
   "active": "f7d53ebc491f1a2c",
   "lastOpenFiles": [
-    "IMG_20240407_234520.jpg",
-    "【2日】討論思辨/《湯質看本質：CLT認知負荷理論》觀後感.md",
+    "【3文】英文小記/Untitled.md",
+    "【2日】聊天小記/240323_preview.png",
+    "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
+    "【0學】物理筆記/測試頁.md",
+    "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡.canvas",
+    "【0學】化學筆記/HEC 學習脈絡",
+    "assets/IMG_20240407_234520.jpg",
+    "assets",
+    "文學/Untitled.md",
     "【1程】軟體問題小抄/Termux shortcuts.md",
+    "【2日】討論思辨/《湯質看本質：CLT認知負荷理論》觀後感.md",
     "【2日】討論思辨/META 如何討論與思辨.md",
     "【2日】討論思辨/各類筆記的安排方式與電子化.md",
     "【2日】討論思辨/數學計算上那些「憑空出現」的零.md",
@@ -227,36 +235,28 @@
     "【1程】軟體問題小抄/Bash Directory Shortcuts.md",
     "測試頁.md",
     "Excalidraw/測試頁 2024-04-03 16.44.19.excalidraw.md",
-    "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
     "【0學】數學筆記/函數的極限.md",
     "Excalidraw",
     "【0學】化學筆記/HEC(V) 有機/Untitled.md",
-    "【0學】化學筆記/化學-學習脈絡_學習地圖_preview.png",
+    "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡_學習地圖_preview.png",
     "【0學】化學筆記/【預報】水污染的檢測.md",
-    "【0學】化學筆記/化學-學習脈絡.canvas",
-    "英文小記/Untitled.md",
     "Human Rites.md",
     "【2日】討論思辨",
-    "文學/待讀清單.md",
-    "英文小記/assets/IMG_20240329_145100.jpg",
-    "英文小記/assets",
+    "【3文】文學/待讀清單.md",
+    "assets/IMG_20240329_145100.jpg",
+    "【3文】英文小記/assets",
     "IMG_20240329_145100 1.jpg",
-    "英文小記/assets/IMG_20240329_145055.jpg",
+    "assets/IMG_20240329_145055.jpg",
     "【0學】化學筆記/assets",
-    "英文小記",
-    "文學",
-    "【0學】化學筆記/assets/IMG_20240328_001053.jpg",
+    "【3文】英文小記",
+    "【3文】文學",
+    "assets/IMG_20240328_001053.jpg",
     "IMG_20240328_000906.jpg",
     "【0學】化學筆記/HEC(V) 有機",
-    "【0學】數學筆記/二次曲線/拋物線.md",
-    "【0學】化學筆記/assets/images (1).jpeg",
+    "assets/images (1).jpeg",
     "【0學】化學筆記/HEC(I) CH2 氣體",
-    "【0學】物理筆記/測試頁.md",
-    "【0學】數學筆記/二次曲線",
-    "【0學】化學筆記/化學-學習脈絡_preview.png",
+    "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡_preview.png",
     "【0學】物理筆記/公式地圖.canvas",
-    "【0學】物理筆記",
-    "【2日】聊天小記/240323_preview.png",
     "【2日】聊天小記/240323.canvas",
     "Untitled.canvas"
   ]
