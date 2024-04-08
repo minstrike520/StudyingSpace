@@ -55,11 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【2日】討論思辨/META 如何討論與思辨.md",
+                "file": "【2日】日常隨想/2024-w14.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e334d27a104a4a3a"
           },
           {
             "id": "3c91780a3b07faa9",
@@ -79,24 +80,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【1程】軟體問題小抄/Bash指令的運用.md",
+                "file": "【2日】日常隨想/2024-w14.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a2fa7422a4932792",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/測試頁 2024-04-03 16.44.19.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "8a99393a85af5f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10aeada38230fa7b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "【2日】日常隨想/2024-w14.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e334d27a104a4a3a"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "【2日】討論思辨/META 如何討論與思辨.md",
+            "file": "【2日】日常隨想/2024-w14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +212,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "【2日】討論思辨/META 如何討論與思辨.md",
+            "file": "【2日】日常隨想/2024-w14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "【2日】討論思辨/META 如何討論與思辨.md"
+            "file": "【2日】日常隨想/2024-w14.md"
           }
         }
       }
@@ -208,56 +241,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7d53ebc491f1a2c",
+  "active": "c49c1f393ca6ecca",
   "lastOpenFiles": [
+    "測試頁.md",
+    "【2日】日常隨想/2024-w14.md",
+    "logseq/bak/【2日】日常隨想/2024-w14/2024-04-08T07_18_38.637Z.android.md",
+    "logseq/bak/【2日】日常隨想/2024-w14",
+    "logseq/bak/【2日】日常隨想",
+    "logseq/bak",
+    "logseq",
+    "【0學】數學筆記/函數的極限.md",
+    "Excalidraw/測試頁 2024-04-03 16.44.19.excalidraw.md",
+    "【0學】數學筆記/微分.md",
+    "assets/IMG_20240408_114740.jpg",
+    "assets/IMG_20240408_100518.jpg",
+    "【1程】軟體問題小抄/Bash指令的運用.md",
+    "pages/contents.md",
+    "pages/ghjkk.md",
+    "whiteboards/logseq whiteboard test.edn",
+    "whiteboards",
+    "logseq/custom.css",
+    "pages",
+    "journals",
+    "logseq/config.edn",
     "【2日】討論思辨/各類筆記的安排方式與電子化.md",
     "【2日】討論思辨/META 如何討論與思辨.md",
-    "【2日】討論思辨/數學計算上那些「憑空出現」的零.md",
+    "【2日】討論思辨/對各種情境的時程分配.md",
+    "【3文】英文小記/Untitled.md",
+    "【2日】聊天小記/240323_preview.png",
+    "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
+    "【0學】物理筆記/測試頁.md",
+    "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡.canvas",
+    "assets/IMG_20240407_234520.jpg",
+    "文學/Untitled.md",
+    "【1程】軟體問題小抄/Termux shortcuts.md",
     "【2日】討論思辨/《湯質看本質：CLT認知負荷理論》觀後感.md",
+    "【2日】討論思辨/數學計算上那些「憑空出現」的零.md",
     "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md",
     "【0學】化學筆記/HEC(I) CH2 氣體/題型.md",
     "【0學】化學筆記/HEC(I) CH2 氣體/氣壓計裝置.md",
     "【0學】物理筆記/電流的磁效應.md",
-    "【2日】討論思辨/對各種情境的時程分配.md",
     "【1程】軟體問題小抄/Git Authentication failed.md",
     "【1程】軟體問題小抄/Git Undo Uncommitted Or Unsaved Changes.md",
-    "【1程】軟體問題小抄/Bash指令的運用.md",
     "【1程】軟體問題小抄/Bash Directory Shortcuts.md",
-    "測試頁.md",
-    "Excalidraw/測試頁 2024-04-03 16.44.19.excalidraw.md",
-    "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
-    "【0學】數學筆記/函數的極限.md",
-    "Excalidraw",
-    "【0學】化學筆記/HEC(V) 有機/Untitled.md",
-    "【0學】化學筆記/化學-學習脈絡_學習地圖_preview.png",
-    "【0學】化學筆記/【預報】水污染的檢測.md",
-    "【0學】化學筆記/化學-學習脈絡.canvas",
-    "英文小記/Untitled.md",
-    "Human Rites.md",
-    "【2日】討論思辨",
-    "文學/待讀清單.md",
-    "英文小記/assets/IMG_20240329_145100.jpg",
-    "英文小記/assets",
+    "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡_學習地圖_preview.png",
+    "assets/IMG_20240329_145100.jpg",
     "IMG_20240329_145100 1.jpg",
-    "英文小記/assets/IMG_20240329_145055.jpg",
-    "【0學】化學筆記/assets",
-    "英文小記",
-    "文學",
-    "【0學】化學筆記/assets/IMG_20240328_001053.jpg",
+    "assets/IMG_20240329_145055.jpg",
+    "assets/IMG_20240328_001053.jpg",
     "IMG_20240328_000906.jpg",
-    "【0學】化學筆記/HEC(V) 有機",
-    "【0學】數學筆記/二次曲線/拋物線.md",
-    "【0學】化學筆記/assets/images (1).jpeg",
-    "【0學】化學筆記/HEC(I) CH2 氣體",
-    "【0學】物理筆記/測試頁.md",
-    "【0學】數學筆記/二次曲線",
-    "【0學】化學筆記/化學-學習脈絡_preview.png",
     "【0學】物理筆記/公式地圖.canvas",
-    "【0學】物理筆記",
-    "【2日】聊天小記/240323_preview.png",
     "【2日】聊天小記/240323.canvas",
-    "2024-03-23.md",
-    "軟體問題/Git Authentication failed.md",
     "Untitled.canvas"
   ]
 }
