@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【1程】軟體問題小抄/Bash指令的運用.md",
+                "file": "【2日】日常隨想/2024-w14.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "【1程】軟體問題小抄/Bash指令的運用.md",
+            "file": "【2日】日常隨想/2024-w14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "【1程】軟體問題小抄/Bash指令的運用.md",
+            "file": "【2日】日常隨想/2024-w14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -224,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "【1程】軟體問題小抄/Bash指令的運用.md"
+            "file": "【2日】日常隨想/2024-w14.md"
           }
         }
       }
@@ -243,30 +243,36 @@
   },
   "active": "c49c1f393ca6ecca",
   "lastOpenFiles": [
+    "測試頁.md",
+    "【2日】日常隨想/2024-w14.md",
+    "logseq/bak/【2日】日常隨想/2024-w14/2024-04-08T07_18_38.637Z.android.md",
+    "logseq/bak/【2日】日常隨想/2024-w14",
+    "logseq/bak/【2日】日常隨想",
+    "logseq/bak",
+    "logseq",
+    "【0學】數學筆記/函數的極限.md",
+    "Excalidraw/測試頁 2024-04-03 16.44.19.excalidraw.md",
+    "【0學】數學筆記/微分.md",
+    "assets/IMG_20240408_114740.jpg",
+    "assets/IMG_20240408_100518.jpg",
+    "【1程】軟體問題小抄/Bash指令的運用.md",
     "pages/contents.md",
     "pages/ghjkk.md",
-    "測試頁.md",
     "whiteboards/logseq whiteboard test.edn",
     "whiteboards",
-    "【2日】日常隨想/2024-w14.md",
     "logseq/custom.css",
     "pages",
     "journals",
     "logseq/config.edn",
-    "logseq",
     "【2日】討論思辨/各類筆記的安排方式與電子化.md",
     "【2日】討論思辨/META 如何討論與思辨.md",
     "【2日】討論思辨/對各種情境的時程分配.md",
-    "Excalidraw/測試頁 2024-04-03 16.44.19.excalidraw.md",
-    "【2日】日常隨想",
     "【3文】英文小記/Untitled.md",
     "【2日】聊天小記/240323_preview.png",
     "【0學】數學筆記/Drawing 2024-03-24 12.01.06.excalidraw.md",
     "【0學】物理筆記/測試頁.md",
     "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡.canvas",
-    "【0學】化學筆記/HEC 學習脈絡",
     "assets/IMG_20240407_234520.jpg",
-    "assets",
     "文學/Untitled.md",
     "【1程】軟體問題小抄/Termux shortcuts.md",
     "【2日】討論思辨/《湯質看本質：CLT認知負荷理論》觀後感.md",
@@ -277,19 +283,13 @@
     "【0學】物理筆記/電流的磁效應.md",
     "【1程】軟體問題小抄/Git Authentication failed.md",
     "【1程】軟體問題小抄/Git Undo Uncommitted Or Unsaved Changes.md",
-    "【1程】軟體問題小抄/Bash指令的運用.md",
     "【1程】軟體問題小抄/Bash Directory Shortcuts.md",
-    "【0學】數學筆記/函數的極限.md",
-    "【0學】化學筆記/HEC(V) 有機/Untitled.md",
     "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡_學習地圖_preview.png",
-    "【0學】化學筆記/【預報】水污染的檢測.md",
     "assets/IMG_20240329_145100.jpg",
     "IMG_20240329_145100 1.jpg",
     "assets/IMG_20240329_145055.jpg",
     "assets/IMG_20240328_001053.jpg",
     "IMG_20240328_000906.jpg",
-    "assets/images (1).jpeg",
-    "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡_preview.png",
     "【0學】物理筆記/公式地圖.canvas",
     "【2日】聊天小記/240323.canvas",
     "Untitled.canvas"
