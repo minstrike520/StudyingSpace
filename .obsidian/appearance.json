@@ -1,13 +1,3 @@
 {
-<<<<<<< HEAD
-  "accentColor": "#6db478",
-  "baseFontSize": 17,
-=======
-  "accentColor": "#74b878",
-  "baseFontSize": 12,
->>>>>>> 84c8f75e78668bc29d7141c373da6110946e4922
-  "theme": "obsidian",
-  "textFontFamily": "",
-  "interfaceFontFamily": "Arial Unicode MS",
-  "cssTheme": "Typewriter"
+  "accentColor": ""
 }
