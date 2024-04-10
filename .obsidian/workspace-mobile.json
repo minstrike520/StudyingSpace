@@ -80,14 +80,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【2日】日常隨想/2024-w14.md",
+                "file": "【1程】軟體問題小抄/Obsidian與Termux與Git同步(完整).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "8a99393a85af5f86",
@@ -154,7 +154,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#excalidraw",
+            "query": "tag:#測試",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -241,10 +241,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c49c1f393ca6ecca",
+  "active": "f7d53ebc491f1a2c",
   "lastOpenFiles": [
-    "測試頁.md",
+    "【1程】軟體問題小抄/Obsidian與Termux與Git同步(完整).md",
+    "【1程】軟體問題小抄/Git Authentication failed.md",
+    "【1程】軟體問題小抄/Termux shortcuts.md",
     "【2日】日常隨想/2024-w14.md",
+    "assets/IMG_20240329_145055.jpg",
+    "assets/IMG_20240328_001053.jpg",
+    "assets/IMG_20240409_192438.jpg",
+    "測試頁.md",
     "logseq/bak/【2日】日常隨想/2024-w14/2024-04-08T07_18_38.637Z.android.md",
     "logseq/bak/【2日】日常隨想/2024-w14",
     "logseq/bak/【2日】日常隨想",
@@ -274,22 +280,16 @@
     "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡.canvas",
     "assets/IMG_20240407_234520.jpg",
     "文學/Untitled.md",
-    "【1程】軟體問題小抄/Termux shortcuts.md",
     "【2日】討論思辨/《湯質看本質：CLT認知負荷理論》觀後感.md",
     "【2日】討論思辨/數學計算上那些「憑空出現」的零.md",
     "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md",
     "【0學】化學筆記/HEC(I) CH2 氣體/題型.md",
     "【0學】化學筆記/HEC(I) CH2 氣體/氣壓計裝置.md",
     "【0學】物理筆記/電流的磁效應.md",
-    "【1程】軟體問題小抄/Git Authentication failed.md",
     "【1程】軟體問題小抄/Git Undo Uncommitted Or Unsaved Changes.md",
-    "【1程】軟體問題小抄/Bash Directory Shortcuts.md",
     "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡_學習地圖_preview.png",
     "assets/IMG_20240329_145100.jpg",
     "IMG_20240329_145100 1.jpg",
-    "assets/IMG_20240329_145055.jpg",
-    "assets/IMG_20240328_001053.jpg",
-    "IMG_20240328_000906.jpg",
     "【0學】物理筆記/公式地圖.canvas",
     "【2日】聊天小記/240323.canvas",
     "Untitled.canvas"

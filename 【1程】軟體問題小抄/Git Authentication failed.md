@@ -8,7 +8,8 @@ fatal: Authentication failed for 'https://github.com/<my account>/<my repo>/'
 但是，當我轉而使用windows的cmd操作`push`時，卻連密碼都沒問我，就成功推送了。
 
 ## Solution
-### REF_1 [GitHub/Discussions: "github respiratory authentication failed"](https://github.com/orgs/community/discussions/29193)
+### REF_1 
+[GitHub/Discussions: "github respiratory authentication failed"](https://github.com/orgs/community/discussions/29193)
 
 > From August 13, 2021, GitHub is no longer accepting account passwords when authenticating Git operations. You need to add a PAT (Personal Access Token) instead, and you can follow the below method to add a PAT on your system.
 
@@ -18,7 +19,8 @@ fatal: Authentication failed for 'https://github.com/<my account>/<my repo>/'
 這個操作是要我生成PAT(就是存取用Token)，於是我照做了。
 我生成了[StudyingSpace Repo Access For Local Git](https://github.com/settings/personal-access-tokens/2995466) ，到期日是2024/4/22。
 
-### REF_2 [GitHub/Docs: "Using a personal access token on the command line"](https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#using-a-personal-access-token-on-the-command-line)
+### REF_2 
+[GitHub/Docs: "Using a personal access token on the command line"](https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#using-a-personal-access-token-on-the-command-line)
 ```bash
 $ git clone https://HOSTNAME/USERNAME/REPO.git
 Username: YOUR_USERNAME
