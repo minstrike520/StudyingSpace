@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【2日】日常隨想/2024-w14.md",
+                "file": "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【2日】日常隨想/2024-w14.md",
+                "file": "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#測試",
+            "query": "tag:#心態",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -195,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "【2日】日常隨想/2024-w14.md",
+            "file": "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "【2日】日常隨想/2024-w14.md",
+            "file": "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -224,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "【2日】日常隨想/2024-w14.md"
+            "file": "【0學】化學筆記/HEC(V) 有機/建中化學高三下一段檢討.md"
           }
         }
       }
@@ -243,10 +243,11 @@
   },
   "active": "f7d53ebc491f1a2c",
   "lastOpenFiles": [
+    "【0學】化學筆記/【預報】水污染的檢測.md",
+    "【2日】日常隨想/2024-w14.md",
     "【1程】軟體問題小抄/Obsidian與Termux與Git同步(完整).md",
     "【1程】軟體問題小抄/Git Authentication failed.md",
     "【1程】軟體問題小抄/Termux shortcuts.md",
-    "【2日】日常隨想/2024-w14.md",
     "assets/IMG_20240329_145055.jpg",
     "assets/IMG_20240328_001053.jpg",
     "assets/IMG_20240409_192438.jpg",
@@ -286,7 +287,6 @@
     "【0學】化學筆記/HEC(I) CH2 氣體/題型.md",
     "【0學】化學筆記/HEC(I) CH2 氣體/氣壓計裝置.md",
     "【0學】物理筆記/電流的磁效應.md",
-    "【1程】軟體問題小抄/Git Undo Uncommitted Or Unsaved Changes.md",
     "【0學】化學筆記/HEC 學習脈絡/化學-學習脈絡_學習地圖_preview.png",
     "assets/IMG_20240329_145100.jpg",
     "IMG_20240329_145100 1.jpg",
