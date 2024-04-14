@@ -28,5 +28,13 @@ Password: YOUR_PERSONAL_ACCESS_TOKEN
 ```
 照做之後，果然可以成功push了。但是，還有個小問題：每次進行操作，都要輸入一次`Username`跟`Password`，超級麻煩。
 
-### REF_3 [GitHub/Docs: "Caching your GitHub credentials in Git"](https://docs.github.com/en/enterprise-server@3.9/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
+### REF_3 
+[GitHub/Docs: "Caching your GitHub credentials in Git"](https://docs.github.com/en/enterprise-server@3.9/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
 我用了 GitHub CLI 的HTTPS協定授權，最後總算是成功設定自動授權，以後就可以自由使用remote的各種功能了。
+
+## REF_4 
+[StackOverflow](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
+```bash
+$ git config --global credential.helper store
+```
+這個方法要簡便的多，也不用額外安裝任何東西，只是記住密碼而已。
