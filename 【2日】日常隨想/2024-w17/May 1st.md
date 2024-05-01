@@ -6,3 +6,5 @@
 - GBoard中文輸入超難用，各種符號的支援都很破
 - 超注音不能觸發Quick LaTeX的snippet
 為什麼就是沒有一個鍵盤能夠把這些問題都解決好啊！？
+
+npm的live-server套件跟nvim兩個東西搭在一起，怕不是太好用！！！
