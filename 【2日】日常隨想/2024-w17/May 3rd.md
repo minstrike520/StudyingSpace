@@ -3,4 +3,6 @@
 	- Searched: Obsidian graph view hide specific tag
 	- Found page: How to hide tags, but keep notes with them in graph
 	- `path:【0學】化學筆記 -(-path:folder (#excalidraw))`
-	- 
+
+**4pm**
+- "TORD" tag and "TOASK" tag
