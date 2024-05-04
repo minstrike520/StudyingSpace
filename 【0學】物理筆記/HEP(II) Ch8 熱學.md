@@ -41,7 +41,7 @@
 		- 器壁受壓力 $P$
 		- 氣體總內能 $E = N \bar K$
 			- 提示：因為封閉系統內沒有外力作功，所以求得總動能必然等於總內能。
-	- 推導![[【0學】物理筆記/Excalidraw/Excl-0504_0.excalidraw|Excl-0504_0.excalidraw]]
+	- 推導![[分子運動.excd|分子運動.excd]]
 - 結論
 	- $P = \frac{1}{3} \rho \bar{v^2}$
 	- $PV=\frac{2}{3}N\bar K$
@@ -52,5 +52,5 @@
 
 # 8-3 氣體系統的分析
 ## 8-3-1 定量系統
-![[【0學】物理筆記/Excalidraw/Excl-0504_1.excalidraw|Excl-0504_1.excalidraw]]
+![[氣體定量.excd|氣體定量.excd]]
 ## 8-3-2 氣體混合
