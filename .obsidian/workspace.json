@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【1程】軟體問題小抄/Git/GitHub Authentication.md",
+                "file": "【0學】化學筆記/HEC(II) CH4 原子構造與性質.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【1程】軟體問題小抄/Issue - apt-get problems.md",
+                "file": "【0學】化學筆記/HEC(II) CH4 原子構造與性質.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【1程】軟體問題小抄/Issue - apt-get problems.md",
+                "file": "【0學】化學筆記/HEC(II) CH4 原子構造與性質.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【1程】軟體問題小抄/Issue - apt-get problems.md"
+                "file": "【0學】化學筆記/HEC(II) CH4 原子構造與性質.md"
               }
+            }
+          },
+          {
+            "id": "21027d0859246614",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,27 +172,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "941a3afd60b5a61b",
+  "active": "3217acbaa039d2d3",
   "lastOpenFiles": [
-    "【1程】軟體問題小抄/Pandoc on Termux.md",
-    "【1程】軟體問題小抄/Issue - apt-get problems.md",
+    "exports/HEC(II) CH4 原子構造與性質.pdf",
+    "【0學】數學筆記/HEM 積分/變數變換.md",
+    "【0學】數學筆記/HEM 積分/積分題目總集.md",
     "【0學】數學筆記/HEM 複數平面/錯題集/CPX001.md",
+    "exports/CPX001.pdf",
+    "exports",
+    "【1程】軟體問題小抄/Git/GitHub Authentication.md",
+    "【1程】軟體問題小抄/Git/CONTENT MENU - COMMANDS.md",
+    "【1程】軟體問題小抄/Issue - apt-get problems.md",
+    "【1程】軟體問題小抄/Pandoc on Termux.md",
     "【1程】軟體問題小抄/IRL/噴墨印表機印出黑色髒汙.md",
     "【1程】軟體問題小抄/IRL",
     "【0學】數學筆記/HEM 複數平面/錯題集/Excalidraw Attatchments/Excl-0505.excalidraw.md",
     "【0學】物理筆記/HEP(II) Ch8 熱學.md",
     "【2日】討論思辨/對各種情境的時程分配.md",
-    "【1程】軟體問題小抄/Git/CONTENT MENU - COMMANDS.md",
-    "【1程】軟體問題小抄/Git/GitHub Authentication.md",
     "【1程】軟體問題小抄/Git/Git Authentication failed.md",
     "【1程】軟體問題小抄/Git/Git Undo Uncommitted Or Unsaved Changes.md",
     "【1程】軟體問題小抄/Git/Git Show Non-Alphabetic Characters.md",
@@ -205,13 +219,8 @@
     "4913",
     "【3文】閱讀札記/語言學/《記號學導論》四、語言的功能和功能謬誤.md",
     "【3文】閱讀札記/語言學",
-    "【3文】閱讀札記",
     "【2日】討論思辨/自身的不同人格特質.md",
     "【2日】討論思辨/自我介紹模擬面試—筆記與心得.md",
-    "【2日】討論思辨/工程專題：遙控小車校園巡禮.md",
-    "【2日】日常隨想/2024-w17/May 5th.md",
-    "【2日】日常隨想/2024-w17/May 3rd.md",
-    "【2日】日常隨想/2024-w17",
     "【0學】數學筆記/HEM 積分/布告欄（實驗性）.canvas",
     "assets/Screenshot_2024-05-05-23-38-52-925_md.obsidian.png",
     "assets/Screenshot_2024-05-05-23-21-19-174_com.termux.png",
