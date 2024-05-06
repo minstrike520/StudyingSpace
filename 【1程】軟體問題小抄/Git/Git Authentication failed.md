@@ -22,9 +22,9 @@ fatal: Authentication failed for 'https://github.com/<my account>/<my repo>/'
 ### REF_2 
 [GitHub/Docs: "Using a personal access token on the command line"](https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#using-a-personal-access-token-on-the-command-line)
 ```bash
-$ git clone https://HOSTNAME/USERNAME/REPO.git
-Username: YOUR_USERNAME
-Password: YOUR_PERSONAL_ACCESS_TOKEN
+git clone https://HOSTNAME/USERNAME/REPO.git
+>> Username: YOUR_USERNAME
+>> Password: YOUR_PERSONAL_ACCESS_TOKEN
 ```
 照做之後，果然可以成功push了。但是，還有個小問題：每次進行操作，都要輸入一次`Username`跟`Password`，超級麻煩。
 
@@ -35,6 +35,9 @@ Password: YOUR_PERSONAL_ACCESS_TOKEN
 ## REF_4 
 [StackOverflow](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
 ```bash
-$ git config --global credential.helper store
+git config --global credential.helper store
 ```
+
+^30fc5b
+
 這個方法要簡便的多，也不用額外安裝任何東西，只是記住密碼而已。

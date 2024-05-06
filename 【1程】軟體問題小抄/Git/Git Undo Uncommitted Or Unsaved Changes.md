@@ -9,6 +9,9 @@ This will revert all local uncommitted changes (should be executed in repo root)
 ```bash
 git checkout .
 ```
+
+^9da0e1
+
     
   You can also revert uncommitted changes only to particular file or directory:
 ```bash
