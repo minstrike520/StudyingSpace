@@ -32,3 +32,5 @@
 	- 誤差 ![[Excl-0507.excalidraw]]
 - 低電阻測量法：先並伏特計，再串安培計
 	- 誤差 ![[Excl-0507-0.excalidraw]]
+
+%%TODO: 變壓器%%
