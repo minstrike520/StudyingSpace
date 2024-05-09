@@ -6,6 +6,3 @@
 
 **4pm**
 - "TORD" tag and "TOASK" tag
-
-**7pm**
-![[Git error RPC Failed; HTTP 400 curl 22...#事後諸葛]]
