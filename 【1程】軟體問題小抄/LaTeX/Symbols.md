@@ -1,0 +1,28 @@
+# Logic Symbols
+- Arrows
+	- A $\leftrightarrow$ B `\leftrightarrow` *both side arrow*
+	- A $\rightarrow$ B `\rightarrow` *arrow*
+	- A $\Rightarrow$ B `\Rightarrow` *thick arrow*
+	- A $\longrightarrow$ B `\longrightarrow` *long arrow*
+	- A $\implies$ B `\implies` *implies*
+- Logic
+	- p $\land$ q `\land` or `\wedge` *and*
+	- p $\lor$ q `\lor` *or*
+	- p $\lnot$ q `\lnot` *not*
+- Inequality
+	- x $\lt$ y `\lt`, x $\gt$ y `\gt` *less than*, *greater than*
+	- x $\le$ y `\le`, x $\ge$ y `\ge` *less or equal to*, *greater or equal to*
+	- x $\ne$ y `\ne` *not equal to*
+- Set
+	- x $\in$ S `\in` 
+	- x $\notin$ S `\notin`
+	- A $\subset$ S `\subset` *is proper subset of*
+	- A $\subseteq$ S `\subseteq` *is subset of*
+# Mathematic Symbols
+- $\infty$ `\infty` *infinity*
+- $\int^b_a$ `\int^b_a` *integral*
+- $\sum^n_{k=1}$ `\sum^n_{k=1}` *summation*
+- $\vec v$ `\vec v` *vector*
+- x $\cdot$ y `\cdot` *dot*
+- 10 $\times$ 3 `\times` *cross* or *times*
+- 
