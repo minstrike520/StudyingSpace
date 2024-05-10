@@ -2,6 +2,7 @@
 - Arrows
 	- A $\leftrightarrow$ B `\leftrightarrow` *both side arrow*
 	- A $\rightarrow$ B `\rightarrow` *arrow*
+	- A $\to$ B `\to` *arrow* or *to*
 	- A $\Rightarrow$ B `\Rightarrow` *thick arrow*
 	- A $\longrightarrow$ B `\longrightarrow` *long arrow*
 	- A $\implies$ B `\implies` *implies*
@@ -13,6 +14,7 @@
 	- x $\lt$ y `\lt`, x $\gt$ y `\gt` *less than*, *greater than*
 	- x $\le$ y `\le`, x $\ge$ y `\ge` *less or equal to*, *greater or equal to*
 	- x $\ne$ y `\ne` *not equal to*
+	- x $\approx$ y `\approx` *approximately equal to*
 - Set
 	- x $\in$ S `\in` 
 	- x $\notin$ S `\notin`
@@ -25,4 +27,4 @@
 - $\vec v$ `\vec v` *vector*
 - x $\cdot$ y `\cdot` *dot*
 - 10 $\times$ 3 `\times` *cross* or *times*
-- 
+- $\lim\limits_{x \to a}$ `\lim\limits_{x\to a}` *limit*
