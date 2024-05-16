@@ -1,4 +1,4 @@
-# Logic Symbols
+# Logic And Set
 - Arrows
 	- A $\leftrightarrow$ B `\leftrightarrow` *both side arrow*
 	- A $\rightarrow$ B `\rightarrow` *arrow*
@@ -21,10 +21,16 @@
 	- A $\subset$ S `\subset` *is proper subset of*
 	- A $\subseteq$ S `\subseteq` *is subset of*
 # Mathematic Symbols
-- $\infty$ `\infty` *infinity*
-- $\int^b_a$ `\int^b_a` *integral*
-- $\sum^n_{k=1}$ `\sum^n_{k=1}` *summation*
-- $\vec v$ `\vec v` *vector*
-- x $\cdot$ y `\cdot` *dot*
-- 10 $\times$ 3 `\times` *cross* or *times*
-- $\lim\limits_{x \to a}$ `\lim\limits_{x\to a}` *limit*
+- Calculus
+	- $\lim\limits_{x \to a}$ `\lim\limits_{x\to a}` *limit*
+	- $\infty$ `\infty` *infinity*
+	- $\int^b_a$ `\int^b_a` *integral*
+- Operations
+	- $\sum^n_{k=1}$ `\sum^n_{k=1}` *summation*
+	- x $\cdot$ y `\cdot` *dot*
+	- 10 $\times$ 3 `\times` *cross* or *times*
+- Vector
+	- $\vec v$ `\vec v` *vector*
+	- $\overleftrightarrow {AB}$ `\overleftrightarrow{AB}` *double-headed vector*
+- Number Sets
+	- $\mathbb{N}$, $\mathbb{R}$, $\mathbb{U}$... `\mathbb{<Alphabet>}`
