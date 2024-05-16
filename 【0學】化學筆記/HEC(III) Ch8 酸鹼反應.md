@@ -50,7 +50,7 @@
 	- 實例：$\ce{CrO3}\gt \ce{Cr2O3}\gt \ce{CrO}$
 
 ### 常見的酸比較表
-![[Excl-0510.excalidraw]]
+![[【0學】化學筆記/Excalidraw/Excl-0510.excalidraw]]
 
 ### 鹼性的比較規則
 - 金屬氫氧化物$\ce{M(OH)_x}$：金屬半徑愈大，鹼性愈高。

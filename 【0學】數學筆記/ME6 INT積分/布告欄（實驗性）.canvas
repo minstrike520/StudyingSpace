@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"8ac468d9ea2a807e","x":180,"y":-40,"width":820,"height":480,"color":"3","type":"group","label":"旋轉體"},
+		{"id":"430a063e2e4d92ef","x":620,"y":49,"width":340,"height":131,"type":"text","text":"$V_片 = \\pi f^2(x_k) \\cdot \\frac{b-a}{n}$\n$\\rightarrow V = \\lim\\limits_{n\\rightarrow \\infty}\\sum^{k = 1}_{n} \\pi f^2(x_k)\\frac{b-a}{n}$\n\t$= \\pi \\int^b_a f^2(x)dx$"},
+		{"id":"4cf62366562a0274","x":200,"y":20,"width":318,"height":140,"type":"file","file":"【0學】數學筆記/ME6 INT積分/Excalidraw/Excl-0504_2.excalidraw.md"},
+		{"id":"c23d0a21e09cfbc2","x":200,"y":240,"width":380,"height":155,"type":"file","file":"【0學】數學筆記/ME6 INT積分/Excalidraw/Excl-0504_3.excalidraw.md"},
+		{"id":"60703366a861d07f","x":698,"y":279,"width":262,"height":81,"type":"text","text":"$V = \\pi \\int^b_a f^2(x)dx - \\pi \\int^b_a g^2(x)dx$\n$= \\pi \\int^b_a [f^2(x)- g^2(x)]dx$"},
+		{"id":"3e8c255cce66f63a","x":-100,"y":-80,"width":250,"height":60,"type":"text","text":"$\\rightarrow$ 供參考，這兩則我總共花了18分鐘。"}
+	],
+	"edges":[
+		{"id":"938bf7493dcd46f5","fromNode":"4cf62366562a0274","fromSide":"right","toNode":"430a063e2e4d92ef","toSide":"left"},
+		{"id":"ed3d55736a6d729a","fromNode":"c23d0a21e09cfbc2","fromSide":"right","toNode":"60703366a861d07f","toSide":"left"}
+	]
+}
