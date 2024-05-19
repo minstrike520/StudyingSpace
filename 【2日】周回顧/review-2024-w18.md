@@ -1,3 +1,4 @@
+#review
 *PERIOD: 5/6 - 5/12*
 # META
 - 有些既是「筆記」又是「備考」相關的，我都放在「備考」。
@@ -5,7 +6,7 @@
 - [[May 7th]]「信用破產」：對梅毀約，決定不再做動畫專案
 - 處理 [[噴墨印表機印出黑色髒汙]] 
 # 軟體
-- [[Pandoc on Termux]] 在平板上實現Obsidian PDF匯出（在Andronix 裡面安裝桌面版Obsidian）
+- [[obsidian_pandoc_on_proot_arch]] 在平板上實現Obsidian PDF匯出（在Andronix 裡面安裝桌面版Obsidian）
 - 
 
 # 備考
