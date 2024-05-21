@@ -34,3 +34,6 @@
 	- $\overleftrightarrow {AB}$ `\overleftrightarrow{AB}` *double-headed vector*
 - Number Sets
 	- $\mathbb{N}$, $\mathbb{R}$, $\mathbb{U}$... `\mathbb{<Alphabet>}`
+- Geometry
+	- $L_1 \perp L_2$ `\perp`
+	- ▱ `UNICODE: U+25B0`
