@@ -37,3 +37,18 @@
 - Geometry
 	- $L_1 \perp L_2$ `\perp`
 	- ▱ `UNICODE: U+25B0`
+- Simultaneous Equation 
+$$\left\{\begin{aligned}
+& x + y + z =1 \\
+& y = \sin x\\
+& x + y = log_{2} x
+\end{aligned}\right.$$
+
+
+```latex
+\left\{\begin{aligned}
+&  \\
+& \\
+& 
+\end{aligned}\right.
+```

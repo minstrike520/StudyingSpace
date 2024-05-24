@@ -1,4 +1,8 @@
 # TF-2 圖形與週期
+
+## 振幅與極值
+*自行補充*
+- 三角函數的**極值**出現在平衡點上下一個振幅（最大值、最小值）。
 ## 週期專論
 *KW p14*
 $$y = Af(Bx+C) +D$$
@@ -54,5 +58,9 @@ $$y = Af(Bx+C) +D$$
 	- 證明 ![[TF-KW-NOTE-GRAPH-1]]
 # TF-9 疊合
 - 疊合的前提：必為如是形式 $f(x) = a\sin x + b\cos x$
-- 疊合 $$a\sin x +b\cos x = \sqrt{a^2+b^2}\sin (x+\phi),\ \phi = Arg(a+bi)$$
-- 推導
+- 疊合 $$a\sin x +b\cos x = \sqrt{a^2+b^2}\sin (x+\phi),\ \left\{\begin{aligned}
+& \cos \phi = \frac a {\sqrt{a^2+b^2}}  \\
+& \sin \phi = \frac b {\sqrt{a^2+b^2}}
+\end{aligned}\right.$$
+
+- 推導 ![[TF-KW-NOTE-GRAPH-2]]
