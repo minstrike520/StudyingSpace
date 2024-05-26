@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"b80cb3b7d22f2e1d","type":"text","text":"# 晚飯後-1\n- 晚飯前沒先洗澡","x":-347,"y":-320,"width":327,"height":141},
+		{"id":"45cabe51297b57fe","type":"text","text":"想法\n吃完飯後會比較容易想睡覺，因此辦正事時要注意別讓自己恍神。","x":80,"y":-200,"width":260,"height":121,"color":"3"},
+		{"id":"d85cbacc391127a8","type":"text","text":"**複習—「進度重做」**\n【內容】如果當天有考卷，就重寫考卷（不是訂正！！！）。如果沒有，那就重寫複習的例題。\n【原因】雖然這方法聽起來有點低效，但完勝什麼都不讀。\n","x":-347,"y":-79,"width":351,"height":200},
+		{"id":"ed1be1a8e468840f","type":"text","text":"睡覺前一個半小時洗澡\nEX: 若2230要睡覺，則2100要洗澡。","x":-294,"y":156,"width":245,"height":104,"color":"1"},
+		{"id":"156746d81bfe14e0","type":"text","text":"排事情的時候切忌排太多。時間所剩不多時，就只做「有時效性」的事情。","x":34,"y":314,"width":266,"height":106,"color":"3"},
+		{"id":"98661179f4936bbd","type":"text","text":"有什麼要做的事情（洗澡時可想一想）列點記在小白版上，然後**最後一項一定要記個「睡覺」**。","x":-297,"y":300,"width":251,"height":120},
+		{"id":"ae2ca4d1c7884e2c","type":"text","text":"事情都做完之後，就睡覺。","x":-310,"y":480,"width":277,"height":60},
+		{"id":"fbbfd35753b59b49","x":-780,"y":-320,"width":324,"height":141,"type":"text","text":"# 起床-1\n- 當天要在家\n- 前一天不晚於2330睡"},
+		{"id":"db576f303402ac2e","x":-736,"y":-86,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"8b08d0674ffafe86","fromNode":"b80cb3b7d22f2e1d","fromSide":"bottom","toNode":"d85cbacc391127a8","toSide":"top"},
+		{"id":"8357029e688bb2b4","fromNode":"b80cb3b7d22f2e1d","fromSide":"right","toNode":"45cabe51297b57fe","toSide":"left"},
+		{"id":"a21e6e10f915d451","fromNode":"d85cbacc391127a8","fromSide":"bottom","toNode":"ed1be1a8e468840f","toSide":"top"},
+		{"id":"7382b4e7c5e8040d","fromNode":"ed1be1a8e468840f","fromSide":"bottom","toNode":"98661179f4936bbd","toSide":"top"},
+		{"id":"73285a056205261f","fromNode":"98661179f4936bbd","fromSide":"bottom","toNode":"ae2ca4d1c7884e2c","toSide":"top"},
+		{"id":"c842da5f6233f8af","fromNode":"98661179f4936bbd","fromSide":"right","toNode":"156746d81bfe14e0","toSide":"left"},
+		{"id":"5dda9c9e5e2990fa","fromNode":"fbbfd35753b59b49","fromSide":"bottom","toNode":"db576f303402ac2e","toSide":"top"}
+	]
+}
