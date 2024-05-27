@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4af789b621de84dd","type":"group","x":-520,"y":260,"width":1901,"height":467,"label":"每日布告欄"},
+		{"id":"2d015a681cad7d69","type":"text","text":"# (火)","x":-230,"y":280,"width":247,"height":427},
+		{"id":"31270e06b8673cae","type":"text","text":"# (木)","x":307,"y":280,"width":247,"height":427},
+		{"id":"72891e40bc75254c","type":"text","text":"# (日)","x":1111,"y":280,"width":250,"height":427},
+		{"id":"5e014faec7e6a290","type":"text","text":"# (月)\n","x":-500,"y":280,"width":250,"height":427},
+		{"id":"b9faf37e2772aa40","type":"text","text":"# (水)","x":37,"y":280,"width":250,"height":427},
+		{"id":"ffaf4b3ac52daf6a","type":"text","text":"# (金)","x":574,"y":280,"width":250,"height":427},
+		{"id":"222b8023aba77e47","type":"text","text":"# (土)","x":844,"y":280,"width":247,"height":427},
+		{"id":"9c4e123729da9b61","type":"text","text":"# w","x":271,"y":40,"width":160,"height":60}
+	],
+	"edges":[]
+}
