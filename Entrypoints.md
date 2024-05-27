@@ -7,4 +7,4 @@
 數列級數 [[SQ-KW-NOTE]] [[SQ-KW-EXAMPLES]]
 向量 [[V-KW-NOTE]] [[V-KW-EXAMPLES]]
 三角函數 [[TF-KW-NOTE]] [[TF-KW-EXAMPLES]]
-圓與直線 [[CRL-KW-NOTE]]
+圓與直線 [[CRL-KW-NOTE(L)]]

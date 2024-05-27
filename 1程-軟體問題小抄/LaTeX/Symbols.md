@@ -20,6 +20,7 @@
 	- x $\notin$ S `\notin`
 	- A $\subset$ S `\subset` *is proper subset of*
 	- A $\subseteq$ S `\subseteq` *is subset of*
+	- $\varnothing$ `\varnothing` *empty set*
 # Mathematic Symbols
 - Calculus
 	- $\lim\limits_{x \to a}$ `\lim\limits_{x\to a}` *limit*
@@ -35,7 +36,9 @@
 - Number Sets
 	- $\mathbb{N}$, $\mathbb{R}$, $\mathbb{U}$... `\mathbb{<Alphabet>}`
 - Geometry
-	- $L_1 \perp L_2$ `\perp`
+	- $L_1 \perp L_2$ `\perp` *perpendicular*
+	- $L_1 \parallel L_2$ `\parallel` *parallel*
+		- Note: slanted parallel symbol is not natively supported by tex system.
 	- ▱ `UNICODE: U+25B0`
 - Simultaneous Equation 
 $$\left\{\begin{aligned}
