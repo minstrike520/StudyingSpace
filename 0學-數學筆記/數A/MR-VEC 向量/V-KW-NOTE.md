@@ -65,6 +65,15 @@
 	1. 求兩向量的公垂向量
 	2. 求常數為0的方程組的變數比
 	3. 求兩向量所張▱面積
+### 外積公式
+$$\begin{align}
+  & \vec a = (x_1, y_1,z_1),\ \vec b = (x_2,y_2,z_2) \\
+  \rightarrow \ & \vec a \times \vec b = 
+    \left({
+    \begin{vmatrix}y_1 & z_1 \\ y_2 & z_2\end{vmatrix},\
+    \begin{vmatrix}z_1 & x_1 \\ z_2 & x_2\end{vmatrix},\
+    \begin{vmatrix}x_1 & y_1 \\ x_2 & y_2\end{vmatrix} }\right)
+\end{align}$$
 ### 補充：解方程組
 *TIP: 「方程組」即聯立方程式。*
 1. 克拉瑪
