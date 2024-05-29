@@ -55,3 +55,13 @@ $$\left\{\begin{aligned}
 & 
 \end{aligned}\right.
 ```
+# Matrices
+```LaTeX
+\begin{vmatrix}
+  y_1 & z_1 \\ y_2 & z_2
+\end{vmatrix}
+```
+行列式 Determinant `vmatrix` $\begin{vmatrix}1 & 2 \\ 3 & 4 \end{vmatrix}$
+
+矩陣 Matrix `bmatrix` $\begin{bmatrix} 1 & 2  \\ 3 & 4 \end{bmatrix}$
+() `pmatrix` $\begin{pmatrix}1 & 2 \\ 3 & 4 \end{pmatrix}$
