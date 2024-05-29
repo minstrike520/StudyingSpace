@@ -38,7 +38,8 @@
 		{"id":"2e5e6c50f95e4242","type":"text","text":"檢查當天活動所需物品\n- KW補習->之前的考卷？\n- 出門遊玩->足夠的錢？小背包？\n- 圖書館->水壺？要看的書？","x":1380,"y":378,"width":299,"height":184},
 		{"id":"e73f92accef57b61","type":"text","text":"吃早餐 (optional, 可能在外面吃)","x":1061,"y":221,"width":250,"height":60,"color":"1"},
 		{"id":"ef3eb796d8c9fbf2","type":"text","text":"換衣服\n脫衣>穿衣>脫褲>穿褲>拿襪子到樓下","x":843,"y":-174,"width":279,"height":96},
-		{"id":"b00ca3479e75105b","type":"text","text":"刷牙洗臉\n- [ ] 二樓要有一條毛巾","x":853,"y":-26,"width":288,"height":83}
+		{"id":"b00ca3479e75105b","type":"text","text":"刷牙洗臉\n- [ ] 二樓要有一條毛巾","x":853,"y":-26,"width":288,"height":83},
+		{"id":"d6893e2e7676f477","x":-1195,"y":560,"width":655,"height":371,"type":"file","file":"assets/PfN47JY.jpg"}
 	],
 	"edges":[
 		{"id":"bcccb7e76175b5ad","fromNode":"5899dcc4786d044e","fromSide":"bottom","toNode":"98c6654f13be20fb","toSide":"top"},
