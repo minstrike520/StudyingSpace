@@ -1,4 +1,4 @@
-#review 
+#weekly_review 
 *PERIOD: 5/13 - 5/19*
 
 # 瑣事

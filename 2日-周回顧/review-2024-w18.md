@@ -1,4 +1,4 @@
-#review
+#weekly_review
 *PERIOD: 5/6 - 5/12*
 # META
 - 有些既是「筆記」又是「備考」相關的，我都放在「備考」。

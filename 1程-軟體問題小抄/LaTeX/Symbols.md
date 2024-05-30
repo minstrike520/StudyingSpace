@@ -15,6 +15,7 @@
 	- x $\le$ y `\le`, x $\ge$ y `\ge` *less or equal to*, *greater or equal to*
 	- x $\ne$ y `\ne` *not equal to*
 	- x $\approx$ y `\approx` *approximately equal to*
+	- A $\sim{}$ B `\sim{}` *around*
 - Set
 	- x $\in$ S `\in` 
 	- x $\notin$ S `\notin`

@@ -1,4 +1,4 @@
-#table_of_content
+#table_of_content #node/outgoing/quote 
 靜力平衡::三力平衡![[P4-2 靜力平衡#^a4c426]]
 萬有引力::地表附近重力::推導
 ![[P5-1 萬有引力#^4e0c00]]

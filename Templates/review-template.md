@@ -1,4 +1,4 @@
-#review 
+#weekly_review 
 *PERIOD:*
 
 # 瑣事
