@@ -40,6 +40,7 @@
 	- $L_1 \perp L_2$ `\perp` *perpendicular*
 	- $L_1 \parallel L_2$ `\parallel` *parallel*
 		- Note: slanted parallel symbol is not natively supported by tex system.
+	- $\angle$ `\angle` *angle*
 	- ▱ `UNICODE: U+25B0`
 - Simultaneous Equation 
 $$\left\{\begin{aligned}
