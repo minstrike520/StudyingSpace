@@ -43,3 +43,9 @@
   </tfoot>
 </table>
 
+---
+id: foo
+aliases: 
+- 123
+- asf
+---
