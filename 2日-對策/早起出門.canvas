@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"7d147c08fe6f74b1","type":"text","text":"# 起床+出門\n- 比原本要多花約5分鐘\n- 當天要出門","x":1378,"y":-740,"width":252,"height":120},
+		{"id":"ef3eb796d8c9fbf2","type":"text","text":"換衣服\n脫衣>穿衣>脫褲>穿褲>拿襪子","x":1364,"y":-594,"width":279,"height":96},
+		{"id":"5438204df3d3786a","type":"text","text":"檢查必需物品（高中讀書）\n1. 外門鑰匙\n2. 手機\n3. 錢包\n4. 外套\n5. 鉛筆盒\n6. 平板\n7. 當天所需物品書籍","x":1372,"y":-42,"width":259,"height":260},
+		{"id":"2e5e6c50f95e4242","type":"text","text":"檢查當天活動所需物品\n- KW補習->之前的考卷？\n- 出門遊玩->足夠的錢？小背包？\n- 圖書館->水壺？要看的書？","x":1720,"y":162,"width":299,"height":184},
+		{"id":"35f94820fb314b13","type":"text","text":"都準備好了，出門吧！","x":1377,"y":243,"width":250,"height":60,"color":"5"},
+		{"id":"0064e6dc6282efa4","type":"text","text":"空閒時間(如果有的話)","x":1680,"y":-113,"width":250,"height":60},
+		{"id":"b00ca3479e75105b","type":"text","text":"刷牙洗臉\n- [x] 二樓要有一條毛巾","x":1360,"y":-468,"width":283,"height":100},
+		{"id":"f3392c07bbae5c73","type":"text","text":"~~平板的筆收到鉛筆盒裡~~ (到樓下收就好)","x":1376,"y":-345,"width":250,"height":60},
+		{"id":"9ecd9f054ac8a01e","type":"text","text":"書包、平板、襪子拿著到樓下","x":1376,"y":-249,"width":251,"height":51},
+		{"id":"e73f92accef57b61","type":"text","text":"吃早餐 (optional, 可能在外面吃)","x":1377,"y":-172,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"5dbc4085f2bb77e8","fromNode":"5438204df3d3786a","fromSide":"right","toNode":"2e5e6c50f95e4242","toSide":"left"},
+		{"id":"de1f26c7cdecb410","fromNode":"5438204df3d3786a","fromSide":"bottom","toNode":"35f94820fb314b13","toSide":"top"},
+		{"id":"8c27c44352af9b02","fromNode":"7d147c08fe6f74b1","fromSide":"bottom","toNode":"ef3eb796d8c9fbf2","toSide":"top"},
+		{"id":"94a04267e004e9f7","fromNode":"9ecd9f054ac8a01e","fromSide":"bottom","toNode":"e73f92accef57b61","toSide":"top"},
+		{"id":"8fd575fe98149aba","fromNode":"ef3eb796d8c9fbf2","fromSide":"bottom","toNode":"b00ca3479e75105b","toSide":"top"},
+		{"id":"9685f589aaac48a6","fromNode":"b00ca3479e75105b","fromSide":"bottom","toNode":"f3392c07bbae5c73","toSide":"top"},
+		{"id":"c0eb9072f3aadba3","fromNode":"f3392c07bbae5c73","fromSide":"bottom","toNode":"9ecd9f054ac8a01e","toSide":"top"},
+		{"id":"7230d83fdd80cf99","fromNode":"e73f92accef57b61","fromSide":"bottom","toNode":"0064e6dc6282efa4","toSide":"left"},
+		{"id":"0a7813f9c01c6626","fromNode":"0064e6dc6282efa4","fromSide":"bottom","toNode":"5438204df3d3786a","toSide":"top"}
+	]
+}
