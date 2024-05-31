@@ -6,9 +6,11 @@
 [[schedule-備考、早睡早起]]
 
 ## 筆記總集
-[[CONTENT MENU - 二模前複習]]
+物 [[CONTENT MENU - 二模前複習]]
 
 ## 錯題集
 [[M-H112]]
+[[P-H112]]
+[[C-H112]]
 
 #node/outgoing 
