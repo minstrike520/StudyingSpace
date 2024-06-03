@@ -22,6 +22,8 @@
 	- A $\subset$ S `\subset` *is proper subset of*
 	- A $\subseteq$ S `\subseteq` *is subset of*
 	- $\varnothing$ `\varnothing` *empty set*
+	- A $\cup$ B `\cup` *union*
+	- A $\cap$ B `\cap` *intersection*
 # Mathematic Symbols
 - Calculus
 	- $\lim\limits_{x \to a}$ `\lim\limits_{x\to a}` *limit*
