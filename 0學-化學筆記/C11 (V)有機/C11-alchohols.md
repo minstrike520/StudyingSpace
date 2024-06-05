@@ -1,7 +1,11 @@
 # 醇 Alchohol
 *柯講 p56*
+## 醇的定義
+- 烴類中的 $\ce{-H}$ 被 $\ce{-OH}$ 取代的衍生物，其通式為 $\ce{R-OH}$ 或 $\ce{Ar-OH}$ (R為烷基)。
+- 級數：N級醇代表「與 $\ce{-OH}$ 相連的碳有N個碳相連」[[C11-觀念：級數]]
 ## 醇類的物理性質
 1. 沸點： $\ce{1\degree \gt 2\degree \gt 3\degree}$
+	1. 因**有分子間氫鍵**，沸點比同碳數的烷、醛、酮、醚都高。
 2. 熔點： $\ce{3\degree \gt 1\degree \gt 2\degree}$
 3. 溶解度： $\ce{3\degree \gt 2\degree \gt 1\degree}$
 	- 看顆粒大小
@@ -32,3 +36,8 @@ $\ce{2C2H5OH ->[H2SO4,\ 130\sim{}140\degree C] C2H5OC2H5 + H2O}$
 ^comparison1
 
 ### 五、氧化
+- 一級醇 -> 醛/酸
+	- 醛 -> 酸
+- 二級醇 -> 酮
+- 三級醇 -> 無
+- 
