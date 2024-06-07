@@ -10,13 +10,38 @@
 3. 溶解度： $\ce{3\degree \gt 2\degree \gt 1\degree}$
 	- 看顆粒大小
 4. 與鈉的反應速度： $\ce{1\degree \gt 2\degree \gt 3\degree}$ (作為一種「酸」)
-5. 與鹵氫的反應速度： $\ce{3\degree \gt 2\degree \gt 1\degree}$ (作為一種「鹼」)
+5. 與鹵化氫的反應速度： $\ce{3\degree \gt 2\degree \gt 1\degree}$ (作為一種「鹼」)
 	- $\ce{R-OH}$ 可以視為一種「反應性的鹼」
 6. 同級醇與**不同鹵氫**的反應速度： $\ce{HI \gt HBr \gt HCl \gt HF}$ (碘最快)
 7. 與有機酸行酯化反應的反應速度： $\ce{1\degree \gt 2\degree \gt 3\degree}$
 ## 醇類的化性
 ### 一、製備
+#### 1. 甲醇製備
+- 水煤氣：一氧化碳+氫氣
+- $\ce{CO + 2H2 ->[ZnO\cdot Cr2O3 / Cu][250\degree C] CH3OH}$
+#### 2. 乙醇製備
+- 醣類發酵
+- $\ce{C6H12O6 ->[酵母菌] 2C2H5OH + 2CO2}$
+
+#### 3. 烯與水加成
+[[C11-alkenes#2. 不對稱加成]]
+- $\ce{C2H4 + H2O ->[稀H2SO4] C2H5OH}$
+
+#### 4. 醛酮還原
+#TODO/筆記/linking
+
+#### 5. 二元醇製備：烯氧化
+[[C11-alkenes#三、氧化]]
+*reference: wikipedia/烯烴/#氧化反應*
+- $\ce{3C2H4 + 2KMnO4 + 4H2O -> 2MnO2 + 2KOH + 3HO-C2H4-OH}$
+	- 見 [[C9-2 氧化還原反應式的平衡]]
+#### 6. 鹵烷水解
+#化學/水解
+- $\ce{RX + OH- ->[\Delta] ROH + X-}$
+
 ### 二、酸鹼反應
+- 醇類可與**活潑金屬**反應，生成醇鹽與**氫氣**。
+- $\ce{R-OH + Na -> R-ONa + \frac 12 H2(\uparrow)}$
 ### 三、取代
 - 醇類與鹵化氫發生反應，生成鹵烷類和水。
 ### 四、脫水
