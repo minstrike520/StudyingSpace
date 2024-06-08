@@ -1,9 +1,11 @@
 ---
-reference: 
+page-type: 錯題
 tags:
   - TODO/錯題未完成
-  - 錯題/EXAMPLE
-關聯條目:
+  - "#（科目）"
+related-pages: 
+reference: 
+ref-index:
 ---
 # 題文
 # 曾犯錯誤
