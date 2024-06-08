@@ -1,5 +1,9 @@
+---
+page-type: 學科筆記
+reference: "[[柯講-有機化學]]"
+ref-index: p47
+---
 # 有機鹵化物 Halocarbon
-*柯講 p47*
 ## 鹵烴的化性
 ### 一、製備
 ### 二、取代

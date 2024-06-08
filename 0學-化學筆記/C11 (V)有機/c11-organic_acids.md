@@ -1,3 +1,8 @@
+---
+page-type: 學科筆記
+reference: "[[柯講-有機化學]]"
+ref-index: p78
+---
 # 有機酸 Organic Acids
 *柯講 p78*
 ## 酸的基礎

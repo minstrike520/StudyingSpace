@@ -1,5 +1,5 @@
 ---
-page-type: 學科筆記
+page-type: 學科筆記/講義
 reference: "[[柯講-有機化學]]"
 ref-index: p56
 ---

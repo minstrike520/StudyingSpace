@@ -1,5 +1,9 @@
+---
+page-type: 學科筆記
+reference: "[[柯講-有機化學]]"
+ref-index: p66
+---
 # 酚 Phenol
-*柯講 p66*
 ## 基礎
 - 定義：連接著羥基的[[C11-aromatics|芳香]]化合物
 - 最簡結構：苯酚($\ce{C6H5OH}$)

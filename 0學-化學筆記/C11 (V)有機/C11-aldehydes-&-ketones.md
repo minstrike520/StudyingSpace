@@ -1,5 +1,9 @@
+---
+page-type: 學科筆記/講義
+reference: "[[柯講-有機化學]]"
+ref-index: p71
+---
 # 醛與酮 Aldehyde And Ketone
-*柯講 p71*
 ## 醛酮的定義
 - 含$\ce{-CO -}$的有機物
 - 醛：羰基在末端，示性式為 $\ce{RCHO}$

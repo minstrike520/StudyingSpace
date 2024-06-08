@@ -1,5 +1,9 @@
+---
+page-type: 學科筆記
+reference: "[[柯講-有機化學]]"
+ref-index: p15
+---
 # 烷 Alkane
-*柯講 p15*
 ## 直鏈烷的物理性質
 1. 相態： $\ce{C1 .. C4(g)}$ 、 $\ce{C5 .. C16(l)}$ 、 $\ce{C17 .. (s)}$
 2. 沸點：碳數up，沸點大 ($\because$ 凡德瓦力)
