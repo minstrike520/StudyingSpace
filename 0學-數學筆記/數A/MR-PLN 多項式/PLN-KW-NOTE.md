@@ -65,6 +65,10 @@ $$\begin{aligned}
 \ \rightarrow (\text{所求}) = (x^2-3x+2) + 4(x-1) + 3 = x^2 + x + 1 \ \blacksquare
 \end{aligned}$$
 ## 類題
+[[M-KW5 分模第五回]] 3.
+ #TODO/筆記 
+
+
 *KW p36*
 $$\text{deg}f(x) = 3,\ f(0) = 1,\ f(1) = 9,\ f(2) = 8,\ f(3) = 4,\ \text{求}\ f(x)\text{？}$$
 $$\begin{aligned}
