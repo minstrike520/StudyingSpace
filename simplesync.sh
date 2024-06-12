@@ -9,10 +9,11 @@ git add .
 
 read custom_description
 if [[ $custom_description = "" ]]; then
-  custom_description="untitled"
+  git commit -m "update@$MY_DEVICE: $(date +"%H:%M %Y-%m-%d(%a)")"
+else
+  git commit -m "update@$MY_DEVICE: $custom_description $(date +"%Y-%m-%d(%a)")"
 fi
 
-git commit -m "update@$MY_DEVICE: $custom_description $(date +"%Y-%m-%d(%a), %H:%M")"
 # update@my_device: afternoon T1 (2024-06-12, 17:26)
 
 git pull
