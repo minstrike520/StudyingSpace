@@ -1,6 +1,7 @@
 [
   // options
-  // t 'text': only outside math  // m 'math': only inside math
+  // t 'text': only outside math  
+  // m 'math': only inside math
   // M 'block math': only inside block math
   
   //regular

@@ -2,6 +2,8 @@
 page-type: 學科筆記/講義
 reference: "[[柯講-有機化學]]"
 ref-index: p71
+tags:
+  - 化學/有機/物種
 ---
 # 醛與酮 Aldehyde And Ketone
 ## 醛酮的定義

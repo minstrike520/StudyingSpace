@@ -2,6 +2,8 @@
 page-type: 學科筆記
 reference: "[[柯講-有機化學]]"
 ref-index: p47
+tags:
+  - 化學/有機/物種
 ---
 # 有機鹵化物 Halocarbon
 ## 鹵烴的化性

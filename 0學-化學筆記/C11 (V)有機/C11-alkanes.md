@@ -2,6 +2,8 @@
 page-type: 學科筆記
 reference: "[[柯講-有機化學]]"
 ref-index: p15
+tags:
+  - 化學/有機/物種
 ---
 # 烷 Alkane
 ## 直鏈烷的物理性質
