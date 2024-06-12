@@ -42,7 +42,7 @@ ref-index: p56
 - $\ce{C2H4 + H2O ->[稀H2SO4] C2H5OH}$
 
 #### 4. 醛酮還原
-#TODO/筆記/linking
+[[C11-aldehydes-&-ketones#醛酮的還原]]
 
 #### 5. 二元醇製備：烯氧化
 [[C11-alkenes#三、氧化]]

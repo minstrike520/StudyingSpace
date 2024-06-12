@@ -111,7 +111,7 @@ $$\text{deg}f(x) = 3,\ f(1) = f(2) = f(-1) = 2,\ f(3) = 10,\ f(x) = ?$$
 
 $$\begin{aligned}
 & f(x) - 2 = a(x+1)(x-1)(x-2) \\
-x \text{代} 3 \ \rightarrow \ & f(3) - 2 = 8a = 10-2 = 8,\ a = 1 \\
+ & x \text{代} 3 \ \rightarrow \ f(3) - 2 = 8a = 10-2 = 8,\ a = 1 \\
 \therefore \ & f(x) = (x+1)(x-1)(x-2) - 2 \ \blacksquare
 \end{aligned}$$
 # PLN-10 多項式係數
