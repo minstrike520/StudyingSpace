@@ -101,7 +101,7 @@ tags:
 - 醛 $\ce{CH_{3}CHO + Cr_{2}O_{7}^{2-} -> CH_{3}COOH + Cr^{3+}}$
 
 **芳香羧酸**
-- 烷基苯與酸性過錳酸鉀溶液共熱 $\ce{Ar-CH_{3} ->[KMnO_{4},\ H+,\ \Delta] Ar-COOH}$
+- 烷基苯與酸性過錳酸鉀溶液共熱 $\ce{Ph-CH_{3} ->[KMnO_{4},\ H+,\ \Delta] Ph-COOH}$
 #### 2. 衍生物水解
 1. 酯類水解 $\ce{CH_{3}COOCH_{3} + H_{2}O <=>[H+] CH_{3}COOH + CH_{3}OH}$ (酯化反應逆寫)
 2. 醯鹵水解 $\ce{CH_{3}COCl + H_{2}O -> CH_{3}COOH + HCl}$
