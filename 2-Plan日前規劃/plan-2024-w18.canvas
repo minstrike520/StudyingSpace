@@ -6,7 +6,7 @@
 		{"id":"ef0617e04efcb333","type":"text","text":"**日規劃**\n0730 起床\n8'-12' A(4)\n14-17 B(3)\n17'-19' C(2)\n21-22 D(1)\n\n\n*Note: 8' = 0830*","x":100,"y":382,"width":320,"height":220},
 		{"id":"001e154e480c6152","type":"text","text":"# 下週目標\n- 一刷完畢\n- 開始處理化學重背誦的部分\n- *得去學校拿我的水壺...*","x":-340,"y":237,"width":320,"height":162},
 		{"id":"abce30d688ddf949","type":"text","text":"# 排入事項\n*按優先級排列*\n- 化 酸鹼\n- 化 氧還\n- 數 極限\n- 數 微分\n- 數 積分\n- 物 聲波\n- 物 功與能—簡單題","x":122,"y":674,"width":298,"height":326},
-		{"id":"8a761f1c3c0ac884","type":"file","file":"2日-日前規劃/Excalidraw Attatchments/Excl-0509.excalidraw.md","x":542,"y":302,"width":600,"height":450}
+		{"id":"8a761f1c3c0ac884","type":"file","file":"2-Plan日前規劃/Excalidraw Attatchments/Excl-0509.excalidraw.md","x":542,"y":302,"width":600,"height":450}
 	],
 	"edges":[
 		{"id":"fa1a0e924cb3d2a4","fromNode":"2cd28f152a1f9c50","fromSide":"right","toNode":"1d874ea43787a896","toSide":"left"},

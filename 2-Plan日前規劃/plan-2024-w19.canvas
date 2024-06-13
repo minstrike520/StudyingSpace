@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"bcc430fafc310769","x":-1020,"y":569,"width":460,"height":411,"type":"file","file":"2日-日前規劃/Notes/schedule-備考、早睡早起.md"},
+		{"id":"bcc430fafc310769","x":-1020,"y":569,"width":460,"height":411,"type":"file","file":"2-Plan日前規劃/Notes/schedule-備考、早睡早起.md"},
 		{"id":"05b89a7036c24c15","type":"text","text":"# 時程\n```log\n0800 起床\n0800-0900 早餐>雜務>出門\n...\n1930 返程回家\n1930-2100 cmt>晚餐>廁所？\n2100-2200 心得記錄 or 計算\n2200-2230 洗澡\n2230-2300 整理/雜務\n2300 睡覺\n```","x":-476,"y":120,"width":416,"height":360},
 		{"id":"33bde872486cf96f","type":"text","text":"# EXT: 分科總體計畫(v-w19)\n五月 w19(now) w20 w21\n六月 w22(班級聚餐、同學會行前會) w23 w24 w25\n七月 w26 w27(**(金)(土)分科**)\n\n化學：\n**酸鹼 氧還 沉澱**>>>>>>歷屆>歷屆\n\n物理：\n**波動 力學**>電磁學>>>>>歷屆>歷屆\n\n數學\n**三角 向量 三維空間**>>>>>>歷屆>歷屆","x":-800,"y":-400,"width":532,"height":400},
 		{"id":"03d29433d2d4597d","type":"text","text":"# 周計畫","x":-138,"y":-180,"width":205,"height":70},
 		{"id":"28a5291bf344b028","type":"text","text":"生效範圍：5/15(三) ~ 5/19(日)","x":180,"y":-171,"width":347,"height":53},
-		{"id":"0bf7e6d43a799ad2","type":"file","file":"2日-日前規劃/Excalidraw Attatchments/Excl-0515.excalidraw.md","x":-35,"y":0,"width":896,"height":357},
+		{"id":"0bf7e6d43a799ad2","type":"file","file":"2-Plan日前規劃/Excalidraw Attatchments/Excl-0515.excalidraw.md","x":-35,"y":0,"width":896,"height":357},
 		{"id":"118888e069a4b888","type":"text","text":"# 時程（+跑步）\n```log\n0800 起床\n0800-0900 早餐>雜務>出門\n...\n1845-1900 cmt(騎ubike回家放東西)\n1900-1930 慢跑\n1930-2000 洗澡\n2000-2100 晚餐\n2100-2230 心得記錄 or 計算\n2230-2300 整理/雜務(準備睡覺)\n2300 睡覺\n```","x":-1020,"y":120,"width":460,"height":360}
 	],
 	"edges":[
