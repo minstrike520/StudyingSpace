@@ -1,6 +1,6 @@
 # minstrike520's studying space
 ## 最近更新
-[[2日-討論思辨(高一二)/README|高一二Notion日記搬運]]
+[[2-Discussion討論思辨(高一二)/README|高一二Notion日記搬運]]
 [[C11-alkanes]]
 [[C11-alchohols]]
 [[建中化學高三下一段檢討]]
