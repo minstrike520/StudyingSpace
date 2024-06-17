@@ -73,5 +73,5 @@ P_{\ell+5} &  = P_{5} + \ell \vec{b}  \\
 & = (6-2\ell,\ 11+2\ell,\ 11-\ell) \ \text{is on}\ x = 2 \\
 \end{aligned} \\
 \to\ & 6-2\ell = 2,\ \ell = 2\ \blacksquare
-\end{aligned}
-$$
+\end{aligned}$$
+$\ce{C_{2}H_{5}OH + KMnO_{4}^{2-} <=> }$

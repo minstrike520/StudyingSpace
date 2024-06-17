@@ -9,7 +9,6 @@
   {trigger: "qed", replacement: "\\blacksquare", options: "mA"},
   {trigger: "boxed", replacement: "\\boxed{$0}", options: "mA"},
 
-  {trigger: "in", replacement: "\\in", options: "mA"},
   {trigger: "or", replacement: "\\cup", options: "mA"},
 
   //trig 
