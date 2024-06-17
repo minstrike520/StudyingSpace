@@ -52,3 +52,26 @@ $$
 \dots
 \end{array} 
 $$
+$$
+\left(\begin{vmatrix}
+1 & 2  & 1\\
+4 & 8  & 1\\
+16 & 32 & 1
+\end{vmatrix}\right)
+$$
+$$
+\begin{aligned}
+ & \text{set}\ \vec{v} = k \vec{a},\ \text{then}\ \vec{OP_{5}} = \vec{OP} + 5k \vec{a}\ \text{is on}\ E \\
+ & \begin{aligned}
+  \vec{OP} + 5k \vec{a}  & = (1+5k,\ 1+ 10k,\ 1+ 10k) \\
+ (\text{投影至} E) & = 1 + k' - 1 - 2k' + 3 + 6k' = 28 
+\end{aligned} \\
+ & 5k' = 25,\ k' = 5 \implies k = 1 \\
+ & \vec{OP_{5}} = (6, 11, 11) \\
+\to\ & \begin{aligned}
+P_{\ell+5} &  = P_{5} + \ell \vec{b}  \\
+& = (6-2\ell,\ 11+2\ell,\ 11-\ell) \ \text{is on}\ x = 2 \\
+\end{aligned} \\
+\to\ & 6-2\ell = 2,\ \ell = 2\ \blacksquare
+\end{aligned}
+$$

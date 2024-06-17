@@ -214,7 +214,7 @@
     // Quantum mechanics
     {trigger: "dag", replacement: "^{\\dagger}", options: "mA"},
 	{trigger: "o+", replacement: "\\oplus ", options: "mA"},
-	{trigger: "ox", replacement: "\\otimes ", options: "mA"},
+	//{trigger: "ox", replacement: "\\otimes ", options: "mA"},
     {trigger: "bra", replacement: "\\bra{$0} $1", options: "mA"},
 	{trigger: "ket", replacement: "\\ket{$0} $1", options: "mA"},
 	{trigger: "brk", replacement: "\\braket{ $0 | $1 } $2", options: "mA"},
