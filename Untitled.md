@@ -75,3 +75,19 @@ P_{\ell+5} &  = P_{5} + \ell \vec{b}  \\
 \to\ & 6-2\ell = 2,\ \ell = 2\ \blacksquare
 \end{aligned}$$
 $\ce{C_{2}H_{5}OH + KMnO_{4}^{2-} <=> }$
+# i^i
+$$
+\begin{aligned}
+ & e^{i\theta} = \cos\theta + i\sin\theta  \\
+ & \text{for}\ \theta = \frac{\pi}{2}:  \\
+ & \begin{aligned}
+ e^{i(\pi/2)}  & = \cos \frac{\pi}{2} + i\sin \frac{\pi}{2} \\
+   & = 0+ i = i \\
+\end{aligned} \\
+ & \begin{aligned}
+ i^{i}  & = (e^{i(\pi/2)})^{i} \\
+ & = e^{i\times i(\pi/2)} \\
+ & = e^{-\pi/2}\ \blacksquare
+\end{aligned} 
+\end{aligned}
+$$

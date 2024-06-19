@@ -221,8 +221,8 @@
     {trigger: "outer", replacement: "\\ket{${0:\\psi}} \\bra{${0:\\psi}} $1", options: "mA"},
 
     // Chemistry
-	{trigger: "pu", replacement: "\\pu{ $0 }", options: "mA"},
-	{trigger: "cee", replacement: "\\ce{ $0 }", options: "mA"},
+	{trigger: "pu", replacement: "\\pu{$0}$1", options: "mA"},
+	{trigger: "cee", replacement: "\\ce{$0}$1", options: "mA"},
 	{trigger: "he4", replacement: "{}^{4}_{2}He ", options: "mA"},
 	{trigger: "he3", replacement: "{}^{3}_{2}He ", options: "mA"},
 	{trigger: "iso", replacement: "{}^{${0:4}}_{${1:2}}${2:He}", options: "mA"},
