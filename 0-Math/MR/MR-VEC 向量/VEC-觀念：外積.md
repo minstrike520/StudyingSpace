@@ -3,7 +3,10 @@ page-type: 學科筆記
 reference: "[[KW-VEC]]"
 ref-index: p25
 tags:
-  - review/數學
+  - review_數
+sr-due: 2024-06-22
+sr-interval: 3
+sr-ease: 250
 ---
 # 外積
 - 同向分配律：$\vec a \times (\vec b + \vec c) = \vec a \times \vec b + \vec a \times \vec c$

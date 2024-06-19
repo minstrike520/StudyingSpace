@@ -1,7 +1,10 @@
 ---
 page-type: 學科筆記/比較
 tags:
-  - review/數學/重點觀念
+  - review_數/重點觀念
+sr-due: 2024-06-23
+sr-interval: 4
+sr-ease: 270
 ---
 # 平行假設法
 已知b向量。假如a向量平行b向量，則可如此描述：

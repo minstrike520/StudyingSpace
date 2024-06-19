@@ -1,9 +1,12 @@
 ---
 page-type: 學科筆記
 tags:
-  - review/數學/重點觀念
+  - review_數/重點觀念
 reference: KW-CPX
 ref-index: "7."
+sr-due: 2024-06-22
+sr-interval: 3
+sr-ease: 250
 ---
 # 複數的重要性質
 1. 加bar、加負號，其值不變
