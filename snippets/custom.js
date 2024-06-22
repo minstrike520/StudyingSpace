@@ -8,9 +8,9 @@
   {trigger: "eqs", replacement: "\\left\\{\\begin{aligned}\n$0\n\\end{aligned}\\right.", options: "mA"},
   {trigger: "qed", replacement: "\\blacksquare", options: "mA"},
   {trigger: "boxed", replacement: "\\boxed{$0}", options: "mA"},
-  {trigger: "\\implies tw", replacement: "Longleftrightarrow", options: "mA"},
+  {trigger: "\\implies tw", replacement: "\\LqLongleftrightarrow", options: "mA"},
 
-  {trigger: "or", replacement: "\\cup", options: "mA"},
+  {trigger: "theref\\cup e", replacement: "\\therefore", options: "mA"},
 
   //trig 
   {trigger: "angle", replacement: "\\angle {$0}", options: "mA"},
@@ -22,10 +22,6 @@
   {trigger: "revreaction", replacement: "<=>", options: "mA"},
 
   //inequality
-  {trigger: "lt", replacement: "\\lt", options: "mA"},
-  {trigger: "gt", replacement: "\\gt", options: "mA"},
-  {trigger: "le", replacement: "\\le", options: "mA"},
-  {trigger: "ge", replacement: "\\ge", options: "mA"},
 
   {trigger: "\\ltq", replacement: "\\stackrel{?}{\\lt}", options: "mA"},
   {trigger: "\\gtq", replacement: "\\stackrel{?}{\\gt}", options: "mA"},
@@ -34,5 +30,9 @@
  // {trigger: "gt", replacement: "\\gt", options: "mA"},
   // {trigger: "le", replacement: "\\le", options: "mA"},
   // {trigger: "ge", replacement: "\\ge", options: "mA"},
+  
+  //sim_equations
+  {trigger: "\\simeq uations", replacement: "\\left\\{\\begin{aligned}\n$0\n\\end{aligned}\\right.", options: "mA"},
+
 
 ]
