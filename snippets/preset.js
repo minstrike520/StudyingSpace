@@ -81,7 +81,7 @@
 	{trigger: "ddot", replacement: "\\ddot{$0}$1", options: "mA"},
 	{trigger: "cdot", replacement: "\\cdot", options: "mA"},
 	{trigger: "tilde", replacement: "\\tilde{$0}$1", options: "mA"},
-	{trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
+	{trigger: "underline", replacement: "\\underline{$0}$1", options: "mA"},
 	{trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
 
     // More auto letter subscript
