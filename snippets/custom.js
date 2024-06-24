@@ -7,13 +7,14 @@
   //regular
   {trigger: "eqs", replacement: "\\left\\{\\begin{aligned}\n$0\n\\end{aligned}\\right.", options: "mA"},
   {trigger: "qed", replacement: "\\blacksquare", options: "mA"},
-  {trigger: "boxed", replacement: "\\boxed{$0}", options: "mA"},
+  {trigger: "boxed", replacement: "\\boxed{\\ $0\\ }$1", options: "mA"},
   {trigger: "\\implies tw", replacement: "\\Longleftrightarrow", options: "mA"},
 
-  {trigger: "triangle", replacement: "\\triangle", options: "mA"},
+  {trigger: "triangle", replacement: "\\triangle ", options: "mA"},
+  {trigger: "prllg", replacement: "▱", options: "mA"},
 
   //trig 
-  {trigger: "angle", replacement: "\\angle {$0}", options: "mA"},
+  {trigger: "angle", replacement: "\\angle {$0}$1", options: "mA"},
   {trigger: "deg", replacement: "\\degree", options: "mA"},
   {trigger: "cancel", replacement:"\\cancel{$0}$1", options: "mA"},
   {trigger: "underset", replacement: "\\underset{$1}{$0}$2", options: "mA"},
@@ -24,7 +25,6 @@
   {trigger: "revreaction", replacement: "<=>", options: "mA"},
 
   //inequality
-
   {trigger: "\\lt qq", replacement: "\\stackrel{?}{\\lt}", options: "mA"},
   {trigger: "\\gt qq", replacement: "\\stackrel{?}{\\gt}", options: "mA"},
   {trigger: "\\le qq", replacement: "\\stackrel{?}{\\le}", options: "mA"},
@@ -33,8 +33,6 @@
   // {trigger: "le", replacement: "\\le", options: "mA"},
   // {trigger: "ge", replacement: "\\ge", options: "mA"},
   
-  //sim_equations
-  {trigger: "\\simeq uations", replacement: "\\left\\{\\begin{aligned}\n$0\n\\end{aligned}\\right.", options: "mA"},
 
 
 ]
