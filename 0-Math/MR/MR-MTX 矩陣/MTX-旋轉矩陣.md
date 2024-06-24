@@ -2,9 +2,9 @@
 page-type: 學科筆記
 tags:
   - review_數
-sr-due: 2024-06-23
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-06-26
+sr-interval: 2
+sr-ease: 250
 ---
 
 # 逆時針旋轉矩陣

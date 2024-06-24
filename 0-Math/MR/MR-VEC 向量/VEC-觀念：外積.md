@@ -4,9 +4,9 @@ reference: "[[KW-VEC]]"
 ref-index: p25
 tags:
   - review_數
-sr-due: 2024-06-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-07-12
+sr-interval: 18
+sr-ease: 270
 ---
 # 外積
 - 同向分配律：$\vec a \times (\vec b + \vec c) = \vec a \times \vec b + \vec a \times \vec c$

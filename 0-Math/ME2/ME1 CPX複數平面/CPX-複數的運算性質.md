@@ -4,9 +4,9 @@ tags:
   - review_數/重點觀念
 reference: KW-CPX
 ref-index: "7."
-sr-due: 2024-06-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-07-11
+sr-interval: 17
+sr-ease: 270
 ---
 # 複數的重要性質
 1. 加bar、加負號，其值不變

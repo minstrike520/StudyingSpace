@@ -2,9 +2,9 @@
 page-type: 學科筆記
 tags:
   - review_數
-sr-due: 2024-06-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-07-08
+sr-interval: 14
+sr-ease: 210
 ---
 # 正弦定理
 已知三角形的三邊長為a,b,c及其對角 $\angle A, \angle B, \angle C$，若其外接圓直徑為2R，則可得以下關係式：

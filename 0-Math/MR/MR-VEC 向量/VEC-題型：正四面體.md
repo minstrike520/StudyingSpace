@@ -2,8 +2,8 @@
 page-type: 學科筆記
 tags:
   - review_數/重點觀念
-sr-due: 2024-06-20
-sr-interval: 1
+sr-due: 2024-07-02
+sr-interval: 8
 sr-ease: 230
 ---
 # 正四面體
