@@ -12,6 +12,8 @@
 
   {trigger: "triangle", replacement: "\\triangle ", options: "mA"},
   {trigger: "prllg", replacement: "▱", options: "mA"},
+  {trigger: "aa", replacement: "å", options: "mA"},
+  {trigger: "AA", replacement: "Å", options: "mA"},
 
   //trig 
   {trigger: "angle", replacement: "\\angle {$0}$1", options: "mA"},
