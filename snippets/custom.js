@@ -21,6 +21,10 @@
   {trigger: "cancel", replacement:"\\cancel{$0}$1", options: "mA"},
   {trigger: "underset", replacement: "\\underset{$1}{$0}$2", options: "mA"},
   {trigger: "underbracket", replacement: "\\underbracket{$1}{$0}$2", options: "mA"},
+  {trigger: "overline", replacement: "\\overline{$0}$1", options: "mA"},
+  {trigger: "overlr", replacement: "\\overleftrightarrow{$0}$1", options: "mA"},
+  {trigger: "barr", replacement: "$\\overline{$0}$ $1", options: "tA"},
+
 
   //chemicals
   {trigger: "cek", replacement: "$\\ce{$0}$", options: "tA"},
