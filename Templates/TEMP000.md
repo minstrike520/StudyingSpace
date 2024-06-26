@@ -1,7 +1,6 @@
 ---
 page-type: 錯題
 tags:
-  - TODO/錯題未完成
   - "#（科目）"
 related-pages: 
 reference: 
