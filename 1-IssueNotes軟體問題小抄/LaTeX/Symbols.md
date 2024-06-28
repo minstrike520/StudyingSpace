@@ -69,3 +69,11 @@ $$\left\{\begin{aligned}
 
 矩陣 Matrix `bmatrix` $\begin{bmatrix} 1 & 2  \\ 3 & 4 \end{bmatrix}$
 () `pmatrix` $\begin{pmatrix}1 & 2 \\ 3 & 4 \end{pmatrix}$
+# Array
+`hline`
+$$
+\begin{array}
+. 1 & 2 & 3 \\
+\hline 4 & 5 & 6 \\
+\end{array}
+$$

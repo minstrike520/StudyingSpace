@@ -41,7 +41,7 @@ $$
 \newcommand\udn[3]{\underline{\phantom{#1} #2 \phantom{#3}}\\[-3pt]}
 \newcommand\phn[2]{#1 \phantom{#2}\\[-3pt]}
 \newcommand\dvhead[2]{#1 \enclose{longdiv}{#2}\kern-.45ex \\[-3pt]}
-\begin{array}{rll} 
+\begin{array}{rll}
 \phn{19.8}{}
 \dvhead {111}{\phn{2200}{.0}}
 \udn{}{111}{0.0} 
