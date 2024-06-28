@@ -3,6 +3,9 @@ page-type: 學科筆記
 tags:
   - review_化/記憶型
 reference: https://cleartw.pixnet.net/blog/post/251697700
+sr-due: 2024-06-30
+sr-interval: 2
+sr-ease: 150
 ---
 # 沉澱物顏色
 ## 沉澱表．其一
