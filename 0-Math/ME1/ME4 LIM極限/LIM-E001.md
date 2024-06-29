@@ -24,7 +24,7 @@ $$
 $$
 1.
 $$
-\begin{aligned}  & \text{Proving}\ \forall n \in \mathbb{N},\ a_{n} \le 5\\
+\begin{aligned}  & \text{proving}\ \forall n \in \mathbb{N},\ a_{n} \le 5\\
  & n = 1: a_{1} = 4 \le 5\ \text{(satisfies)}  \\
  & \text{let}\ k:n=k\ \text{satisfies} \to\ a_{k} \le 5 \\
  & \text{then}\ n = k+1: \\
