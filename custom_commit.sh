@@ -6,6 +6,7 @@ git status
 echo -n "Name your update description (press ENTER to use default option): "
 cd ~/shortcuts/TheVault/
 
+set +
 read custom_description
 if [[ $custom_description = "" ]]; then
   git commit -m "update@$MY_DEVICE $(date +"%H:%M %Y-%m-%d(%a)")"
