@@ -5,7 +5,6 @@ echo "Auto staging every change..."
 git add .
 
 echo ""
-echo ""
 
 bash ./custom_commit.sh
 set +e
