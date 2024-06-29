@@ -6,8 +6,8 @@ git add .
 
 echo ""
 
-bash ./custom_commit.sh
 set +e
+bash ./custom_commit.sh
 # update@my_device: afternoon T1 (2024-06-12, 17:26)
 
 git pull
