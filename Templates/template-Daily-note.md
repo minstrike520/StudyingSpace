@@ -1,4 +1,4 @@
 ---
 page-type: daily-note
-created-week:
+created-week: "{{time:w}}"
 ---
