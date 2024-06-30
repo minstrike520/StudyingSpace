@@ -1,3 +1,7 @@
+---
+page-type: Waypoint
+---
+
 %% Begin Waypoint %%
 - [[P7 (II)功與能量]]
 - [[P7-1 功與動能]]
