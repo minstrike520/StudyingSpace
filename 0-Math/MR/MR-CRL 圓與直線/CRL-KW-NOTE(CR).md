@@ -90,6 +90,7 @@ $$\left\{\begin{align}
 ## 切點弦方程式(極線方程式)
 - 【情境】圓 $C$ (一般式)，圓外一點 $P(x_0, y_0)$，過$P$作$C$的切線得切點$A$、$B$，求$\overleftrightarrow{AB}$方程式。
 - $L_{極}: x_0x + y_0y + d \cdot (\frac{x+x_0}2) + e \cdot (\frac{y + y_0}2) + f = 0$
+- 標準式 $L_極: (x-h)(x_0-h)+ (y-k)(y_0-k) = 0$
 - 證明 ![[CRL-KW-GRAPH-切點弦方程式]]
 ## 切線、極線的速算公式
 *KW p62*

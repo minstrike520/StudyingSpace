@@ -85,7 +85,7 @@ $$\begin{aligned}
 ## 兩平行線間距
 $$\begin{aligned}
   & L_1: \underline{ax+by} +c_1 = 0,\ L_2: \underline{ax+by} + c_2 = 0 \\
-  \rightarrow \ & d(L_1, L_2) = \frac{|c_1-c_2}{\sqrt{a^2+b^2}}
+  \rightarrow \ & d(L_1, L_2) = \frac{|c_1-c_2|}{\sqrt{a^2+b^2}}
 \end{aligned}$$
 ## 兩直線的角平分線
 $$\begin{aligned}
