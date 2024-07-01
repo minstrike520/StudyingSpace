@@ -1,5 +1,7 @@
 ---
 page-type: 學科筆記
+related-pages:
+  - "[[C7-2 勒沙特列與平衡移動]]"
 ---
 # 哈伯法製氨
 $$\ce{N2(g) + 3H2(g) <=>[Fe + Al2O3 + K2O] 2NH3(g)\ \Delta H\degree = -92.22\pu{kJ}}$$
