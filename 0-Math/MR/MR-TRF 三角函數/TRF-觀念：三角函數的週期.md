@@ -23,24 +23,32 @@ $$
 f_{1}(x) = f\left( \frac{2\pi}{P} x + \phi_{0} \right)
 $$
 相位： $\phi(x) = x \to \phi_{1}(x) = \frac{2\pi}{P}x + \phi_{0}$
--> 相速度
-頻率： $P_{1} = \frac{P}{| a |}$
-- 想法：伸縮
-	- $y = 2 \sin x$：「 2 」-> 振幅
-	- $y = \sin 2x$：「 2 」 -> 壓縮量
-- 整理
-	- 週期 = $\frac{P}{|B|}$
-	- 頻率 = $f \times |B| = \frac{|B|}{P}$
-	- 相位 = $Bx + C$
-- 絕對值
-	- $|f(x)|$的週期必為$\pi$
-- 函數和
-	- $f(x)+g(x)$ -> 原函數週期的**最小公倍數**
-- 結論
-	1. $y = |Af(Bx+C)| +D$ -> $P' = \frac \pi {|B|}$
-	2. $y = |Af(Bx+C)| +D$ -> $P' = \frac P {|B|}$
-	3. ()的偶次方與()的絕對值效果相同。
-	4. 本結論的例外：$y = |\text{正函數}| + |\text{餘函數}|$ -> $P = \frac \pi 2$
-		- 實例：$f(x) = |\sin x| + |\cos x|$
-			$\rightarrow f(x+\frac \pi 2) = |\sin (x + \frac \pi 2)| + |\cos (x + \frac \pi 2)| = |\sin x| + |\cos x| = f(x)$
-			$\rightarrow f(x) \ \text{的週期為} \frac \pi 2 \blacksquare$
+-> 相速度 $\phi'(x) =  \frac{2\pi}{P} =a$
+
+## 函數的絕對值
+$$
+f_{2}(x) = | f_{1}(x) | \implies P_{2} = \frac{1}{2}P_{1}
+$$
+值得注意：平方**對週期的影響**與絕對值相同！
+$$
+f_{2-1}(x) = [f_{1}(x)]^{2} \implies P_{2-1} = \frac{1}{2}P_{1}
+$$
+簡單情況：判斷 $| \cos x |,\ | \sin x |$ -> 週期為 $\pi$
+### 通式總結
+$$
+y = | Af(Bx+C)+D | \implies P' = \frac{P}{| B |}
+$$
+### 例外
+$$
+y = | 正函數 | + | 餘函數 | \implies P = \frac{\pi}{2}
+$$
+實例：$f(x) = |\sin x| + |\cos x|$
+$\rightarrow f(x+\frac \pi 2) = |\sin (x + \frac \pi 2)| + |\cos (x + \frac \pi 2)| = |\sin x| + |\cos x| = f(x)$
+$\rightarrow f(x) \ \text{的週期為} \frac \pi 2 \blacksquare$
+
+## 函數和
+$$
+f_{3}(x) = f(x) + g(x) \implies P_{3} = \text{lcm}(P_{f},\ P_{g})
+$$
+註釋：lcm=最小公倍數
+

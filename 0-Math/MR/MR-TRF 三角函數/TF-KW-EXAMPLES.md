@@ -76,7 +76,7 @@ $y = 2\sin (\frac \pi 6 - x) - 2\cos x$，若$0\le x \lt 2\pi$，則最小值點
 設 $\theta \in \mathbb R$，求 $\frac{1+\cos\theta}{\sin\theta+2}$ 之最大值、最小值？
 ?
 ### 想法
-- 關聯：[[TF-KW-NOTE#週期專論]]
+- 關聯：[[TRF-觀念：三角函數的週期]]
 - 看到題文 -> 聯想到「**兩點斜率**」
 ### 作法
 ![[TF-KW-EX-SOL-7]]
