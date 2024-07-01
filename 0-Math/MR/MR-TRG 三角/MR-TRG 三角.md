@@ -2,13 +2,14 @@
 page-type: Waypoint
 ---
 %% Begin Waypoint %%
-- [[(WIP)TRG-FLASHCARDS-三角形面積]]
-- [[倍角公式-WRITING]]
-- [[總表：三角形面積]]
 - [[MR-TRG 三角]]
-- [[TRG-三角比的公式]]
-- [[TRG-三角比與特殊角轉換]]
-- [[TRG-特殊角]]
+- [[TRG-技巧：三角比與特殊角轉換]]
+- [[TRG-記憶：特殊角]]
+- [[TRG-總表：三角形面積]]
 - [[TRG-觀念：正弦定理]]
+- [[TRG-觀念：和差角公式]]
+- [[TRG-觀念：倍角公式]]
+- [[TRG-觀念：餘弦定理]]
+- [[TRG-FLASHCARDS-三角形面積]]
 
 %% End Waypoint %%
