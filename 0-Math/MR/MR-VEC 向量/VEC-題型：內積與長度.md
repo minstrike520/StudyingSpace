@@ -2,6 +2,9 @@
 page-type: 學科筆記/例題
 tags:
   - review_數/經典題型
+sr-due: 2024-07-03
+sr-interval: 2
+sr-ease: 170
 ---
 給內積求長度 or 給長度求內積
 $$
