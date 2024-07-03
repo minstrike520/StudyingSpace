@@ -35,6 +35,7 @@
   //chemicals
   {trigger: "cek", replacement: "$\\ce{$0}$", options: "tA"},
   {trigger: "revreaction", replacement: "<=>", options: "mA"},
+  {trigger: "phring", replacement: "⌬", options: "mA"},
 
   //inequality
   {trigger: "<?", replacement: "\\stackrel{?}{<}", options: "mA"},
