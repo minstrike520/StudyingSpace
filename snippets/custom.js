@@ -37,10 +37,11 @@
   {trigger: "revreaction", replacement: "<=>", options: "mA"},
 
   //inequality
-  {trigger: "\\lt qq", replacement: "\\stackrel{?}{\\lt}", options: "mA"},
-  {trigger: "\\gt qq", replacement: "\\stackrel{?}{\\gt}", options: "mA"},
-  {trigger: "\\le qq", replacement: "\\stackrel{?}{\\le}", options: "mA"},
-  {trigger: "\\ge qq", replacement: "\\stackrel{?}{\\ge}", options: "mA"},
+  {trigger: "<?", replacement: "\\stackrel{?}{<}", options: "mA"},
+  {trigger: ">?", replacement: "\\stackrel{?}{>}", options: "mA"},
+  {trigger: "=?", replacement: "\\stackrel{?}{=}", options: "mA"},
+  {trigger: "\\le?", replacement: "\\stackrel{?}{\\le}", options: "mA"},
+  {trigger: "\\ge?", replacement: "\\stackrel{?}{\\ge}", options: "mA"},
  // {trigger: "gt", replacement: "\\gt", options: "mA"},
   // {trigger: "le", replacement: "\\le", options: "mA"},
   // {trigger: "ge", replacement: "\\ge", options: "mA"},

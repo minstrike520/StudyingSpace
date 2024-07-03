@@ -11,5 +11,6 @@ page-type: Waypoint
 - [[TRG-觀念：倍角公式]]
 - [[TRG-觀念：餘弦定理]]
 - [[TRG-FLASHCARDS-三角形面積]]
+- [[TRG-FLASHCARDS-特殊三角形]]
 
 %% End Waypoint %%

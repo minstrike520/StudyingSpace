@@ -24,12 +24,12 @@ page-type: Waypoint
 - [[VEC-正射影]]
 - [[VEC-基礎觀念]]
 - [[VEC-總表：向量考點]]
-- [[VEC-翻卡：正四面體]]
 - [[VEC-題型：內積與長度]]
 - [[VEC-題型：正四面體]]
 - [[VEC-觀念：中線定理]]
 - [[VEC-觀念：內積]]
 - [[VEC-觀念：外積]]
 - [[VEC-觀念：向量與四心]]
+- [[VEC-FLASHCARDS-正三角形與正四面體]]
 
 %% End Waypoint %%
