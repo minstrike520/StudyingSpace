@@ -7,7 +7,7 @@
 # SQ-2 等比數列
 *KW p15*
 ## 三數等比、等差
-1. 若$a,\ b,\ c$三數**成等比**，可設此三數為$a,\ ar,\ ar^2 \lor \frac a r,\ a,\ ar$
+1. 若$a,\ b,\ c$三數**成等比**，可設此三數為$a,\ ar,\ ar^2 \lor \dfrac a r,\ a,\ ar$
 2. 若$a,\ b,\ c$三數**成等差**，可設此三數為$a-d,\ a,\ a+d$
 ## 等差、等比的轉換
 - 原理：透過**指對數函數**進行轉換
@@ -16,27 +16,27 @@
 
 # SQ-3 總和問題$\sum$
 ## 基礎總和公式 $\sum$
-1. $\sum^n_{k=1}k = \frac{n(n+1)}2$
-2. $\sum^n_{k=1}k^2 = \frac{n(n+1)(2n+1)}6$
+1. $\sum^n_{k=1}k = \dfrac{n(n+1)}2$
+2. $\sum^n_{k=1}k^2 = \dfrac{n(n+1)(2n+1)}6$
 3. $\sum^n_{k=1}k^3 = \left[\sum^n_{k=1}k\right]^2$
 ## 特別規則I：多項連乘
 - 原理：只是乘開、分配並代回基礎公式
-1. $\sum^n_{k=1}k(k+1) = \frac{n(n+1)(n+2)}3$
-2. $\sum^n_{k=1}k(k+1)(k+2) = \frac{n(n+1)(n+2)(n+3)}4$
+1. $\sum^n_{k=1}k(k+1) = \dfrac{n(n+1)(n+2)}3$
+2. $\sum^n_{k=1}k(k+1)(k+2) = \dfrac{n(n+1)(n+2)(n+3)}4$
 ## 特別規則II：分項對消
-1. $\sum^n_{k=1}\frac 1 {k(k+1)} = \sum^n_{k=1}(\frac 1 k - \frac 1 {k+1})$
-2. $\sum^n_{k=1}\frac 1 {k(k+2)} = \frac 1 2 \sum^n_{k=1}(\frac 1 k - \frac 1 {k+2})$
-3. $\sum^n_{k=1}\frac 1 {k(k+3)} = \frac 1 3 \sum^n_{k=1}(\frac 1 k - \frac 1 {k+3})$
+1. $\sum^n_{k=1}\dfrac 1 {k(k+1)} = \sum^n_{k=1}(\dfrac 1 k - \dfrac 1 {k+1})$
+2. $\sum^n_{k=1}\dfrac 1 {k(k+2)} = \dfrac 1 2 \sum^n_{k=1}(\dfrac 1 k - \dfrac 1 {k+2})$
+3. $\sum^n_{k=1}\dfrac 1 {k(k+3)} = \dfrac 1 3 \sum^n_{k=1}(\dfrac 1 k - \dfrac 1 {k+3})$
 - 注意：請不要漏了$\sum$前的分數！
 ## 特別規則III：多項連除
-1. $\sum^n_{k+1}\frac 1 {k(k+1)} = \sum^n_{k = 1} (\frac 1 k - \frac 1 {k+1})$
-2. $\sum^n_{k+1}\frac 1 {k(k+1)(k+2)} = \frac 1 2 \sum^n_{k=1}(\frac 1 {k(k+1)} - \frac 1 {(k+1)(k+2)})$
-3. $\sum^n_{k+1} \frac 1 {k(k+1)(k+2)(k+3)} = \frac 1 3 \sum^n_{k=1} (\frac 1 {k(k+1)(k+2)} - \frac 1 {(k+1)(k+2)(k+3)})$
+1. $\sum^n_{k+1}\dfrac 1 {k(k+1)} = \sum^n_{k = 1} (\dfrac 1 k - \dfrac 1 {k+1})$
+2. $\sum^n_{k+1}\dfrac 1 {k(k+1)(k+2)} = \dfrac 1 2 \sum^n_{k=1}(\dfrac 1 {k(k+1)} - \dfrac 1 {(k+1)(k+2)})$
+3. $\sum^n_{k+1} \dfrac 1 {k(k+1)(k+2)(k+3)} = \dfrac 1 3 \sum^n_{k=1} (\dfrac 1 {k(k+1)(k+2)} - \dfrac 1 {(k+1)(k+2)(k+3)})$
 
 # SQ-4 群數列
-$<1, \frac 1 2, \frac 1 3, \frac 1 4, \frac 1 5, \frac 1 6 ...>$
-$\rightarrow <1, \frac 1 2, (\frac 1 3, \frac 1 4), (\frac 1 5, \frac 1 6, \frac 1 7, \frac 1 8) ...>$
-$\rightarrow$ $\frac 1 6$ 是第四群第二個
+$<1, \dfrac 1 2, \dfrac 1 3, \dfrac 1 4, \dfrac 1 5, \dfrac 1 6 ...>$
+$\rightarrow <1, \dfrac 1 2, (\dfrac 1 3, \dfrac 1 4), (\dfrac 1 5, \dfrac 1 6, \dfrac 1 7, \dfrac 1 8) ...>$
+$\rightarrow$ $\dfrac 1 6$ 是第四群第二個
 
 # SQ-5 遞迴數列
 1. 等差型：$a_n = a_{n-1}+d$
@@ -63,8 +63,8 @@ $$
 $$
 \begin{align}
 a_n & = a_1 + 3(1+2+3+...+n) \\
-& = a_1 + \frac 3 2 n(n+1) \\
-& = \underline{\frac 3 2n^2 + \frac 3 2 n + 3} \ \blacksquare
+& = a_1 + \dfrac 3 2 n(n+1) \\
+& = \underline{\dfrac 3 2n^2 + \dfrac 3 2 n + 3} \ \blacksquare
 \end{align}
 $$
 ## 累乘型
@@ -72,23 +72,23 @@ $$
 $$
 \left\{\begin{aligned}
 & a_1 = 1 \\
-& a_{n+1} = a_n \cdot (\frac{2n+1}{2n-1})\\
+& a_{n+1} = a_n \cdot (\dfrac{2n+1}{2n-1})\\
 \end{aligned}\right.\ ,\ \text{求} a_n \text{的一般式？}
 $$
 $$
 \begin{align}
 & a_1 = 1 \\
-& a_2 = a_1 \cdot \frac 3 1 \\
-& a_3 = a_2 \cdot \frac 5 3 \\
+& a_2 = a_1 \cdot \dfrac 3 1 \\
+& a_3 = a_2 \cdot \dfrac 5 3 \\
 & ... \\
-& a_{n+1} = a_n \cdot \frac {2n+1}{2n-1} \\
+& a_{n+1} = a_n \cdot \dfrac {2n+1}{2n-1} \\
 & \text{以上累乘}
 \end{align}
 $$
 $$
 \begin{align}
-a_n+1 & = a_1 \cdot (\frac 3 1 \times \frac 5 3 \times ... \times \frac{2n+1}{2n-1}) \\
-& = a_1 \cdot \frac{2n+1}{1} \\
+a_n+1 & = a_1 \cdot (\dfrac 3 1 \times \dfrac 5 3 \times ... \times \dfrac{2n+1}{2n-1}) \\
+& = a_1 \cdot \dfrac{2n+1}{1} \\
 & = \underline{2n+1} \ \blacksquare
 \end{align}
 $$

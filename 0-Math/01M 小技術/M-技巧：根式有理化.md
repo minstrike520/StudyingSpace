@@ -1,20 +1,14 @@
 ---
-page-type: 學科筆記
+page-type: reaction
 tags:
-  - review_數/小觀念
-sr-due: 2024-07-03
-sr-interval: 2
-sr-ease: 150
+  - review_數/反應
 ---
-# 分式分項
-$$
-\frac{{b-a}}{ab} = \frac{1}{a} - \frac{1}{b}
-$$
-# 有理化
+運用**平方差公式**
 $$\begin{aligned}
 \sqrt{ a } - \sqrt{ b } = \frac{{a-b}}{\sqrt{ a } + \sqrt{ b }} &  & \sqrt{ a } + \sqrt{ b } = \frac{a-b}{\sqrt{ a }- \sqrt{ b }}
 \end{aligned}
 $$
+分式+根式
 $$
 \frac{\sqrt{ a }-\sqrt{ b }}{\sqrt{ b }-\sqrt{ c }} = \frac{(a-b)(\sqrt{ b }+\sqrt{ c })}{(b-c)(\sqrt{ a }+\sqrt{ b })}
 $$
