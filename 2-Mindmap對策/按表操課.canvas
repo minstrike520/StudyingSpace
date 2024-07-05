@@ -12,17 +12,6 @@
       "label": "當日總覽"
     },
     {
-      "id": "dd29a69d13a26e6e",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -200,
-      "y": -920,
-      "width": 340,
-      "height": 765,
-      "color": "4",
-      "label": "洗澡"
-    },
-    {
       "id": "8d5ee147b28875e9",
       "type": "group",
       "styleAttributes": {},
@@ -32,6 +21,17 @@
       "height": 569,
       "color": "5",
       "label": "睡前"
+    },
+    {
+      "id": "dd29a69d13a26e6e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -920,
+      "width": 340,
+      "height": 765,
+      "color": "4",
+      "label": "洗澡"
     },
     {
       "id": "d85cbacc391127a8",
@@ -189,16 +189,6 @@
       "height": 81
     },
     {
-      "id": "bacd0767422ad8e3",
-      "type": "text",
-      "text": "時間記錄\n也要順便準備好隔天的時間記錄表",
-      "styleAttributes": {},
-      "x": 65,
-      "y": 87,
-      "width": 258,
-      "height": 94
-    },
-    {
       "id": "f63612fb02894b65",
       "type": "text",
       "text": "規劃隔天的進度",
@@ -227,16 +217,6 @@
       "y": 260,
       "width": 254,
       "height": 96
-    },
-    {
-      "id": "5899dcc4786d044e",
-      "type": "text",
-      "text": "睡覺前要把書包整理好。別想著早上整理，早上的時間很寶貴。\n書包記得放在臥室，平板的旁邊。",
-      "styleAttributes": {},
-      "x": 500,
-      "y": 91,
-      "width": 255,
-      "height": 150
     },
     {
       "id": "a98da4660a5ec65f",
@@ -309,16 +289,6 @@
       "height": 60
     },
     {
-      "id": "f47a1e20d3207ab9",
-      "type": "text",
-      "text": "```log\n(2100-2215 睡前 1:15)\n2100-2130 洗澡\n2130-2200 總覽+雜務\n2200-2215 z\n```",
-      "styleAttributes": {},
-      "x": 940,
-      "y": -483,
-      "width": 346,
-      "height": 180
-    },
-    {
       "id": "ab5fb9c136be1742",
       "type": "text",
       "text": "洗澡",
@@ -339,6 +309,66 @@
       "width": 250,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "cc5cb45f50913bec",
+      "type": "text",
+      "text": "刷牙",
+      "styleAttributes": {},
+      "x": 325,
+      "y": -631,
+      "width": 243,
+      "height": 50
+    },
+    {
+      "id": "a58f999ff0080c8f",
+      "type": "text",
+      "text": "(馬上)把內褲、毛巾拿下樓晾",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -275,
+      "width": 259,
+      "height": 66
+    },
+    {
+      "id": "7b0a0b5de2912a2f",
+      "type": "text",
+      "text": "吹頭髮",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -353,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "f7ef2b2427691ddc",
+      "type": "text",
+      "text": "洗澡",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -428,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "c4e787bf424b7d41",
+      "type": "text",
+      "text": "洗內褲",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -503,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "f47a1e20d3207ab9",
+      "type": "text",
+      "text": "```log\n(2100-2215 睡前 1:15)\n2100-2130 洗澡\n2130-2200 總覽+雜務\n2200-2215 z\n```",
+      "styleAttributes": {},
+      "x": 940,
+      "y": -483,
+      "width": 346,
+      "height": 180
     },
     {
       "id": "b8932c38d92a77d6",
@@ -362,52 +392,12 @@
       "color": "5"
     },
     {
-      "id": "cc5cb45f50913bec",
-      "type": "text",
-      "text": "刷牙",
-      "styleAttributes": {},
-      "x": 325,
-      "y": -631,
-      "width": 243,
-      "height": 50
-    },
-    {
-      "id": "a58f999ff0080c8f",
-      "type": "text",
-      "text": "(馬上)把內褲、毛巾拿下樓晾",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -275,
-      "width": 259,
-      "height": 66
-    },
-    {
       "id": "061217c505347751",
       "type": "text",
       "text": "拿毛巾(晾在外面)",
       "styleAttributes": {},
       "x": -161,
       "y": -728,
-      "width": 259,
-      "height": 50
-    },
-    {
-      "id": "7b0a0b5de2912a2f",
-      "type": "text",
-      "text": "吹頭髮",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -353,
-      "width": 259,
-      "height": 50
-    },
-    {
-      "id": "f7ef2b2427691ddc",
-      "type": "text",
-      "text": "洗澡",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -428,
       "width": 259,
       "height": 50
     },
@@ -432,16 +422,6 @@
       "height": 50
     },
     {
-      "id": "c4e787bf424b7d41",
-      "type": "text",
-      "text": "洗內褲",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -503,
-      "width": 259,
-      "height": 50
-    },
-    {
       "id": "f46b146b187982b2",
       "type": "text",
       "text": "收隔天要穿的衣服",
@@ -460,6 +440,26 @@
       "y": -803,
       "width": 259,
       "height": 50
+    },
+    {
+      "id": "bacd0767422ad8e3",
+      "type": "text",
+      "text": "時間記錄\n也要順便準備好隔天的時間記錄表",
+      "styleAttributes": {},
+      "x": 65,
+      "y": 87,
+      "width": 258,
+      "height": 94
+    },
+    {
+      "id": "5899dcc4786d044e",
+      "type": "text",
+      "text": "睡覺前要把書包整理好。別想著早上整理，早上的時間很寶貴。\n書包記得放在臥室，平板的旁邊。",
+      "styleAttributes": {},
+      "x": 500,
+      "y": 91,
+      "width": 255,
+      "height": 150
     }
   ],
   "edges": [

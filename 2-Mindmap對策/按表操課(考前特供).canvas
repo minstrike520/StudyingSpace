@@ -12,12 +12,64 @@
     },
     {
       "id": "e96d0da608cc916e",
+      "type": "group",
+      "styleAttributes": {},
       "x": -740,
       "y": -322,
       "width": 301,
       "height": 351,
-      "type": "group",
       "label": "洗澡前置"
+    },
+    {
+      "id": "83ae63b361407990",
+      "type": "text",
+      "text": "拿內褲、拿毛巾",
+      "styleAttributes": {},
+      "x": -719,
+      "y": -138,
+      "width": 255,
+      "height": 50
+    },
+    {
+      "id": "6aa4d2e1fa5ec4da",
+      "type": "text",
+      "text": "給植物澆水",
+      "styleAttributes": {},
+      "x": -719,
+      "y": -214,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "a3ccfb1950a6ce78",
+      "type": "text",
+      "text": "刷牙",
+      "styleAttributes": {},
+      "x": -720,
+      "y": -302,
+      "width": 256,
+      "height": 50
+    },
+    {
+      "id": "dc1a6196d2055e6e",
+      "type": "text",
+      "text": "拿衣服",
+      "styleAttributes": {},
+      "x": -720,
+      "y": -41,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "12de53493cb77bb9",
+      "type": "file",
+      "file": "2-Diary日常隨想/Archive/2024-07-03.md",
+      "subpath": "#分科倒數八天規劃",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -340,
+      "width": 546,
+      "height": 528
     },
     {
       "id": "1051a0bb66e56fbe",
@@ -109,56 +161,6 @@
       "width": 250,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "83ae63b361407990",
-      "type": "text",
-      "text": "拿內褲、拿毛巾",
-      "styleAttributes": {},
-      "x": -719,
-      "y": -138,
-      "width": 255,
-      "height": 50
-    },
-    {
-      "id": "6aa4d2e1fa5ec4da",
-      "type": "text",
-      "text": "給植物澆水",
-      "styleAttributes": {},
-      "x": -719,
-      "y": -214,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "a3ccfb1950a6ce78",
-      "type": "text",
-      "text": "刷牙",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -302,
-      "width": 256,
-      "height": 50
-    },
-    {
-      "id": "dc1a6196d2055e6e",
-      "type": "text",
-      "text": "拿衣服",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -41,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "12de53493cb77bb9",
-      "x": 60,
-      "y": -340,
-      "width": 546,
-      "height": 528,
-      "type": "file",
-      "file": "2-Diary日常隨想/Archive/2024-07-03.md",
-      "subpath": "#分科倒數八天規劃"
     }
   ],
   "edges": [
