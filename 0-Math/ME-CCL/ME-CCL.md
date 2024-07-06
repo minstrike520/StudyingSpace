@@ -15,7 +15,7 @@ page-type: Waypoint
 		- [[LIM001]]
 		- [[LIM002-SOL]]
 		- [[LIM002]]
-	- [[Untitled]]
+	- [[0-Math/ME-CCL/0 錯題集/Untitled]]
 - [[ME-CCL]]
 - **ME4 LIM極限**
 	- [[尤拉公式的證明]]
@@ -51,6 +51,8 @@ page-type: Waypoint
 		- [[Excl-0504.excalidraw]]
 	- [[INT-技巧：多項式積分]]
 	- [[INT-技巧：對稱積分與奇偶函數]]
-	- [[Untitled]]
+	- [[INT-碎片：常數求和與常數積分]]
+	- [[INT-觀念：黎曼和]]
+	- [[0-Math/ME-CCL/0 錯題集/Untitled]]
 
 %% End Waypoint %%
