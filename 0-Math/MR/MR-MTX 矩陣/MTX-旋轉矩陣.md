@@ -2,8 +2,8 @@
 page-type: 學科筆記
 tags:
   - review_數/小觀念
-sr-due: 2024-07-06
-sr-interval: 9
+sr-due: 2024-07-30
+sr-interval: 24
 sr-ease: 270
 ---
 
