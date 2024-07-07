@@ -6,4 +6,5 @@ reference: "[[KW-TRF]]"
 $$
 f(x) = a\sin(bx+c) + k \implies \text{Max}(f) = k + a,\ \text{min}(f) = k - a
 $$
-提示：$k$ 可以說是 $f(x)$ 的**平衡位置**。
+1. 最大值 -> 平衡軸 + 振幅
+2. 最小值 -> 平衡軸 - 振幅

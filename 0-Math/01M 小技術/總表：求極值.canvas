@@ -1,0 +1,93 @@
+{
+  "nodes": [
+    {
+      "id": "2f76f1e9d344c41a",
+      "type": "file",
+      "file": "0-Math/ME-CCL/ME5 DRV微分/DRV-觀念：高次函數解極值.md",
+      "styleAttributes": {},
+      "x": -180,
+      "y": -419,
+      "width": 381,
+      "height": 239
+    },
+    {
+      "id": "0b9ba069c2be7de4",
+      "type": "file",
+      "file": "0-Math/MR/MR-TRF 三角函數/TRF-觀念：三角函數的極值.md",
+      "styleAttributes": {},
+      "x": -254,
+      "y": 120,
+      "width": 529,
+      "height": 160
+    },
+    {
+      "id": "dd82d2ec5a8c3a8c",
+      "type": "text",
+      "text": "# 求極值",
+      "styleAttributes": {},
+      "x": -119,
+      "y": -70,
+      "width": 159,
+      "height": 60
+    },
+    {
+      "id": "3f91c5385d126e30",
+      "type": "file",
+      "file": "0-Math/01M 小技術/不等式/不等式.md",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -360,
+      "width": 240,
+      "height": 240
+    },
+    {
+      "id": "78837409be393624",
+      "type": "file",
+      "file": "0-Math/MR/MR-CRL 圓與直線/Excalidraw/CRL-GRAPH-幾何極值.md",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -230,
+      "width": 460,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ae4126f65b4a2264",
+      "styleAttributes": {},
+      "fromNode": "dd82d2ec5a8c3a8c",
+      "fromSide": "top",
+      "toNode": "2f76f1e9d344c41a",
+      "toSide": "bottom",
+      "label": "多項式函數"
+    },
+    {
+      "id": "3782ecab806c25b5",
+      "styleAttributes": {},
+      "fromNode": "dd82d2ec5a8c3a8c",
+      "fromSide": "left",
+      "toNode": "3f91c5385d126e30",
+      "toSide": "right",
+      "label": "一般"
+    },
+    {
+      "id": "ada5acc48e1b72e3",
+      "styleAttributes": {},
+      "fromNode": "dd82d2ec5a8c3a8c",
+      "fromSide": "right",
+      "toNode": "78837409be393624",
+      "toSide": "left",
+      "label": "點距離加減"
+    },
+    {
+      "id": "04db770f86db8bb3",
+      "styleAttributes": {},
+      "fromNode": "dd82d2ec5a8c3a8c",
+      "fromSide": "bottom",
+      "toNode": "0b9ba069c2be7de4",
+      "toSide": "top",
+      "label": "三角函數"
+    }
+  ],
+  "metadata": {}
+}

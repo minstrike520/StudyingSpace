@@ -15,7 +15,7 @@ page-type: Waypoint
 		- [[LIM001]]
 		- [[LIM002-SOL]]
 		- [[LIM002]]
-	- [[0-Math/ME-CCL/0 錯題集/Untitled]]
+	- [[Untitled]]
 - [[ME-CCL]]
 - **ME4 LIM極限**
 	- [[尤拉公式的證明]]
@@ -33,6 +33,7 @@ page-type: Waypoint
 	- [[函數圖形的分析]]
 	- [[DRV-碎片：導數極限表達式]]
 	- [[DRV-碎片：導數極限表達簡記式]]
+	- [[DRV-觀念：高次函數解極值]]
 	- [[Excl-0418.excalidraw]]
 	- [[Extreme Values]]
 - **ME6 INT積分**
@@ -53,6 +54,6 @@ page-type: Waypoint
 	- [[INT-技巧：對稱積分與奇偶函數]]
 	- [[INT-碎片：常數求和與常數積分]]
 	- [[INT-觀念：黎曼和]]
-	- [[0-Math/ME-CCL/0 錯題集/Untitled]]
+	- [[Untitled]]
 
 %% End Waypoint %%
