@@ -89,6 +89,26 @@
       "y": -280,
       "width": 280,
       "height": 160
+    },
+    {
+      "id": "b21e0e42381b428c",
+      "type": "file",
+      "file": "0-Calculations/Excalidraw Attachments/CL-001-D.md",
+      "styleAttributes": {},
+      "x": 597,
+      "y": 460,
+      "width": 407,
+      "height": 336
+    },
+    {
+      "id": "989696fc76f1de96",
+      "type": "file",
+      "file": "0-Calculations/CL-總集：計算的規則.md",
+      "styleAttributes": {},
+      "x": 90,
+      "y": 591,
+      "width": 570,
+      "height": 729
     }
   ],
   "edges": [],

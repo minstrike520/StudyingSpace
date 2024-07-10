@@ -1,6 +1,17 @@
 {
   "nodes": [
     {
+      "id": "c32b191abd06bc98",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "x": -1616,
+      "y": -332,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
       "id": "46eeed14abfab267",
       "type": "group",
       "styleAttributes": {},
@@ -64,16 +75,6 @@
       "height": 170
     },
     {
-      "id": "45f802247d276adc",
-      "type": "text",
-      "text": "想法：把三點以後的時間挪到晚上，三點先去運動？這樣可以排出一點間隔，但是到家之後干擾會比較多",
-      "styleAttributes": {},
-      "x": -1460,
-      "y": 21,
-      "width": 295,
-      "height": 180
-    },
-    {
       "id": "e77e8236721b631b",
       "type": "file",
       "file": "2-Plan日前規劃/Notes/schedule-備考、早睡早起.md",
@@ -103,6 +104,116 @@
       "y": 589,
       "width": 655,
       "height": 371
+    },
+    {
+      "id": "061217c505347751",
+      "type": "text",
+      "text": "拿毛巾(晾在外面)",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -728,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "4e7295b09ebd62cc",
+      "type": "text",
+      "text": "拿內褲",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -653,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "98c6654f13be20fb",
+      "type": "text",
+      "text": "上床前想好明天要幾點起床，用平板設鬧鐘。",
+      "styleAttributes": {},
+      "x": 503,
+      "y": 260,
+      "width": 254,
+      "height": 96
+    },
+    {
+      "id": "a98da4660a5ec65f",
+      "type": "text",
+      "text": "睡前5分鐘原子習慣",
+      "styleAttributes": {},
+      "x": 507,
+      "y": 465,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "af17568d03c8cc30",
+      "type": "text",
+      "text": "躺上床睡覺啦！",
+      "styleAttributes": {},
+      "x": 507,
+      "y": 560,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "95039bb1675e1768",
+      "type": "text",
+      "text": "**千萬要把平板放入旁邊的書櫃**，用意是關鬧鐘就不得不下床。這樣才能確保不會賴床賴到天荒地老。",
+      "styleAttributes": {},
+      "x": 801,
+      "y": 313,
+      "width": 239,
+      "height": 137
+    },
+    {
+      "id": "6d16e68f567c34a1",
+      "type": "text",
+      "text": "外套放在三樓的話也要拿下來。",
+      "styleAttributes": {},
+      "x": 813,
+      "y": 136,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "ca80e13b16c02ce7",
+      "type": "text",
+      "text": "拿__，入浴室",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -578,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "f46b146b187982b2",
+      "type": "text",
+      "text": "收隔天要穿的衣服",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -878,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "21768c6ebadceb50",
+      "type": "text",
+      "text": "拿洗澡後要穿的衣服",
+      "styleAttributes": {},
+      "x": -161,
+      "y": -803,
+      "width": 259,
+      "height": 50
+    },
+    {
+      "id": "5899dcc4786d044e",
+      "type": "text",
+      "text": "睡覺前要把書包整理好。別想著早上整理，早上的時間很寶貴。\n書包記得放在臥室，平板的旁邊。",
+      "styleAttributes": {},
+      "x": 500,
+      "y": 91,
+      "width": 255,
+      "height": 150
     },
     {
       "id": "85920162969eebfb",
@@ -189,6 +300,16 @@
       "height": 81
     },
     {
+      "id": "f47a1e20d3207ab9",
+      "type": "text",
+      "text": "```log\n(2100-2215 睡前 1:15)\n2100-2130 洗澡\n2130-2200 總覽+雜務\n2200-2215 z\n```",
+      "styleAttributes": {},
+      "x": 940,
+      "y": -483,
+      "width": 346,
+      "height": 180
+    },
+    {
       "id": "f63612fb02894b65",
       "type": "text",
       "text": "規劃隔天的進度",
@@ -207,56 +328,6 @@
       "y": 484,
       "width": 250,
       "height": 104
-    },
-    {
-      "id": "98c6654f13be20fb",
-      "type": "text",
-      "text": "上床前想好明天要幾點起床，用平板設鬧鐘。",
-      "styleAttributes": {},
-      "x": 503,
-      "y": 260,
-      "width": 254,
-      "height": 96
-    },
-    {
-      "id": "a98da4660a5ec65f",
-      "type": "text",
-      "text": "睡前5分鐘原子習慣",
-      "styleAttributes": {},
-      "x": 507,
-      "y": 465,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "af17568d03c8cc30",
-      "type": "text",
-      "text": "躺上床睡覺啦！",
-      "styleAttributes": {},
-      "x": 507,
-      "y": 560,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "95039bb1675e1768",
-      "type": "text",
-      "text": "**千萬要把平板放入旁邊的書櫃**，用意是關鬧鐘就不得不下床。這樣才能確保不會賴床賴到天荒地老。",
-      "styleAttributes": {},
-      "x": 801,
-      "y": 313,
-      "width": 239,
-      "height": 137
-    },
-    {
-      "id": "6d16e68f567c34a1",
-      "type": "text",
-      "text": "外套放在三樓的話也要拿下來。",
-      "styleAttributes": {},
-      "x": 813,
-      "y": 136,
-      "width": 250,
-      "height": 60
     },
     {
       "id": "809415fdfc9a314b",
@@ -321,6 +392,26 @@
       "height": 50
     },
     {
+      "id": "b8932c38d92a77d6",
+      "type": "text",
+      "text": "$$z$$\n",
+      "styleAttributes": {},
+      "x": 393,
+      "y": -126,
+      "width": 119,
+      "height": 71
+    },
+    {
+      "id": "bacd0767422ad8e3",
+      "type": "text",
+      "text": "時間記錄\n也要順便準備好隔天的時間記錄表",
+      "styleAttributes": {},
+      "x": 65,
+      "y": 87,
+      "width": 258,
+      "height": 94
+    },
+    {
       "id": "a58f999ff0080c8f",
       "type": "text",
       "text": "(馬上)把內褲、毛巾拿下樓晾",
@@ -361,26 +452,6 @@
       "height": 50
     },
     {
-      "id": "f47a1e20d3207ab9",
-      "type": "text",
-      "text": "```log\n(2100-2215 睡前 1:15)\n2100-2130 洗澡\n2130-2200 總覽+雜務\n2200-2215 z\n```",
-      "styleAttributes": {},
-      "x": 940,
-      "y": -483,
-      "width": 346,
-      "height": 180
-    },
-    {
-      "id": "b8932c38d92a77d6",
-      "type": "text",
-      "text": "$$z$$\n",
-      "styleAttributes": {},
-      "x": 393,
-      "y": -126,
-      "width": 119,
-      "height": 71
-    },
-    {
       "id": "a359979fb117b66a",
       "type": "text",
       "text": "`2225-2235` 睡前",
@@ -392,74 +463,14 @@
       "color": "5"
     },
     {
-      "id": "061217c505347751",
+      "id": "45f802247d276adc",
       "type": "text",
-      "text": "拿毛巾(晾在外面)",
+      "text": "想法：把三點以後的時間挪到晚上，三點先去運動？這樣可以排出一點間隔，但是到家之後干擾會比較多",
       "styleAttributes": {},
-      "x": -161,
-      "y": -728,
-      "width": 259,
-      "height": 50
-    },
-    {
-      "id": "ca80e13b16c02ce7",
-      "type": "text",
-      "text": "拿__，入浴室",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -578,
-      "width": 259,
-      "height": 50
-    },
-    {
-      "id": "4e7295b09ebd62cc",
-      "type": "text",
-      "text": "拿內褲",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -653,
-      "width": 259,
-      "height": 50
-    },
-    {
-      "id": "f46b146b187982b2",
-      "type": "text",
-      "text": "收隔天要穿的衣服",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -878,
-      "width": 259,
-      "height": 50
-    },
-    {
-      "id": "21768c6ebadceb50",
-      "type": "text",
-      "text": "拿洗澡後要穿的衣服",
-      "styleAttributes": {},
-      "x": -161,
-      "y": -803,
-      "width": 259,
-      "height": 50
-    },
-    {
-      "id": "bacd0767422ad8e3",
-      "type": "text",
-      "text": "時間記錄\n也要順便準備好隔天的時間記錄表",
-      "styleAttributes": {},
-      "x": 65,
-      "y": 87,
-      "width": 258,
-      "height": 94
-    },
-    {
-      "id": "5899dcc4786d044e",
-      "type": "text",
-      "text": "睡覺前要把書包整理好。別想著早上整理，早上的時間很寶貴。\n書包記得放在臥室，平板的旁邊。",
-      "styleAttributes": {},
-      "x": 500,
-      "y": 91,
-      "width": 255,
-      "height": 150
+      "x": -1460,
+      "y": 21,
+      "width": 295,
+      "height": 180
     }
   ],
   "edges": [
@@ -535,27 +546,6 @@
       "toNode": "d6893e2e7676f477",
       "toSide": "top",
       "fromEnd": "arrow"
-    },
-    {
-      "id": "304190f2efc4ec15",
-      "fromNode": "e77e8236721b631b",
-      "fromSide": "left",
-      "toNode": "45f802247d276adc",
-      "toSide": "right"
-    },
-    {
-      "id": "a4e08a4497d2a595",
-      "fromNode": "0985860df8e439b2",
-      "fromSide": "left",
-      "toNode": "45f802247d276adc",
-      "toSide": "right"
-    },
-    {
-      "id": "85d59b4c586b0388",
-      "fromNode": "45f802247d276adc",
-      "fromSide": "left",
-      "toNode": "1da71c00d3245f6e",
-      "toSide": "left"
     },
     {
       "id": "00cc18e48810ae6b",
@@ -682,6 +672,27 @@
       "fromSide": "bottom",
       "toNode": "ca80e13b16c02ce7",
       "toSide": "top"
+    },
+    {
+      "id": "304190f2efc4ec15",
+      "fromNode": "e77e8236721b631b",
+      "fromSide": "left",
+      "toNode": "45f802247d276adc",
+      "toSide": "right"
+    },
+    {
+      "id": "a4e08a4497d2a595",
+      "fromNode": "0985860df8e439b2",
+      "fromSide": "left",
+      "toNode": "45f802247d276adc",
+      "toSide": "right"
+    },
+    {
+      "id": "85d59b4c586b0388",
+      "fromNode": "45f802247d276adc",
+      "fromSide": "left",
+      "toNode": "1da71c00d3245f6e",
+      "toSide": "left"
     }
   ],
   "metadata": {}

@@ -1,4 +1,4 @@
 $$
-\int ^{n}_{-n} ax^{2}+bx+c\ dx = 2\int ^{n}_{0}ax^{2}+cdx
+\int ^{n}_{-n} ax^{2}+bx+c\ dx = 2\int ^{n}_{0}ax^{2}+c\ dx
 $$
 口訣：奇次消失，偶次積分乘以二
