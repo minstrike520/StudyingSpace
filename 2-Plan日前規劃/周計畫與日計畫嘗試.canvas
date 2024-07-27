@@ -1,14 +1,82 @@
 {
-	"nodes":[
-		{"id":"3d675f5920986766","type":"group","x":-240,"y":-360,"width":1200,"height":880,"label":"規劃"},
-		{"id":"27bf6a53c806f65d","type":"file","file":"2-Diary日常隨想/2024-w17/May 2nd.md","x":2380,"y":-100,"width":700,"height":624},
-		{"id":"13ae25d258375dfd","type":"file","file":"assets/Screenshot_2024-05-03-22-51-54-953_com.miui.notes.png","x":159,"y":66,"width":696,"height":334,"color":"6"},
-		{"id":"bdd1c4f9b353c4bf","type":"file","file":"assets/Screenshot_2024-05-03-22-52-08-659_com.miui.notes.png","x":-220,"y":-140,"width":248,"height":259},
-		{"id":"62db48a6dffb4324","type":"file","file":"2-Plan日前規劃/2024 w17/Excl-0503.excalidraw.md","x":297,"y":-320,"width":420,"height":208},
-		{"id":"43d633534422d71c","type":"file","file":"2-Diary日常隨想/2024-w17/May 1st.md","x":1120,"y":-720,"width":1000,"height":1239}
-	],
-	"edges":[
-		{"id":"d946556fde61f781","fromNode":"13ae25d258375dfd","fromSide":"left","toNode":"bdd1c4f9b353c4bf","toSide":"right"},
-		{"id":"88efccf9333debeb","fromNode":"13ae25d258375dfd","fromSide":"top","toNode":"62db48a6dffb4324","toSide":"bottom"}
-	]
+  "nodes": [
+    {
+      "id": "3d675f5920986766",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -240,
+      "y": -360,
+      "width": 1200,
+      "height": 880,
+      "label": "規劃"
+    },
+    {
+      "id": "27bf6a53c806f65d",
+      "type": "file",
+      "file": "2-Diary日常隨想/2024-w17/May 2nd.md",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -100,
+      "width": 700,
+      "height": 624
+    },
+    {
+      "id": "13ae25d258375dfd",
+      "type": "file",
+      "file": "assets/Screenshot_2024-05-03-22-51-54-953_com.miui.notes.png",
+      "styleAttributes": {},
+      "x": 159,
+      "y": 66,
+      "width": 696,
+      "height": 334,
+      "color": "6"
+    },
+    {
+      "id": "bdd1c4f9b353c4bf",
+      "type": "file",
+      "file": "assets/Screenshot_2024-05-03-22-52-08-659_com.miui.notes.png",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -140,
+      "width": 248,
+      "height": 259
+    },
+    {
+      "id": "62db48a6dffb4324",
+      "type": "file",
+      "file": "2-Plan日前規劃/2024 w17/Excl-0503.excalidraw.md",
+      "styleAttributes": {},
+      "x": 297,
+      "y": -320,
+      "width": 420,
+      "height": 208
+    },
+    {
+      "id": "43d633534422d71c",
+      "type": "file",
+      "file": "2-Diary日常隨想/2024-w17/May 1st.md",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": -720,
+      "width": 1000,
+      "height": 1239
+    }
+  ],
+  "edges": [
+    {
+      "id": "d946556fde61f781",
+      "fromNode": "13ae25d258375dfd",
+      "fromSide": "left",
+      "toNode": "bdd1c4f9b353c4bf",
+      "toSide": "right"
+    },
+    {
+      "id": "88efccf9333debeb",
+      "fromNode": "13ae25d258375dfd",
+      "fromSide": "top",
+      "toNode": "62db48a6dffb4324",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
 }
