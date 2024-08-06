@@ -1,4 +1,4 @@
-# Ubuntu連接Termux
+			# Ubuntu連接Termux
 [reference](https://ivonblog.com/posts/termux-openssh/)
 前提:要連到同一個網路
 ## Ubuntu端
