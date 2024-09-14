@@ -29,3 +29,10 @@ $$
  & = | x-1 || x+2 | < 4 \cdot \delta \le \varepsilon
 \end{aligned}
 $$
+
+$$
+
+$$
+$$
+(p \land q \land r \implies s), p, \lnot r 
+$$

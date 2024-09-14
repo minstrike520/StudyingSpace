@@ -20,7 +20,14 @@
   {trigger: "prllg", replacement: "▱", options: "mA"},
   {trigger: "aa", replacement: "å", options: "mA"},
   {trigger: "AA", replacement: "Å", options: "mA"},
+  {trigger: "not", replacement: "\\lnot", options: "mA"},
 
+  // intervals
+  {trigger: "ocin", replacement: "($0, $1]", options: "mA"},
+  {trigger: "coin", replacement: "[$0, $1)", options: "mA"},
+  {trigger: "ccin", replacement: "[$0, $1]", options: "mA"},
+  {trigger: "ooin", replacement: "($0, $1)", options: "mA"},
+  
   //trig 
   {trigger: "angle", replacement: "\\angle {$0}$1", options: "mA"},
   {trigger: "deg", replacement: "\\degree", options: "mA"},

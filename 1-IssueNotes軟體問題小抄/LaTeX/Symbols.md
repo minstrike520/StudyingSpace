@@ -6,6 +6,7 @@
 	- A $\Rightarrow$ B `\Rightarrow` *thick arrow*
 	- A $\longrightarrow$ B `\longrightarrow` *long arrow*
 	- A $\implies$ B `\implies` *implies*
+	- A $\mapsto$ B `\mapsto` *maps to*
 - Logic
 	- p $\land$ q `\land` or `\wedge` *and*
 	- p $\lor$ q `\lor` *or*
