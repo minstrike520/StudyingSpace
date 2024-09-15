@@ -1,4 +1,0 @@
----
-page-type: reaction
-tags:
----

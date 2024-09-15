@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"cc922bf4cf8408b9","x":-385,"y":-10,"width":290,"height":350,"type":"group","label":"repeat"},
+		{"id":"4a0f82ca03ab5fdb","x":-400,"y":-240,"width":320,"height":80,"type":"text","text":"# 模考後訂正"},
+		{"id":"66db32a366289e3b","x":-360,"y":-117,"width":240,"height":77,"type":"text","text":"創建該考卷的總集頁"},
+		{"id":"d34c040d325c770a","x":-363,"y":10,"width":243,"height":110,"type":"text","text":"在對應單元的錯題集資料夾裡面新增錯題頁"},
+		{"id":"e097160348f65abc","x":-363,"y":164,"width":243,"height":56,"type":"text","text":"做錯題訂正"},
+		{"id":"3b21d6dd4d98b340","x":-365,"y":260,"width":250,"height":60,"type":"text","text":"將其連結到總集頁"}
+	],
+	"edges":[
+		{"id":"a474d5f00a0a3ae3","fromNode":"4a0f82ca03ab5fdb","fromSide":"bottom","toNode":"66db32a366289e3b","toSide":"top"},
+		{"id":"cee123eecbdf1974","fromNode":"66db32a366289e3b","fromSide":"bottom","toNode":"d34c040d325c770a","toSide":"top"},
+		{"id":"173c5f4677a4d244","fromNode":"d34c040d325c770a","fromSide":"bottom","toNode":"e097160348f65abc","toSide":"top"},
+		{"id":"865bf0d61bf1a168","fromNode":"e097160348f65abc","fromSide":"bottom","toNode":"3b21d6dd4d98b340","toSide":"top"}
+	]
+}

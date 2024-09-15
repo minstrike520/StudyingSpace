@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c43595f904bc7bcb","x":-140,"y":-67,"width":265,"height":127,"type":"text","text":"【超注音】\n在中文輸入想要用vim來移動游標"},
+		{"id":"c7232c80642a490f","x":-136,"y":168,"width":261,"height":212,"type":"text","text":"*中文輸入*\n`<ctrl>+C`\n`<shift>+<space>`\n*進行移動*\n`(trigger insert)`\n`<shift>+<space>`\n*中文輸入*"}
+	],
+	"edges":[
+		{"id":"b71b08de13da4d40","fromNode":"c43595f904bc7bcb","fromSide":"bottom","toNode":"c7232c80642a490f","toSide":"top"}
+	]
+}

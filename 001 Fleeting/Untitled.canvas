@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"81bb37a3e83c01f1","type":"text","text":"# 化筆記\n- 有機 5hr\n- 氧還 4hr\n- 無機 6hr\n- 錯合物 4hr\n- KSP 2hr","x":-180,"y":-280,"width":305,"height":273},
+		{"id":"414b1ab18b21658b","x":-140,"y":0,"width":242,"height":280,"type":"text","text":"# 數．錯題債\n- 截至6/8 1120: 27題\n- 27題, 20min each -> 9hr ???\n- ==允許零散時間執行=="},
+		{"id":"55b5c72d89978d11","x":450,"y":-263,"width":310,"height":256,"type":"text","text":"# 數卷重寫\n- [[M-KW1 分模第一回]]\n- [[M-KW2 分模第二回]]\n- [[M-KW3 分模第三回]]\n- [[M-H112]]\n- 2hr each"},
+		{"id":"a397362e52b86e77","type":"text","text":"# 數複習\n- 極限 4hr\n- 矩陣 2hr\n- 空間 3hr\n- 二次曲線 4hr","x":140,"y":-171,"width":250,"height":343},
+		{"id":"a6ef6453e8e01e60","x":485,"y":63,"width":240,"height":218,"type":"text","text":"# 物複習\n- 測量 1hr\n- 運動學 1hr"}
+	],
+	"edges":[]
+}
