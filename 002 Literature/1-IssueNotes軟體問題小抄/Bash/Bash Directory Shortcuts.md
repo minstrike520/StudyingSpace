@@ -1,4 +1,7 @@
-[StackExchange Article](https://unix.stackexchange.com/questions/1469/bash-directory-shortcuts)
+trait: [[bash]]
+ref: [StackExchange Article](https://unix.stackexchange.com/questions/1469/bash-directory-shortcuts)
+
+# Bash directory shortcuts
 
 ```bash
 # Link Shortcut

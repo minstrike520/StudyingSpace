@@ -1,3 +1,8 @@
+---
+identifier: 202406040001
+---
+traits: [[git]] #trial_and_error
+# Git Authentication failed
 ## Situation
 在Linux系統中，將遠端`origin`設定好，準備`push`上去時，系統提示輸入`Username for 'https://github.com'`跟`Password for 'https://<my account>/'`，照著輸入完之後，居然跳出：
 ```(command prompt)

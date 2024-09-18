@@ -1,4 +1,7 @@
-Ref: https://stackoverflow.com/questions/22009364/is-there-a-try-catch-command-in-bash
+trait: [[bash]]
+ref: https://stackoverflow.com/questions/22009364/is-there-a-try-catch-command-in-bash
+
+# Bash: set -e
 
 ```bash
 set -e

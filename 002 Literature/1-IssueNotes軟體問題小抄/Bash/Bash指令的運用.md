@@ -1,3 +1,5 @@
+trait: [[bash]] [[Note taking]]
+# 筆記與 Bash 指令的運用
 ## Situation
 為了讓我的這些筆記可以在手機跟筆電之間同步，我設定好了git；而為了使相關操作更加簡便，我還設定了bash script，使得push跟pull都能一鍵執行。
 Jdjsksk

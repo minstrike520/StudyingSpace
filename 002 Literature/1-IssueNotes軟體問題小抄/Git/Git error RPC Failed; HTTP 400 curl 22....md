@@ -1,4 +1,9 @@
-[reference (StackOverflow)](https://stackoverflow.com/questions/77816301/git-error-rpc-failed-http-400-curl-22-the-requested-url-returned-error-400)
+---
+identifier: 202409181743
+---
+traits: [[git]] #trial_and_error 
+refs: https://stackoverflow.com/questions/77816301/git-error-rpc-failed-http-400-curl-22-the-requested-url-returned-error-400
+# Git error RPC Failed; HTTP 400 curl 22...
 # Solution
 ```bash
 git config --global http.postBuffer 524288000
