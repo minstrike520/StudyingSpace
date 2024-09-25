@@ -1,5 +1,9 @@
-			# Ubuntu連接Termux
-[reference](https://ivonblog.com/posts/termux-openssh/)
+---
+identifier: 202409251400
+---
+traits: [[ssh]] #approach 
+refs: [reference](https://ivonblog.com/posts/termux-openssh/)
+# SSH ubuntu-termux connection
 前提:要連到同一個網路
 ## Ubuntu端
 沒有甚麼特別的要求，只需要ssh。

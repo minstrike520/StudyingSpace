@@ -1,3 +1,8 @@
+---
+identifier: 202409251359
+---
+traits: [[neovim]] [[language server]] #approach
+# Neovim 安裝 language server 流程
 - 在 ~/.config/nvim/中修改參數設定
 - 到init.lua中，新增nvim-lspconfig跟nvim-treesitter
 ```lua

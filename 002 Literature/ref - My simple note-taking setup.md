@@ -1,4 +1,8 @@
-# My simple note-taking setup
+---
+identifier: 202409251032
+---
+traits: [[note system]] [[zettelkasten]] #post
+# ref - My simple note-taking setup
 ![](https://youtu.be/E6ySG7xYgjY?si=T-XCzfrg6nfzaRc7)
 
 # Four folders
