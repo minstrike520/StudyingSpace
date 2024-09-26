@@ -17,7 +17,7 @@
 		{"id":"ffaf4b3ac52daf6a","type":"text","text":"# 5/31 (金)\n- [x] 物：錯 (快做完了)\n- [x] 化：錯\n- [x] 數：錯\n- [x] (生)：數錯\n去星巴克！！\n---\n","x":574,"y":280,"width":250,"height":427},
 		{"id":"2c6b11cc7c25c299","type":"text","text":"(META)\n想法：可以把看板上的每一張日計畫都變成一個筆記頁；或者反過來，先創造筆記頁再貼上來","x":240,"y":960,"width":421,"height":142},
 		{"id":"eda1580126cb86b6","type":"text","text":"在家的時候要定時下樓照顧弟","x":640,"y":107,"width":306,"height":67},
-		{"id":"062e926771c8b787","type":"file","file":"003 Permanent/2-Review周回顧/review-2024-w21.md","x":880,"y":762,"width":604,"height":818}
+		{"id":"062e926771c8b787","type":"file","file":"001 Fleeting/2-Review周回顧/review-2024-w21.md","x":880,"y":762,"width":604,"height":818}
 	],
 	"edges":[
 		{"id":"cba39c23d4e40569","fromNode":"9c4e123729da9b61","fromSide":"right","toNode":"e7f040da49aff4c8","toSide":"left"},

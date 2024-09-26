@@ -19,6 +19,14 @@ refs: [如何正確使用zettelkasten筆記法](https://medium.com/pm%E7%9A%84%E
 ## Literature notes
 - 即讀書筆記。
 
+## Project-based notes
+依成長方式區分：
+- Bottom-up
+- Top-down
+> 在 Obsidian 中可以透過上帝視角的方式，看到筆記連結中比較密集的一塊，這個網狀交集就是我在潛移默化之中感興趣的主題。
+> 以下面這張圖(Graph View)來舉例，可看出我對於 Obsidian 的研究非常多，筆記之間有非常多的連結，因此我就可以替 Obsidian 另開一個專案來研究。
+
+上述為Bottom-up。
 
 ## Beyond these: MOC
 - 在筆記系統中，因為有link這個特殊模式，所以在link所指向的「主題筆記」之中就可以記下一些總結性的東西。

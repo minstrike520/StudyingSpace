@@ -1,7 +1,7 @@
 ---
 identifier: 202409250914
 ---
-traits: [[terminology]] [[TODO]]
+traits: [[terminology]] #TODO
 # term - Conjunctive Normal Form
 $$
 \text{ CNF = Conjunctive Normal Form}
