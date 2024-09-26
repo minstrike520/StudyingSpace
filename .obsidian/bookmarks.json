@@ -1,0 +1,295 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1711180812310,
+      "path": "0-Chemistry/00C 總集/化學-學習脈絡.canvas",
+      "title": "化學之學習脈絡"
+    },
+    {
+      "type": "file",
+      "ctime": 1712119038974,
+      "path": "2-Discussion討論思辨/對各種情境的時程分配.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1712533253656,
+      "path": "2-Diary日常隨想/2024-w14.md"
+    },
+    {
+      "type": "graph",
+      "ctime": 1719369039814,
+      "title": "科目別",
+      "options": {
+        "collapse-filter": true,
+        "search": "-[excalidraw] -path:2-Discussion討論思辨 -path:2-Review周回顧 -path:2-Plan日前規劃  ",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:0-Math  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:0-Physics  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:0-Chemistry  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.516469705388386,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1719390868372,
+      "title": "No-property Notes",
+      "options": {
+        "collapse-filter": true,
+        "search": "-[page-type] -[excalid] (path:0-Math OR path:0-Physics OR path:0-Chemistry ) ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "[\"page-type\":錯題]",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.8477404489070428,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1719391911469,
+      "title": "頁面別",
+      "options": {
+        "collapse-filter": true,
+        "search": "[\"page-type\"] -path:Templates  ",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "[\"page-type\":錯題]",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "[\"page-type\":學科筆記]",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "[\"page-type\":考卷檢討]",
+            "color": {
+              "a": 1,
+              "rgb": 16711935
+            }
+          },
+          {
+            "query": "[\"page-type\":講義]",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.5338696943061766,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1719399651197,
+      "title": "數錯題",
+      "options": {
+        "collapse-filter": false,
+        "search": "tag:#數複題  ",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1.8003785226588156,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1720095383473,
+      "title": "All Notes 0704-2016",
+      "options": {
+        "collapse-filter": true,
+        "search": "-[excalidraw] -path:2-Discussion討論思辨 -path:2-Review周回顧 -path:2-Plan日前規劃 -[\"page-type\":錯題] -[\"page-type\":考卷檢討頁] (path:0-Math  OR path:0-Physics OR path:0-Chemistry) -[\"page-type\":all-quotes] -[\"page-type\":講義]",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:0-Math  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:0-Physics  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:0-Chemistry  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1.00429184549356,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.530042918454936,
+        "repelStrength": 12.9613733905579,
+        "linkStrength": 1,
+        "linkDistance": 204,
+        "scale": 0.2436427841154098,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1720338296848,
+      "title": "0707-1545-有機化學",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:\"0-Chemistry/C11 (V)有機\"  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:\"0-Chemistry/C11 (V)有機/反應碎片\"  OR path: \"0-Chemistry/C11 (V)有機/反應\"  OR path:\"0-Chemistry/C11 (V)有機/化性\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:\"0-Chemistry/C11 (V)有機/物性\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:\"0-Chemistry/C11 (V)有機/催化劑\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1.00429184549356,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.377682403433476,
+        "repelStrength": 12.9613733905579,
+        "linkStrength": 1,
+        "linkDistance": 204,
+        "scale": 0.24206862046766872,
+        "close": false
+      }
+    },
+    {
+      "type": "file",
+      "ctime": 1720530882559,
+      "path": "0-Math/00M 節點/M-FINAL-NOTE.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1720530899574,
+      "path": "0-Chemistry/00C 總集/C-FINAL-NOTE.md"
+    }
+  ]
+}

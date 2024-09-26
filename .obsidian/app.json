@@ -1,0 +1,27 @@
+{
+  "tabSize": 4,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:attach-file",
+    "editor:insert-horizontal-rule",
+    "insert-template"
+  ],
+  "attachmentFolderPath": "assets",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "vimMode": true,
+  "showInlineTitle": false,
+  "mobilePullAction": "switcher:open",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Temporary",
+  "showRibbon": false
+}

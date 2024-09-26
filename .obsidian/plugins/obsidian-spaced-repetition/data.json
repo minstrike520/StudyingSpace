@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
+    "flashcardTags": [
+      "#flashcards",
+      "#錯題",
+      "#例題",
+      "#jpwords"
+    ],
+    "convertFoldersToDecks": false,
+    "cardCommentOnSameLine": false,
+    "burySiblingCards": true,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 100,
+    "flashcardWidthPercentage": 100,
+    "randomizeCardOrder": null,
+    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": false,
+    "convertCurlyBracketsToClozes": false,
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": true,
+    "tagsToReview": [
+      "#review",
+      "#錯題",
+      "#數複題",
+      "#物複題",
+      "#化複題",
+      "#review_物",
+      "#review_化",
+      "#review_數"
+    ],
+    "noteFoldersToIgnore": [
+      "Templates"
+    ],
+    "openRandomNote": false,
+    "autoNextNote": true,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "initiallyExpandAllSubdecksInTree": false,
+    "baseEase": 150,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1.15,
+    "maximumInterval": 36525,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false
+  },
+  "buryDate": "2024-09-26",
+  "buryList": [],
+  "historyDeck": null
+}
