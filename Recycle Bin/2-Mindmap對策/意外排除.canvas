@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "id": "365a35d2b7e5d27b",
+      "type": "text",
+      "text": "# 在預計讀書的時間滑手機了...",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -300,
+      "width": 400,
+      "height": 80
+    },
+    {
+      "id": "ffac84ab31867d78",
+      "type": "text",
+      "text": "將手機放到看不到的地方",
+      "styleAttributes": {},
+      "x": -397,
+      "y": -160,
+      "width": 274,
+      "height": 63
+    },
+    {
+      "id": "b9a0c8340475bc61",
+      "type": "text",
+      "text": "**放空五分鐘**",
+      "styleAttributes": {},
+      "x": -385,
+      "y": -77,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f8f5b4e16f197b75",
+      "type": "text",
+      "text": "不管原定的進度，先重寫曾經訂正過、**已經掌握**的題目來抓回節奏",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 0,
+      "width": 319,
+      "height": 80
+    },
+    {
+      "id": "e2664133935833c6",
+      "type": "text",
+      "text": "可聽音樂",
+      "styleAttributes": {},
+      "x": -60,
+      "y": -25,
+      "width": 132,
+      "height": 51
+    }
+  ],
+  "edges": [
+    {
+      "id": "dd8cc7b221f41711",
+      "fromNode": "365a35d2b7e5d27b",
+      "fromSide": "bottom",
+      "toNode": "ffac84ab31867d78",
+      "toSide": "top"
+    },
+    {
+      "id": "87c6ae3577c9def9",
+      "fromNode": "ffac84ab31867d78",
+      "fromSide": "bottom",
+      "toNode": "b9a0c8340475bc61",
+      "toSide": "top"
+    },
+    {
+      "id": "674db9c14469cc0a",
+      "fromNode": "b9a0c8340475bc61",
+      "fromSide": "bottom",
+      "toNode": "f8f5b4e16f197b75",
+      "toSide": "top"
+    },
+    {
+      "id": "bd79d535d994f64b",
+      "fromNode": "b9a0c8340475bc61",
+      "fromSide": "right",
+      "toNode": "e2664133935833c6",
+      "toSide": "top"
+    },
+    {
+      "id": "cd3650a85b863270",
+      "fromNode": "e2664133935833c6",
+      "fromSide": "bottom",
+      "toNode": "f8f5b4e16f197b75",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,6 +1,0 @@
----
-identifier: 202409251529
----
-traits: #fleet 
-# 定期清理fleet，想要看就用git回頭檢視
-如題。我有用git追蹤筆記真的是件好事，這樣我就根本不需要留念那些備考時記下的一大堆fleeting notes了。

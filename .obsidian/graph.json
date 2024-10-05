@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"001 Fleeting\"  ",
+      "query": "path:\"001 Fleeting/2-Diary日常隨想\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"000 In-class Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -20,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 11.5262875536481,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19985569392136762,
-  "close": false
+  "scale": 0.12847674372163628,
+  "close": true
 }

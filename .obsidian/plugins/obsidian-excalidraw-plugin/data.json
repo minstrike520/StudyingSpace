@@ -187,7 +187,7 @@
           "smoothing": 0.5,
           "thinning": 0.55,
           "streamline": 0.5,
-          "easing": "easeOutSine",
+          "easing": "linear",
           "start": {
             "taper": 5,
             "cap": false,

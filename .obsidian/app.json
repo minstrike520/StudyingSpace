@@ -22,6 +22,7 @@
   "showInlineTitle": false,
   "mobilePullAction": "switcher:open",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Temporary",
-  "showRibbon": false
+  "newFileFolderPath": "001 Zettels",
+  "showRibbon": false,
+  "promptDelete": false
 }
