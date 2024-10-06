@@ -23,4 +23,4 @@ unzipping: `tar -xvzf <target>.tar.gz`
 
 ## Dealing with AppImage
 
-![[How to Deal With AppImage on Proot Arch]]
+![[Proot-Arch How to Deal With AppImage]]

@@ -22,7 +22,8 @@
   "showInlineTitle": false,
   "mobilePullAction": "switcher:open",
   "newFileLocation": "folder",
-  "newFileFolderPath": "001 Zettels",
+  "newFileFolderPath": "004 Fleeting",
   "showRibbon": false,
-  "promptDelete": false
+  "promptDelete": true,
+  "trashOption": "local"
 }
