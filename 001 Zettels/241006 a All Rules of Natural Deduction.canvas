@@ -192,21 +192,23 @@
     },
     {
       "id": "6566b09dfa8fd4a6",
+      "type": "file",
+      "file": "001 Zettels/241006 b5 PF.md",
+      "styleAttributes": {},
       "x": -862,
       "y": 1100,
       "width": 402,
-      "height": 300,
-      "type": "file",
-      "file": "001 Zettels/241006 b5 PF.md"
+      "height": 300
     },
     {
       "id": "d4762f699b76ac5e",
+      "type": "file",
+      "file": "001 Zettels/241006 b6 PF.md",
+      "styleAttributes": {},
       "x": -862,
       "y": 1440,
       "width": 428,
-      "height": 314,
-      "type": "file",
-      "file": "001 Zettels/241006 b6 PF.md"
+      "height": 314
     },
     {
       "id": "40874e55f69ed96a",
@@ -220,21 +222,23 @@
     },
     {
       "id": "c6d972b13356b1a9",
+      "type": "file",
+      "file": "001 Zettels/241006 b7 Commutativity of Disjunction PF.md",
+      "styleAttributes": {},
       "x": -1320,
       "y": 460,
       "width": 458,
-      "height": 314,
-      "type": "file",
-      "file": "001 Zettels/241006 b7 Commutativity of Disjunction PF.md"
+      "height": 314
     },
     {
       "id": "c5512a76311241ad",
+      "type": "file",
+      "file": "001 Zettels/241006 b8 PF.md",
+      "styleAttributes": {},
       "x": -2000,
       "y": 460,
       "width": 640,
-      "height": 412,
-      "type": "file",
-      "file": "001 Zettels/241006 b8 PF.md"
+      "height": 412
     }
   ],
   "edges": [
