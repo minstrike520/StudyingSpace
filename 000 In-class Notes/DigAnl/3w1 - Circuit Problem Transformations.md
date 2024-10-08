@@ -10,7 +10,7 @@ We already have [[3w1 - Basic Circuit Problem Solving Skills]], but the initial 
 ## Thevenin's Theorem
 - General settings of both configurations and **observations**
 - Simplifies a set of basic elements(resistors, voltage sources and current sources) to a circuit with ONLY one voltage source and one resistor chained.
-![[illustration - Devenin Theorem]]
+![[illustration - Thevenin's Theorem]]
 
 ## Norton's Theorem
 - Similar to [[#Thevenin's Theorem]], Norton's theorem also simplifies a set of basic elements, but the different part is that it turns the set into a circuit with one **current source** and one resistor in parallel.
