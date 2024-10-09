@@ -6,4 +6,6 @@
 	- 2210 Politics
 - 3000 Self Improving
 	- 3110 Note-taking
+	- 3111 zettelkasten
+	- 3200 Discipline 
 - 
