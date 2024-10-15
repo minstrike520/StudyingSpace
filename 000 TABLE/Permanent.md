@@ -4,8 +4,8 @@
 - 2000 Culture & Social
 	- 2110 Urban Geography
 	- 2210 Politics
-- 3000 Self Improving
+- 3000 Self Improvin=g
 	- 3110 Note-taking
 	- 3111 zettelkasten
-	- 3200 Discipline 
-- 
+	- 3200 Discipline
+	- 3220 Life Roadmap

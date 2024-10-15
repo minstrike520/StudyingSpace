@@ -1,4 +1,4 @@
-$$
+		$$
 \begin{aligned}
  & e = \lim_{ x \to 0 } (1+x)^{1/x} = y \\
  & \lim_{ \times \to 0 } (1+x)^{1/x} = \lim_{ x \to 0 } e^{\ln(1+x)^{1/x}} = \lim_{ x \to 0 } e^{1/x \cdot \ln(1+x)} \\
