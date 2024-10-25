@@ -81,16 +81,6 @@
       "height": 60
     },
     {
-      "id": "a21cb95b1a102d75",
-      "type": "file",
-      "file": "001 Zettels/241006 b2 PF.md",
-      "styleAttributes": {},
-      "x": -780,
-      "y": 90,
-      "width": 359,
-      "height": 222
-    },
-    {
       "id": "eeba6e61fec23c5f",
       "type": "file",
       "file": "001 Zettels/241006 b1 PF.md",
@@ -239,6 +229,16 @@
       "y": 460,
       "width": 640,
       "height": 412
+    },
+    {
+      "id": "a21cb95b1a102d75",
+      "type": "file",
+      "file": "001 Zettels/241006 b2 PF.md",
+      "styleAttributes": {},
+      "x": -770,
+      "y": 120,
+      "width": 359,
+      "height": 222
     }
   ],
   "edges": [

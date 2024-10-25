@@ -10,6 +10,10 @@
   {trigger: "REAM", replacement: "---\npage-type: reaction\ntags:\n  - review_數/反應\n---\n", options: "tA"},
   {trigger: "REAC", replacement: "---\npage-type: reaction\ntags:\n  - review_化/反應\n---\n", options: "tA"},
 
+  {trigger: "|=", replacement: "\\models ", options: "mA"},
+  {trigger: "MM", replacement: "\\mathcal{M}", options: "mA"},
+  {trigger: "bydef", replacement: "\\overset{\\Delta}{=}", options: "mA"},
+
   //regular
   {trigger: "eqs", replacement: "\\left\\{\\begin{aligned}\n$0\n\\end{aligned}\\right.", options: "mA"},
   {trigger: "qed", replacement: "\\blacksquare", options: "mA"},
