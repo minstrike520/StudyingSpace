@@ -15,7 +15,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 70
   },
   "spellcheck": false,
   "vimMode": true,

@@ -1,0 +1,85 @@
+{
+	"nodes":[
+		{
+			"id":"89462e6fc31641bb",
+			"type":"file",
+			"file":"999 In-class Notes(中考前)/DigAnl/4w2g1 - Signal Amplification.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":-37,
+			"width":440,
+			"height":297
+		},
+		{
+			"id":"4fb51ba2938830eb",
+			"type":"file",
+			"file":"999 In-class Notes(中考前)/DigAnl/4w2g2 - Amplification Circuit.md",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-68,
+			"width":320,
+			"height":220
+		},
+		{
+			"id":"53e5ddf8064a7c91",
+			"type":"text",
+			"text":"從這節課開始就不能再混了！\n現在已經脫離高中物理，沒有老本可以吃了。",
+			"styleAttributes":{},
+			"x":620,
+			"y":-48,
+			"width":386,
+			"height":90
+		},
+		{
+			"id":"372295d4096d3240",
+			"type":"file",
+			"file":"999 In-class Notes(中考前)/DigAnl/4w2g3.md",
+			"styleAttributes":{},
+			"x":20,
+			"y":320,
+			"width":400,
+			"height":348
+		},
+		{
+			"id":"89c07265d9488cbb",
+			"type":"file",
+			"file":"999 In-class Notes(中考前)/DigAnl/4w2 - Taylor Expansion.md",
+			"styleAttributes":{},
+			"x":500,
+			"y":188,
+			"width":666,
+			"height":306
+		},
+		{
+			"id":"45e1b17233139db2",
+			"type":"file",
+			"file":"999 In-class Notes(中考前)/DigAnl/4w2 - Diode Element.md",
+			"styleAttributes":{},
+			"x":623,
+			"y":541,
+			"width":577,
+			"height":219
+		},
+		{
+			"id":"e7c94dc79a41f3f2",
+			"type":"file",
+			"file":"999 In-class Notes(中考前)/DigAnl/4w2g5 - Example of Small-signal Analysis.md",
+			"styleAttributes":{},
+			"x":-360,
+			"y":720,
+			"width":921,
+			"height":680
+		}
+	],
+	"edges":[
+		{
+			"id":"7ac9567353b262bf",
+			"styleAttributes":{},
+			"fromNode":"4fb51ba2938830eb",
+			"fromSide":"right",
+			"toNode":"89462e6fc31641bb",
+			"toSide":"left"
+		}
+	],
+	"metadata":{}
+}
