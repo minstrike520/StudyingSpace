@@ -1,0 +1,11 @@
+Reflexive(?) - 跟自己有關係
+Transitive 
+Closure - 最小的關係
+p90
+1 Reflexive
+2 Transitive
+3 兩個relations 的relation
+4 沒有relation
+
+p91
+-1  
