@@ -137,7 +137,7 @@ $$
 $$
 67 **TODO**
 $$
-\int \cot ^{2} x\ dx = 
+\int \cot ^{2} x\ dx = \int (\csc ^{2}x - 1)\ dx = -\cot x - x\ \blacksquare
 $$
 76
 $$
