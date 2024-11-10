@@ -24,6 +24,7 @@ $$
 **TODO!!!**
 (GRAPH)
 a
+![[Pasted image 20241111002123.png]]
 $$
 \begin{aligned}
 S_\text{a}  & = \sum ^{4}_{k = 1} \sin c_{k} \Delta x_{k} \\
@@ -32,6 +33,7 @@ S_\text{a}  & = \sum ^{4}_{k = 1} \sin c_{k} \Delta x_{k} \\
 \end{aligned}
 $$
 b
+![[Pasted image 20241111002820.png]]
 $$
 \begin{aligned}
 S_\text{b}  & = \sum ^{4}_{k = 1} \sin c_{k} \Delta x_{k} \\
@@ -40,6 +42,7 @@ S_\text{b}  & = \sum ^{4}_{k = 1} \sin c_{k} \Delta x_{k} \\
 \end{aligned}
 $$
 c
+![[Pasted image 20241111000954.png]]
 $$
 \begin{aligned}
 S_\text{c}  & = \sum ^{4}_{k = 1}\sin c_{k}\Delta x_{k} \\
