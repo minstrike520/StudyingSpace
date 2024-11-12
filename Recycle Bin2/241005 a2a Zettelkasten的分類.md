@@ -1,2 +1,0 @@
-- 1000 Self Improving
-- 2000
