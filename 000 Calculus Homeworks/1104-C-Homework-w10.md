@@ -21,8 +21,6 @@ $$
 \end{aligned}
 $$
 39
-**TODO!!!**
-(GRAPH)
 a
 ![[Pasted image 20241111002123.png]]
 $$
@@ -101,9 +99,15 @@ $$
 \end{aligned}
 $$
 16
-**TODO**
+![[Pasted image 20241111130155.png]]
+$$
+\int ^{3/2}_{1/2} (-2x+4)\ dx = (3 + 1) \cdot 1 \div 2 = 2\ \blacksquare
+$$
 18
-**TODO**
+![[Pasted image 20241111130621.png]]
+$$
+\int ^{0}_{-4} \sqrt{ 16 - x^{2} }\ dx = \frac{1}{4}\cdot \pi \cdot 4^{2} = 4\pi\ \blacksquare
+$$
 41
 5.6, eq 2 to 4
 $$
@@ -118,9 +122,28 @@ $$
 \end{aligned}
 $$
 55
-**TODO**
+![[Pasted image 20241111131152.png]]
+$$
+\begin{aligned}
+ \bar{v}  &  = \frac{1}{\sqrt{ 3 } - 0} \cdot \int ^{\sqrt{ 3 }}_{0} x^{2} - 1\ dx  \\
+ & = \frac{1}{\sqrt{ 3 }} \left( \frac{1}{3}x^{3} - x \right)^{\sqrt{ 3 }}_{0} \\
+ & = \frac{1}{\sqrt{ 3 }} (\sqrt{ 3 } - \sqrt{ 3 }) = 0\ \blacksquare
+\end{aligned}
+$$
 61
-**TODO**
+![[Pasted image 20241111131651.png]]
+a
+$$
+\bar{v}_{1} = \frac{1}{1 - (-1)} \cdot \int ^{1}_{-1}| x | - 1 = \frac{1}{2}\cdot 1 = \frac{1}{2}\ \blacksquare
+$$
+b
+$$
+\bar{v}_{2} = \frac{1}{3 - 1}\cdot \int ^{3}_{1}| x | - 1 = \frac{1}{2}\cdot 2 = 1\ \blacksquare
+$$
+c
+$$
+\bar{v}_{3} = \frac{1}{3 - (-1)} \cdot \int ^{3}_{-1} | x | - 1 = \frac{1}{4} \cdot (2 - 1) = \frac{1}{4}\ \blacksquare
+$$
 65
 $$
 \begin{aligned}
@@ -227,7 +250,7 @@ $$
 $$
 \forall x \in \mathbb{R},\ \frac{df}{dx}(x) > 0;\ f(1) = 0;\ g(x) = \int ^{x}_{0} f(t)\ dt
 $$
-a
+a is true.
 $$
 \begin{aligned}
  & \begin{aligned}
@@ -236,8 +259,31 @@ g'(x) = \lim_{ h \to 0 } \frac{g(x + h) - g(x)}{h}  & = \lim_{ h \to 0 } \frac{1
 \end{aligned}\\
 	 & \because g\ \text{is continuous on}\ [x, x + h] \\
 	 & \therefore \text{by M.V.T. for definite integral},\ \exists c \in [x, x + h] \ni f(c) = \frac{1}{h}\int ^{x + h}_{x} f(t)\ dt \\
-	 & \ \ \ \ \ g'(x) = \lim_{ h \to 0 } \frac{1}{h} \int ^{x + h}_{x} f(t)\ dt = 
-
-  
+	 & \ \ \ \ \ g'(x) = \lim_{ h \to 0 } \frac{1}{h} \int ^{x + h}_{x} f(t)\ dt = \lim_{ \substack{h \to 0\\x \to c} } f(c) = f(x) \\
+  & \text{Since}\ f(x)\ \text{exists,}\ g'(x)\ \text{as well exists}\ \blacksquare
+\end{aligned}
+$$
+b is true.
+$$
+\because g'(x) = \lim_{ h \to 0 } \frac{g(x + h) - g(x)}{h}\therefore\ g'(x)\ \text{exists} \implies g(x)\ \text{is continuous}\ \blacksquare
+$$
+c is true.
+$$
+\because g'(x) = f(x) \therefore g'(1) = f(1) = 0,\ \text{tangent line of it there is horizontal}\ \blacksquare
+$$
+d is true and e, f is false.
+$$
+g''(x) = f'(x) > 0,\ g'(1) = f(1) = 0 \therefore g(x)\ \text{has a local maximum at}\ x = 1\ \blacksquare
+$$
+g is true.
+$$
+\begin{aligned} 
+ & \frac{dg}{dx} = g'\\
+ & \left\{\begin{aligned}
+ &  x<1: \forall x < 1,\ g'(x) < 0 \\
+ & x>1: \forall x > 1,\ g'(x) > 0 \\
+ & x = 0: g'(1) = 0 \\
+\end{aligned}\right.
+ & \therefore \frac{dg}{dx}\ \text{crosses the x-axis at}\ x = 1\ \blacksquare
 \end{aligned}
 $$
