@@ -3,7 +3,7 @@
   "cssTheme": "Things",
   "theme": "obsidian",
   "showViewHeader": true,
-  "baseFontSize": 20,
+  "baseFontSize": 24,
   "enabledCssSnippets": [
     "multi-columns"
   ],
