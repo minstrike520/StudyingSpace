@@ -7,7 +7,7 @@
     "editor:insert-horizontal-rule",
     "insert-template"
   ],
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "./",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {

@@ -13,6 +13,7 @@
   {trigger: "|=", replacement: "\\models ", options: "mA"},
   {trigger: "MM", replacement: "\\mathcal{M}", options: "mA"},
   {trigger: "bydef", replacement: "\\overset{\\Delta}{=}", options: "mA"},
+  {trigger: "cal", replacement: "$\\mathcal{$0}$ $1", options: "mA"},
 
   //regular
   {trigger: "eqs", replacement: "\\left\\{\\begin{aligned}\n$0\n\\end{aligned}\\right.", options: "mA"},
@@ -25,6 +26,8 @@
   {trigger: "aa", replacement: "å", options: "mA"},
   {trigger: "AA", replacement: "Å", options: "mA"},
   {trigger: "not", replacement: "\\lnot", options: "mA"},
+  {trigger: "root", replacement: "\\sqrt[ $0 ]{ $1 }$2", options: "mA"},
+
 
   // intervals
   {trigger: "ocin", replacement: "($0, $1]", options: "mA"},

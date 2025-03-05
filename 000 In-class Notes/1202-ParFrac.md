@@ -14,3 +14,24 @@ $$
 
 3. set $\frac{f(x)}{g(x)}$ = 1. + 2.
 4. Find the underdetermined coefficients.
+
+
+$$
+\begin{aligned}
+ & \begin{aligned}
+ t_{1} &  = 10500 \div 360 = 1050  \div 36 \\
+ & = \frac{350}{12}
+\end{aligned} \\
+ & \begin{aligned}
+d_{1} & = 200 \times t_{1} = 200 \times \frac{350}{12} \\
+ & = \frac{17500}{3}
+\end{aligned} \\
+ & \begin{aligned}
+t_{2} & = \frac{10500 - d_{1}}{360 + 200} = \frac{\frac{14000}{3}}{560} = \frac{1400}{3 \times 56}
+\end{aligned} \\
+ & \begin{aligned}
+ans & = 360 \times t_{2}  = 360 \times \frac{1400}{3 \times 56} \\
+ & = \frac{15 \times 1400}{7} = 15 \times 200 = 3000 \ \blacksquare
+\end{aligned}
+\end{aligned}
+$$
