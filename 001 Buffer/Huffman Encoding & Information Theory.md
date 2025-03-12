@@ -25,5 +25,4 @@ $$
 I(x) = \log_{b} \left( \frac{1}{P(x)} \right) = -\log_{b} P(x)
 $$
 We can use $b = 2$, meaning that measure in unit "bit".
-![[Huffman Encoding & Information Theory250212]]
 ### Information Entropy

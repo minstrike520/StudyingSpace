@@ -1,0 +1,1 @@
+Suppose that $y = f(x)$ is continuous at $[a,b]$ and differentiable on $(a,b)$. If $f(a)=f(b)$, then there's at least one $c \in(a,b)$ such that $f'(c)=0$.
