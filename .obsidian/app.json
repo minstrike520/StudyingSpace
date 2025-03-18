@@ -23,7 +23,6 @@
   "mobilePullAction": "switcher:open",
   "newFileLocation": "folder",
   "newFileFolderPath": "004 Fleeting",
-  "showRibbon": false,
   "promptDelete": false,
   "trashOption": "local"
 }

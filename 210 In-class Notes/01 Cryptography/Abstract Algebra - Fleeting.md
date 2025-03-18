@@ -1,3 +1,7 @@
+# Finite Fields
+## Polynomials as Field
+
+
 When $\text{gcd}(a, b)=1$, we observe
 $$
 au + b v \equiv 1
@@ -77,3 +81,14 @@ $$
 $\alpha$ is a root of $x^{3} + x + 1$ over $GF_{2}$; then different multiples of $\alpha$ will be all unique (except power of 0 and 7)
 And then we will find all multiples roots of $x^{8} - x$.
 So the isomorphic function we have a clue: the function maps all roots of one quotient to another.
+## Group, Ring and Field
+Group: Closure, Associativity, Identity, Inverse
+Abelian Group: (GROUP) + Commutativity
+Ring
+- First operation: is an abelian group
+- Second operation: closure, Associativity
+Ring with Identity: (RING) + Identity
+Commutative Ring: (RING) + Commutativity
+Field: (RING) + Inverse
+- First operation: Closure, Associatibity, Identity, Inverse, Commutativity
+- Second operation: Closure, Associativity, Inverse

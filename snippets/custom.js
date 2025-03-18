@@ -4,16 +4,20 @@
   // m 'math': only inside math
   // M 'block math': only inside block math
   //
-  //temp
+  //mode
   {trigger: "WP", replacement: "---\npage-type: Waypoint\n---\n\%\% Waypoint \%\%", options: "tA"},
   {trigger: "REAP", replacement: "---\npage-type: reaction\ntags:\n  - review_物/反應\n---\n", options: "tA"},
   {trigger: "REAM", replacement: "---\npage-type: reaction\ntags:\n  - review_數/反應\n---\n", options: "tA"},
   {trigger: "REAC", replacement: "---\npage-type: reaction\ntags:\n  - review_化/反應\n---\n", options: "tA"},
+  {trigger: "mlk", replacement: "${$0}$", options: "tA"},
+
 
   {trigger: "|=", replacement: "\\models ", options: "mA"},
   {trigger: "MM", replacement: "\\mathcal{M}", options: "mA"},
   {trigger: "bydef", replacement: "\\overset{\\Delta}{=}", options: "mA"},
   {trigger: "cal", replacement: "$\\mathcal{$0}$ $1", options: "mA"},
+  {trigger: "mdlo", replacement: "( \\text{mod }$0 ) $1", options: "mA"},
+
 
   //regular
   {trigger: "eqs", replacement: "\\left\\{\\begin{aligned}\n$0\n\\end{aligned}\\right.", options: "mA"},
