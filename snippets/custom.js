@@ -9,7 +9,7 @@
   {trigger: "REAP", replacement: "---\npage-type: reaction\ntags:\n  - review_物/反應\n---\n", options: "tA"},
   {trigger: "REAM", replacement: "---\npage-type: reaction\ntags:\n  - review_數/反應\n---\n", options: "tA"},
   {trigger: "REAC", replacement: "---\npage-type: reaction\ntags:\n  - review_化/反應\n---\n", options: "tA"},
-  {trigger: "mlk", replacement: "${$0}$", options: "tA"},
+  {trigger: "mmk", replacement: "${$0}$", options: "tA"},
 
 
   {trigger: "|=", replacement: "\\models ", options: "mA"},
@@ -64,7 +64,4 @@
  // {trigger: "gt", replacement: "\\gt", options: "mA"},
   // {trigger: "le", replacement: "\\le", options: "mA"},
   // {trigger: "ge", replacement: "\\ge", options: "mA"},
-  
-
-
 ]
