@@ -11,7 +11,6 @@
   {trigger: "REAC", replacement: "---\npage-type: reaction\ntags:\n  - review_化/反應\n---\n", options: "tA"},
   {trigger: "mmk", replacement: "${$0}$", options: "tA"},
 
-
   {trigger: "|=", replacement: "\\models ", options: "mA"},
   {trigger: "MM", replacement: "\\mathcal{M}", options: "mA"},
   {trigger: "bydef", replacement: "\\overset{\\Delta}{=}", options: "mA"},
@@ -31,6 +30,8 @@
   {trigger: "AA", replacement: "Å", options: "mA"},
   {trigger: "not", replacement: "\\lnot", options: "mA"},
   {trigger: "root", replacement: "\\sqrt[ $0 ]{ $1 }$2", options: "mA"},
+  {trigger: "dint", replacement: "\\int^{$0}_{$1}$2", options: "mA"},
+  {trigger: "eval", replacement: "\\biggr|^{$0}_{$1}$2", options: "mA"},
 
 
   // intervals
