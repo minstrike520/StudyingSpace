@@ -15,7 +15,12 @@ A group with a set $G$ and an operation $*$ need to satisfy all four traits belo
 
 ## Bijective Function
 A bijective function, or bijection, has to be both injection and surjection.
-Injection (aka one-to-one function) means that the function "maps distinct elements of its domain to distinct elements of its codomain," or described in symbols, $x_{1}\ne x_{2} \implies f(x_{1}) \ne f(x_{2})$.
+Injection (aka one-to-one function) means that the function 
+> maps distinct elements of its domain to distinct elements of its codomain,
+
+or described in symbols, $$
+x_{1}\ne x_{2} \implies f(x_{1}) \ne f(x_{2}).
+$$
 Surjection (aka onto function) means that "for every element $y$ of the function's codomain, there exists **at least** one element $x$ in the function's domain such that $f(x)=y$".
 We call a bijection signs "one-to one **correspondence**".
 
