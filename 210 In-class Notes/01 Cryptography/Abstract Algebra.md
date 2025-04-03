@@ -107,4 +107,13 @@ The set of all polynomials whose **coefficients** are in fielid $F$ with usual a
 **Leading term**
 The leading term of a polynomial $p(x)$, denoted as $LT(p(x))$, is the **monomial** $a_{m}x^{m}$ with the highest degree $m$ in $p(x)$.
 
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "210 In-class Notes/01 Cryptography/Ink/Drawing/2025.3.30 - 13.38pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
+
 

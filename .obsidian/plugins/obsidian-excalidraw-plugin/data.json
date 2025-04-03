@@ -150,13 +150,13 @@
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
-        "constantPressure": false,
+        "constantPressure": true,
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
           "thinning": 0.6,
           "smoothing": 0.5,
-          "streamline": 0.5,
+          "streamline": 0.2,
           "easing": "easeOutSine",
           "start": {
             "cap": true,
