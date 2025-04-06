@@ -1,11 +1,12 @@
 {
   "accentColor": "#34858c",
   "cssTheme": "Things",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true,
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "multi-columns"
   ],
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showRibbon": false
 }
