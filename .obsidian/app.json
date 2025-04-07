@@ -1,11 +1,16 @@
 {
+  "showRibbon": false,
   "tabSize": 4,
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
     "editor:attach-file",
     "editor:insert-horizontal-rule",
-    "insert-template"
+    "insert-template",
+    "editor:set-heading",
+    "editor:set-heading-1",
+    "editor:set-heading-2",
+    "editor:set-heading-3"
   ],
   "attachmentFolderPath": "./",
   "showUnsupportedFiles": true,
@@ -20,7 +25,7 @@
   "spellcheck": false,
   "vimMode": true,
   "showInlineTitle": false,
-  "mobilePullAction": "switcher:open",
+  "mobilePullAction": "app:open-settings",
   "newFileLocation": "folder",
   "newFileFolderPath": "004 Fleeting",
   "promptDelete": false,

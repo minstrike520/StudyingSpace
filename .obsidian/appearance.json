@@ -7,6 +7,5 @@
   "enabledCssSnippets": [
     "multi-columns"
   ],
-  "nativeMenus": true,
-  "showRibbon": false
+  "nativeMenus": true
 }
