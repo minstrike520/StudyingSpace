@@ -3,10 +3,12 @@
   "cssTheme": "Things",
   "theme": "moonstone",
   "showViewHeader": true,
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "multi-columns"
   ],
   "nativeMenus": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "textFontFamily": "TeX Gyre Pagella,Noto Serif CJK TC",
+  "interfaceFontFamily": ""
 }
