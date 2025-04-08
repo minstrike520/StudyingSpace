@@ -9,13 +9,13 @@
   {trigger: "REAP", replacement: "---\npage-type: reaction\ntags:\n  - review_物/反應\n---\n", options: "tA"},
   {trigger: "REAM", replacement: "---\npage-type: reaction\ntags:\n  - review_數/反應\n---\n", options: "tA"},
   {trigger: "REAC", replacement: "---\npage-type: reaction\ntags:\n  - review_化/反應\n---\n", options: "tA"},
-  {trigger: "mmk", replacement: "${$0}$", options: "tA"},
+  {trigger: "mmk", replacement: "${$0}$$1", options: "tA"},
 
   {trigger: "|=", replacement: "\\models ", options: "mA"},
   {trigger: "MM", replacement: "\\mathcal{M}", options: "mA"},
   {trigger: "bydef", replacement: "\\overset{\\Delta}{=}", options: "mA"},
   {trigger: "cal", replacement: "$\\mathcal{$0}$ $1", options: "mA"},
-  {trigger: "mdlo", replacement: "( \\text{mod }$0 ) $1", options: "mA"},
+  {trigger: "mod", replacement: "( \\text{mod }$0 ) $1", options: "mA"},
 
 
   //regular
@@ -62,7 +62,7 @@
   {trigger: "=?", replacement: "\\stackrel{?}{=}", options: "mA"},
   {trigger: "\\le?", replacement: "\\stackrel{?}{\\le}", options: "mA"},
   {trigger: "\\ge?", replacement: "\\stackrel{?}{\\ge}", options: "mA"},
- // {trigger: "gt", replacement: "\\gt", options: "mA"},
-  // {trigger: "le", replacement: "\\le", options: "mA"},
-  // {trigger: "ge", replacement: "\\ge", options: "mA"},
+  // {trigger: "gt", replacement: "\\gt", options: "mA"},
+  {trigger: "<e", replacement: "\\le", options: "mA"},
+  {trigger: ">e", replacement: "\\ge", options: "mA"},
 ]

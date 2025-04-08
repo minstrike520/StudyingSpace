@@ -8,7 +8,6 @@
     "multi-columns"
   ],
   "nativeMenus": true,
-  "showRibbon": false,
   "textFontFamily": "TeX Gyre Pagella,Noto Serif CJK TC",
   "interfaceFontFamily": ""
 }
