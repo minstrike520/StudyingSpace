@@ -31,6 +31,7 @@
   {trigger: "not", replacement: "\\lnot", options: "mA"},
   {trigger: "root", replacement: "\\sqrt[ $0 ]{ $1 }$2", options: "mA"},
   {trigger: "dint", replacement: "\\int^{$0}_{$1}$2", options: "mA"},
+  {trigger: "dsum", replacement: "\\sum^{$0}_{$1}$2", options: "mA"},
   {trigger: "eval", replacement: "\\biggr|^{$0}_{$1}$2", options: "mA"},
 
 

@@ -2,8 +2,8 @@
 ## Direct Comparison Test
 **Key**
 選取一個更好求極限值的數列，如$p$-series。選取與操作方式如下：
-1. 比我大的都收斂，便知我也收斂
-2. 比我小的都發散，便知我也發散
+1. 大的都收斂，那我也收斂
+2. 小的都發散，那我也發散
 
 **Example**: 9.4 work 1
 ${\forall n \ge 1}$, ${\frac{1}{n^{2} + 30} < \frac{1}{n^{2}}}$
@@ -46,5 +46,4 @@ Note that ${\sum ^{\infty}_{n = 1}\left| (-1)^{n}(\sqrt{ n +1 } - \sqrt{ n }) \r
 Let ${s_{n} = \sum ^{n}_{k = 1} (\sqrt{ k + 1 } - \sqrt{ k }) = \sqrt{ 2 } - 1 + \sqrt{ 3 } - \sqrt{ 2 } + \dots + \sqrt{ n + 1 } - \sqrt{ n } = \sqrt{ n + 1 } - 1}$.
 Then ${\sum ^{\infty}_{n = 1} (\sqrt{ n + 1 } - \sqrt{ n }) = \lim_{ n \to \infty }s_{n} = \lim_{ n \to \infty }\sqrt{ n + 1 } - 1 = \infty}$, which diverges.
 $\therefore$ ${\sum ^{\infty}_{n = 1}(-1)^{n}(\sqrt{ n + 1 } - \sqrt{ n })}$ converges conditionally $\blacksquare$
-
 

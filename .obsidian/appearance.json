@@ -9,5 +9,6 @@
   ],
   "nativeMenus": true,
   "textFontFamily": "TeX Gyre Pagella,Noto Serif CJK TC",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "showRibbon": false
 }
