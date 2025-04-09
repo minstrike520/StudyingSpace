@@ -35,3 +35,15 @@ $$
 $$
 \frac{1}{n(n + 1)} = \frac{1}{n} - \frac{1}{n + 1}
 $$
+## Natural Number Definition
+$$
+e = \lim_{ n \to \infty } \left(  1 + \frac{1}{n} \right)^{n}
+$$
+${e^{-1} = \lim_{ n \to \infty }\left( \frac{n}{n+1} \right)^{n}}$:
+$$
+e ^{-1} = \lim_{ n \to \infty } \left( \frac{1}{1 + \frac{1}{n}} \right)^{n} = \lim_{ n \to \infty } \frac{1}{\frac{n + 1}{n}}^{n} = \lim_{ n \to \infty } \left( \frac{n}{n+1} \right)^{n}
+$$
+${e^{k} = \lim_{ n \to \infty }\left( 1 + \frac{k}{n} \right)^{n}}$:
+$$
+e^{k} = \lim_{ n' \to \infty } \left( 1 + \frac{1}{n'} \right)^{n'k} = \lim_{ n'k \to \infty } \left(  1 + \frac{1}{\frac{n'k}{k}} \right)^{n'k} = \lim_{ n \to \infty } \left( 1 + \frac{k}{n} \right)^{n}
+$$
