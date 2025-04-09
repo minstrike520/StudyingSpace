@@ -2,3 +2,6 @@
 Public/
 .obsidian/workspace-mobile.json
 .obsidian/workspace.json
+.obsidian/plugins/custom-font-loader/
+.obsidian/fonts/
+.obsidian/appearance.json
