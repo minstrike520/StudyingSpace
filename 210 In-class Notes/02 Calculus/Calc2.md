@@ -96,3 +96,17 @@ $$
 \frac{1}{n} - \frac{1}{n+1} = \frac{(n+1)-n}{n(n+1)} = \frac{1}{n(n+1)}\ \blacksquare
 
 $$
+$C: r = 1 + \cos\theta$. Find the area enclosed by it.
+Note that
+$$
+\int \cos ^{2}\theta\ d\theta = \int \frac{1 + \cos 2\theta}{2}\ d\theta = \frac{\theta}{2} + \frac{\sin 2\theta}{4} + C.
+$$
+Knowing that $C$ is symmetric by $y$-axis, then
+$$
+\begin{aligned}
+A & = 2 \int ^{\pi / 2}_{- \pi / 2} \frac{1}{2} r^{2} d\theta = \int ^{\pi/2}_{- \pi / 2} (1 + \cos \theta)^{2}  \ d\theta\\
+ & = \int ^{\pi / 2}_{- \pi / 2} (\cos ^{2} \theta + 2 \cos \theta + 1)\ d\theta  \\
+ & = \left( \frac{\theta}{2} + \frac{\sin 2\theta}{4} + 2 \sin \theta  + \theta\right) \biggr|^{\pi / 2}_{- \pi / 2} \\
+ & = 2 \left( \frac{3}{2} \theta  + 2 \sin \theta\right) \biggr|^{ \pi / 2}_{0} = \frac{3\pi}{2} + 4.\ \blacksquare
+\end{aligned}
+$$
