@@ -1,4 +1,4 @@
-# Euclidean Algorithm: An Example
+# Euclidean Algorithm
 ## Basic Recurrence
 $$
 \text{gcd}(a,b) = \left\{\begin{aligned}
@@ -8,14 +8,15 @@ $$
 $$
 with an arbitary $k$.
 證明：${\text{gcd}(a,b) = \text{gcd}(b,r)}$.
-想法：可以將問題拆解為「兩式互相小於等於對方」的兩個小命題，來簡化證明難度。
+> 可以將問題拆解為「兩式互相小於等於對方」的兩個小命題，來簡化證明難度。
+
 命題一，${\text{gcd}(a,b) \le \text{gcd}(b,r)}$.
 - Let ${d \in \text{common divisor}(a,b)}$.
 - ${\implies a = k_{1}d \land b = k_{2}d}$, ${\exists k_{1}, k_{2} \in \mathbb{Z}}$.
 - ${a = bk + r \implies r = (k_{1} - kk_{2})d}$ ${\implies d | r}$.
 - ${\implies \forall d' \in \text{common divisor(a,b)} \implies d' | r}$.
 	- Every common divisor of $a$ and $b$ is a divisor of $r$, which surely contains ${\text{gcd}(a,b)}$.
-略命題二。$\blacksquare$
+（略命題二。）故得證 $\blacksquare$
 
 ## Estimating Steps Needed in Euclidean Algorithm
 Let ${r_{0}  = a}$, ${r_{1} = b}$; ${r_{0} \ge r_{1}}$.
@@ -53,10 +54,9 @@ $$
 $$
 n \le x = 2\log r_{0} + 1.\ \blacksquare
 $$
-註：可以說，找到的 $x$ 是一個保守解，這也是他作為「$n$ 的上界」的含意。
+> 可以說，找到的 $x$ 是一個保守解，這也是他作為「$n$ 的上界」的含意。
 # Mathematical Induction
-
-
+**TODO**
 # Generating function
 ## Infinite Sum vs. Closed Form
 1. Infinite sum: ${1 + x + x^{2} + \dots + x^{n} + \dots}$

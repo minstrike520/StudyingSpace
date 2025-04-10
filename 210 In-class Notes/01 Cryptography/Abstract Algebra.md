@@ -111,8 +111,8 @@ The leading term of a polynomial $p(x)$, denoted as $LT(p(x))$, is the **monomia
 {
 	"versionAtEmbed": "0.3.4",
 	"filepath": "210 In-class Notes/01 Cryptography/Ink/Drawing/2025.3.30 - 13.38pm.drawing",
-	"width": 500,
-	"aspectRatio": 1
+	"width": 682,
+	"aspectRatio": 3.5706806282722514
 }
 ```
 

@@ -15,7 +15,7 @@
   {trigger: "MM", replacement: "\\mathcal{M}", options: "mA"},
   {trigger: "bydef", replacement: "\\overset{\\Delta}{=}", options: "mA"},
   {trigger: "cal", replacement: "$\\mathcal{$0}$ $1", options: "mA"},
-  {trigger: "mod", replacement: "( \\text{mod }$0 ) $1", options: "mA"},
+  {trigger: "mod", replacement: "\\,( \\text{mod }$0 ) $1", options: "mA"},
 
 
   //regular
