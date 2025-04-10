@@ -56,7 +56,31 @@ n \le x = 2\log r_{0} + 1.\ \blacksquare
 $$
 > 可以說，找到的 $x$ 是一個保守解，這也是他作為「$n$ 的上界」的含意。
 # Mathematical Induction
-**TODO**
+## Well-ordering Axiom
+Let $S$ be a set with some positive integers. Then if
+$$
+\left\{\begin{aligned}
+ & 1 \in S \\
+ & \forall n \in \mathbb{N},\ n \in S \implies n + 1 \in S
+\end{aligned}\right.\ ,
+$$
+then $S$ is the set of all positive integers, namely $\mathbb{N}$.
+在這個公理之中便使用了數學歸納的概念。
+
+## Weak Mathematical Induction
+若要證明一個初階邏輯式$P(n)$對於所有$n \ge x$皆成立，則：
+$$
+P(x) = \text{true} \land \forall k > x,\ P(k) \implies P(k + 1)
+$$
+
+## Strong Mathematical Induction
+$$
+P(x) = \text{true} \land \forall k > x,\ P(x) \land P(x + 1) \land \dots \land P(k) \implies P(k + 1)
+$$
+
+## Lame's Theorem
+
+
 # Generating function
 ## Infinite Sum vs. Closed Form
 1. Infinite sum: ${1 + x + x^{2} + \dots + x^{n} + \dots}$
@@ -129,6 +153,9 @@ $$
 $$
 而分別可以還原回一般式 ${8^{n}}$ 與 $5\cdot 10^{n}$。因此，便可以得一般項 ${a_{n} = 8^{n} +5\cdot 10^{n}}$。$\blacksquare$
 
+**重點**
+1. 在推導時重複出現原式，可以移項整理，消去麻煩的式子
+2. $x$的一次分式是很有價值的。有他就可以構成無窮等比(closed form)。因此遇到可以拆分的二次分式（形如$\frac{1}{()()}$）的話要多留意一下。
 ## Manipulating Generating Function
 給兩個生成函式 ${A(x), B(x)}$ 分別對應到數列 $a_{0}, a_{1}, a_{2}, \dots, a_{n}$ 跟 ${b_{0}, b_{1}, b_{2}, \dots, b_{n}}$。
 一、乘以 $x$ 會達成「位移」(shifting)的效果：
@@ -137,11 +164,11 @@ xA(x) \leftrightarrow  0, a_{0}, a_{1}, \dots, a_{n-1}, \dots
 $$
 二、生成函式的加法：
 $$
-A(x) + B(x) \leftrightarrow  a_{0} + b_{0}, a_{1} + b_{1}, a_{2} + b_{2}, \dots
+A(x) + B(x) \leftrightarrow  a_{0} + b_{0},\ a_{1} + b_{1},\ a_{2} + b_{2}, \dots
 $$
 三、生成函數的乘法：
 $$
-A(x)\cdot B(x) \leftrightarrow  a_{0}b_{0}, a_{0} b_{1} + a_{1}b_{0}, a_{0}b_{2} + a_{1}b_{1} + a_{2}b_{0}, \dots
+A(x)\cdot B(x) \leftrightarrow  a_{0}b_{0},\ a_{0} b_{1} + a_{1}b_{0},\ a_{0}b_{2} + a_{1}b_{1} + a_{2}b_{0}, \dots
 $$
 我們可以說，兩個生成函數相乘，即得他們對應數列（此處為 ${\{ a_{n} \}}$ 與 ${\{ b_{n} \}}$）的**卷積(convolution)**。
 提示：${A(x)\cdot B(x) = (a_{0} + a_{1}x + a_{2}x^{2} + \dots)(b_{0} + b_{1}x + b_{2}x^{2} + \dots)}$
