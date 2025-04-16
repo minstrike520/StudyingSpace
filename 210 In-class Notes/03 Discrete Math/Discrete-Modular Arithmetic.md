@@ -223,10 +223,21 @@ x = \sum ^{n}_{i = 1} a_{i} \cdot y_{i} \cdot M_{i},
 $$
 其中$y_{i}$為${M_{i} = \frac{m}{m_{i}}}$的模反元素${(M_{i})^{-1}}$。
 
+## Proposition: Modulo Factorization
+對於兩個互質的模$m_{1}, m_{2}$：
+1. 同餘方程$\left\{\begin{aligned}x\equiv a_{1} \,( \text{mod }m_{1} )\\ x\equiv a_{2} \,( \text{mod } m_{2} )\end{aligned}\right.$有解
+2. 任兩解都會同餘模$m_{1} \cdot m_{2}$。
+> 或者說，對於整數環$\mathbb{Z}_{m_{1}\cdot m_{2}}$會有唯一解。
+
+### Proof
+$$
+\text{If}\ t \equiv m_{1}^{-1}(a_{2} - a_{1}) \,( \text{mod }m_{2} ) ,\ \ \text{then} \ \ x = a_{1} + m_{1} t\ \text{is such a solution.}\ \blacksquare
+$$
+
 ## Uniqueness Proof
 假設有兩數$x_{1},x_{2}$均為同餘方程式之解。則對於所有方程式都存在商數$r_{i}, r'_{i}$使得
 $$
-x_{1} = r_{i}\cdot m_{i} + a_{i} \land x_{2} = r'_{i} \cdot m_{i} + a_{i}
+x_{1} = r_{i}\cdot m_{i} + a_{i} \ \ \  \text{and}\ \ \ x_{2} = r'_{i} \cdot m_{i} + a_{i}
 $$
 兩數相減得${x_{1} - x_{2} = (r_{i} - r'_{i})\cdot m_{i}}$，則${m_{i} | (x_{1} - x_{2})}$，即
 $$
@@ -242,6 +253,8 @@ $$
 $$
 \text{gcd}(M_{i}, m_{i}) = 1.
 $$
+> $M_{i}$與$m_{i}$互質
+
 則依模反元素的定義，存在$y_{i}$使得
 $$
 M_{i} \cdot y_{i} \equiv 1 \,( \text{mod } m_{i} ) ,
